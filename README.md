@@ -1,4 +1,5 @@
 # BIM Data Automation & Prediction Dashboard
+[![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-brightgreen)](https://bim-data-automation-prediction-dashboard-n3aigopm9ety5fydvfxm2.streamlit.app/)
 
 Automated IFC-like data extraction, validation, clash simulation, anomaly detection, quantity takeoff and predictive analytics for construction & interiors projects.
 
