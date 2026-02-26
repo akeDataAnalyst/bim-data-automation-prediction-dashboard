@@ -1,0 +1,951 @@
+﻿GlobalId,Name,ElementType,PredefinedType,Material,Length_mm,Area_m2,Volume_m3,UnitQuantity,Count,UnitCost_ETB,TotalCost_ETB,InstallationDate,LastUpdated,RoomName,Level,ClashStatus,ValidationFlags,SimulatedClash,CostQuantityAnomaly,CostPerUnit,IsHighValue
+2$13356886$5506,Covering 251,IfcCovering,STANDARD,Brick Masonry,,,,set,95,9374.31,890559.45,2020-12-22,2024-09-24,Living Room,Level 0,No Clash,,No Clash,Normal,9374.31,False
+2$77827638$1434,DoorStandardCase 575,IfcDoorStandardCase,STANDARD,Porcelain Tile,,,,set,70,4106.21,287434.7,2024-09-14,2022-06-21,,Level 9,Major Clash,DateLogicError;,No Clash,Normal,4106.21,False
+2$31429110$7924,Furniture 349,IfcFurniture,USERDEFINED,Concrete C25/30,,,,m,56,11407.14,638799.84,2023-10-10,2021-02-22,Bedroom,Level 6,No Clash,DateLogicError;,Potential Clash (same type/material in room),Normal,11407.14,False
+2$91030736$5333,WindowStandardCase 827,IfcWindowStandardCase,STANDARD,Wood - Teak,,,,set,59,35594.23,2100059.57,2021-05-26,2024-03-30,Bedroom,Level 8,Major Clash,,No Clash,Normal,35594.229999999996,True
+2$87490893$4150,Space 722,IfcSpace,STANDARD,Wood - Teak,,,,m²,85,3624.97,308122.45,2022-07-22,2023-03-31,Bedroom,Level 3,No Clash,,Potential Clash (same type/material in room),Normal,3624.9700000000003,False
+2$70855700$6977,Slab 167,IfcSlab,USERDEFINED,Marble Slab,,21.64,,set,120,3625.04,435004.8,2020-10-19,2021-12-01,,Level 2,,,No Clash,Normal,3625.04,False
+2$95899313$4598,Slab 702,IfcSlab,USERDEFINED,Marble Slab,,,,m,106,38291.25,4058872.5,2020-05-11,2023-07-16,,Level 4,No Clash,,No Clash,Anomaly,38291.25,True
+2$52235350$4483,DoorStandardCase 672,IfcDoorStandardCase,USERDEFINED,Epoxy Coating,,,,m³,59,13328.57,786385.63,2021-08-08,2022-12-20,Kitchen,Level 3,Major Clash,,No Clash,Normal,13328.57,False
+2$67503414$7543,Railing 371,IfcRailing,STANDARD,Epoxy Coating,,,,m,66,2669.6,176193.6,2025-07-14,2021-01-07,Living Room,Level 1,Minor Clash,DateLogicError;,No Clash,Normal,2669.6,False
+2$66661351$2040,Covering 395,IfcCovering,USERDEFINED,Gypsum Board,,35.96,,kg,33,9950.0,328350.0,2020-02-17,2021-04-14,,Level 5,No Clash,,No Clash,Normal,9950.0,False
+2$31227574$8433,Window 004,IfcWindow,,Aluminum,,,,set,34,2690.7,91483.8,2025-08-12,2022-01-01,Bedroom,Level 4,Minor Clash,DateLogicError;,Potential Clash (same type/material in room),Normal,2690.7000000000003,False
+2$31682744$9837,Door 977,IfcDoor,,Wood - Teak,,,,m²,77,2682.63,206562.51,2023-08-20,2025-06-24,Living Room,Level 1,Major Clash,,No Clash,Normal,2682.63,False
+2$42138745$1949,BuildingStorey 247,IfcBuildingStorey,,Granite Slab,,,,m²,11,6731.48,74046.28,2025-06-13,2020-10-10,Kitchen,Level 2,,DateLogicError;,Potential Clash (same type/material in room),Normal,6731.48,False
+2$45575298$9645,Column 894,IfcColumn,,Gypsum Board,,,,set,40,408.6,16344.0,2024-06-22,2024-03-09,,Level 8,,DateLogicError;,No Clash,Normal,408.6,False
+2$40158366$2049,WallStandardCase 347,IfcWallStandardCase,STANDARD,Porcelain Tile,,,,m,9,521.97,4697.73,2020-05-08,2023-09-15,Bedroom,Level 8,Minor Clash,,No Clash,Normal,521.9699999999999,False
+2$38754377$9834,Window 136,IfcWindow,,Glass - Tinted 8mm,,,,kg,74,2366.17,175096.58,2025-04-20,2022-09-22,,Level 6,Minor Clash,DateLogicError;,No Clash,Normal,2366.1699999999996,False
+2$98447167$8062,WallStandardCase 363,IfcWallStandardCase,USERDEFINED,Brick Masonry,,,1.609,no,111,1317.27,146216.97,2021-03-23,2022-10-15,,Level 3,,,No Clash,Normal,1317.27,False
+2$34627347$5563,Door 474,IfcDoor,STANDARD,Aluminum,,,,no,10,7394.72,73947.2,2024-12-20,2021-02-05,,Level 8,No Clash,DateLogicError;,No Clash,Normal,7394.719999999999,False
+2$32321899$7658,WallStandardCase 498,IfcWallStandardCase,USERDEFINED,Porcelain Tile,1968.0,,9.536,pcs,119,1509.55,179636.45,2025-02-06,2023-03-14,Lobby,Level 8,,DateLogicError;,Potential Clash (same type/material in room),Normal,1509.5500000000002,False
+2$49823450$4566,Door 992,IfcDoor,STANDARD,Ceramic Tile,,,,kg,70,783.68,54857.6,2020-09-06,2023-07-08,,Level 0,,,No Clash,Normal,783.68,False
+2$31130263$1931,Column 984,IfcColumn,,Paint - Emulsion White,,,,set,111,33035.68,3666960.48,2022-08-21,2024-07-11,Bedroom,Level 9,Minor Clash,,No Clash,Anomaly,33035.68,True
+2$93131979$2343,Roof 430,IfcRoof,,Concrete C30/37,,,,pcs,27,3664.66,98945.82,2023-07-10,2022-09-04,Office,Level 6,Minor Clash,DateLogicError;,No Clash,Normal,3664.6600000000003,False
+2$71367643$6180,Covering 952,IfcCovering,STANDARD,Granite Slab,,,,m²,69,5365.72,370234.68,2022-05-23,2025-09-03,Office,Level 2,Major Clash,,No Clash,Normal,5365.72,False
+2$42787299$7054,BuildingStorey 292,IfcBuildingStorey,STANDARD,Reinforced Concrete,,,,m³,107,771.11,82508.77,2023-05-24,2025-12-06,Living Room,Level 8,,,Potential Clash (same type/material in room),Normal,771.11,False
+2$28024248$5333,BuildingStorey 119,IfcBuildingStorey,STANDARD,Brick Masonry,,,,set,71,2421.89,171954.19,2021-09-28,2023-01-20,Office,Level 9,Minor Clash,,No Clash,Normal,2421.89,False
+2$37326368$5325,Railing 518,IfcRailing,USERDEFINED,Wood - Oak,,,,pcs,116,5677.12,658545.92,2020-07-27,2021-01-13,Lobby,Level 4,No Clash,,No Clash,Normal,5677.120000000001,False
+2$27558317$5291,Wall 166,IfcWall,,Wood - Oak,3427.7,,,kg,5,1100.71,5503.55,2024-02-21,2021-08-29,Lobby,Level 2,No Clash,DateLogicError;,No Clash,Normal,1100.71,False
+2$15354599$6862,Window 216,IfcWindow,,Wood - Teak,,,,m,14,8009.69,112135.66,2023-12-19,2024-07-22,,Level 3,Minor Clash,,No Clash,Normal,8009.6900000000005,False
+2$65337219$1406,Furniture 184,IfcFurniture,,Gypsum Board,,,,pcs,106,2251.09,238615.54,2022-10-13,2022-12-28,Kitchen,Level 1,,,Potential Clash (same type/material in room),Normal,2251.09,False
+2$73174945$4644,Space 205,IfcSpace,USERDEFINED,Concrete C30/37,,,,pcs,40,3363.7,134548.0,2022-07-21,2022-07-02,Living Room,Level 3,,DateLogicError;,Potential Clash (same type/material in room),Normal,3363.7,False
+2$19317495$5573,WindowStandardCase 360,IfcWindowStandardCase,,Marble Slab,,,,kg,52,2247.97,116894.44,2023-09-18,2020-04-23,Bedroom,Level 4,Minor Clash,DateLogicError;,No Clash,Normal,2247.9700000000003,False
+2$15134794$2776,Roof 611,IfcRoof,USERDEFINED,Marble Slab,,21.07,,m³,78,54609.42,4259534.76,2025-09-25,2021-04-18,Lobby,Level 9,Minor Clash,DateLogicError;,No Clash,Anomaly,54609.42,True
+2$68526649$1027,Window 533,IfcWindow,,Concrete C30/37,,,,set,26,4829.28,125561.28,2024-01-31,2024-11-01,,Level 5,Major Clash,,No Clash,Normal,4829.28,False
+2$50308572$9308,Covering 317,IfcCovering,,Brick Masonry,,24.8,,set,38,1242.62,47219.56,2021-06-05,2022-02-24,,Level 6,Minor Clash,,No Clash,Normal,1242.62,False
+2$50392808$7653,Roof 562,IfcRoof,STANDARD,Epoxy Coating,,,,m³,101,14318.51,1446169.51,2023-08-12,2025-03-19,,Level 7,Minor Clash,,No Clash,Normal,14318.51,False
+2$32775593$2389,Column 291,IfcColumn,,Glass - Tinted 8mm,,,,set,40,1005.16,40206.4,2022-07-09,2022-03-26,Kitchen,Level 0,,DateLogicError;,No Clash,Normal,1005.1600000000001,False
+2$92043803$2193,DoorStandardCase 467,IfcDoorStandardCase,USERDEFINED,Glass - Tinted 8mm,,,,set,74,6447.98,477150.52,2022-03-07,2024-04-21,,Level 6,Minor Clash,,No Clash,Normal,6447.9800000000005,False
+2$24305904$7965,Door 225,IfcDoor,STANDARD,Concrete C25/30,,,,no,67,384.69,25774.23,2025-03-17,2020-07-24,Bathroom,Level 1,,DateLogicError;,No Clash,Normal,384.69,False
+2$99600766$9702,Door 573,IfcDoor,,Glass - Clear 6mm,,,,pcs,57,874.24,49831.68,2025-08-29,2024-10-13,,Level 2,,DateLogicError;,No Clash,Normal,874.24,False
+2$43183955$5543,Beam 785,IfcBeam,,Marble Slab,,,,set,37,6348.16,234881.92,2022-08-18,2023-01-17,Corridor,Level 5,,,Potential Clash (same type/material in room),Normal,6348.160000000001,False
+2$41039390$7275,Door 711,IfcDoor,STANDARD,AAC Block,,,,set,28,12835.97,359407.16,2020-09-20,2024-08-26,Lobby,Level 5,,,Potential Clash (same type/material in room),Normal,12835.97,False
+2$37760841$7883,Slab 399,IfcSlab,,Concrete C30/37,,,,no,113,6141.22,693957.86,2024-04-07,2025-05-07,Living Room,Level 5,Major Clash,,No Clash,Normal,6141.22,False
+2$66240084$9818,Furniture 766,IfcFurniture,,Steel - Galvanized,,,,kg,155,4228.73,655453.15,2022-06-22,2025-06-22,Bathroom,Level 4,,,No Clash,Anomaly,4228.7300000000005,False
+2$62191530$6507,Beam 685,IfcBeam,,Concrete C25/30,,,,kg,69,3322.81,229273.89,2020-04-20,2024-06-01,Living Room,Level 1,,,No Clash,Normal,3322.8100000000004,False
+2$34391257$1823,Door 267,IfcDoor,USERDEFINED,Glass - Clear 6mm,,,,pcs,28,719.04,20133.12,2025-02-05,2023-08-31,Corridor,Level 6,Major Clash,DateLogicError;,No Clash,Normal,719.04,False
+2$43859311$2341,Furniture 482,IfcFurniture,STANDARD,Aluminum,,,,set,139,1927.93,267982.27,2020-08-01,2023-12-04,Bathroom,Level 1,No Clash,,No Clash,Normal,1927.93,False
+2$43189803$4266,Furniture 860,IfcFurniture,STANDARD,Concrete C25/30,,,,kg,40,2700.44,108017.6,2022-09-04,2021-06-01,,Level 1,Minor Clash,DateLogicError;,No Clash,Normal,2700.44,False
+2$59512272$3749,Beam 621,IfcBeam,,Marble Slab,,,,pcs,14,19423.89,271934.46,2020-04-15,2023-07-01,Lobby,Level 6,Minor Clash,,No Clash,Normal,19423.890000000003,False
+2$94187049$4978,WallStandardCase 105,IfcWallStandardCase,,Epoxy Coating,,,8.745,set,48,7682.53,368761.44,2020-10-09,2025-09-03,Corridor,Level 0,,,No Clash,Normal,7682.53,False
+2$24165187$8102,Space 984,IfcSpace,USERDEFINED,Glass - Tinted 8mm,,,,set,115,496.73,57123.95,2025-02-26,2021-09-18,,Level 2,Major Clash,DateLogicError;,No Clash,Normal,496.72999999999996,False
+2$74893936$8616,Roof 447,IfcRoof,,Paint - Acrylic Grey,,35.75,,no,32,7489.89,239676.48,2020-12-20,2023-02-16,,Level 3,,,No Clash,Normal,7489.89,False
+2$55150390$1470,Roof 507,IfcRoof,USERDEFINED,Steel - Galvanized,,,,pcs,103,2979.15,306852.45,2022-11-24,2023-10-26,Office,Level 9,,,No Clash,Normal,2979.15,False
+2$79340535$4130,Column 088,IfcColumn,STANDARD,Concrete C25/30,5208.5,,,set,61,2038.56,124352.16,2025-07-03,2025-01-09,Living Room,Level 1,Major Clash,DateLogicError;,No Clash,Normal,2038.56,False
+2$42655866$6016,DoorStandardCase 680,IfcDoorStandardCase,,Steel - Galvanized,,,,pcs,61,10885.42,664010.62,2025-12-14,2023-11-09,Lobby,Level 8,Major Clash,DateLogicError;,No Clash,Normal,10885.42,False
+2$46361787$6023,WindowStandardCase 258,IfcWindowStandardCase,STANDARD,Glass - Clear 6mm,,,,m²,25,18775.34,469383.5,2023-07-16,2021-05-04,Kitchen,Level 3,Minor Clash,DateLogicError;,No Clash,Normal,18775.34,False
+2$47111151$9595,Railing 612,IfcRailing,USERDEFINED,Glass - Tinted 8mm,,,,m²,107,16492.55,1764702.85,2022-03-06,2023-04-28,,Level 5,Minor Clash,,No Clash,Normal,16492.55,True
+2$81690398$3073,Window 281,IfcWindow,STANDARD,Concrete C25/30,,,,m²,71,1650.8,117206.8,2023-04-11,2021-06-01,,Level 1,No Clash,DateLogicError;,No Clash,Normal,1650.8,False
+2$73001391$8843,Roof 452,IfcRoof,USERDEFINED,Granite Slab,,,,pcs,111,3287.96,364963.56,2025-05-10,2021-04-12,Bedroom,Level 6,,DateLogicError;,No Clash,Normal,3287.96,False
+2$94482772$1878,WallStandardCase 156,IfcWallStandardCase,STANDARD,Epoxy Coating,,,3.049,kg,77,7560.12,582129.24,2022-07-13,2025-11-10,Lobby,Level 7,,,No Clash,Normal,7560.12,False
+2$67556566$6003,Window 583,IfcWindow,,Epoxy Coating,,,,m²,79,17469.45,1380086.55,2021-02-10,2022-05-01,Bathroom,Level 4,,,No Clash,Normal,17469.45,False
+2$33328859$2229,Door 161,IfcDoor,STANDARD,Porcelain Tile,,,,m³,58,2636.15,152896.7,2025-04-08,2023-04-07,Living Room,Level 3,,DateLogicError;,No Clash,Normal,2636.15,False
+2$70939053$2166,Railing 704,IfcRailing,STANDARD,Granite Slab,,,,pcs,101,3860.85,389945.85,2022-03-21,2024-10-07,,Level 8,,,No Clash,Normal,3860.85,False
+2$45652586$3330,Covering 074,IfcCovering,STANDARD,AAC Block,,10.37,,kg,96,1166.5,111984.0,2023-03-28,2024-12-03,,Level 7,Major Clash,,No Clash,Normal,1166.5,False
+2$46540265$9199,Railing 553,IfcRailing,USERDEFINED,Steel - Galvanized,,,,m³,11,1037.88,11416.68,2020-06-12,2024-11-04,Corridor,Level 9,,,No Clash,Normal,1037.88,False
+2$40725714$1339,Wall 784,IfcWall,,Reinforced Concrete,,,11.815,pcs,24,14133.22,339197.28,2024-11-20,2025-07-07,Bedroom,Level 7,,,No Clash,Normal,14133.220000000001,False
+2$53091709$2713,Slab 879,IfcSlab,STANDARD,Wood - Oak,,20.12,,pcs,85,28655.83,2435745.55,2024-06-28,2020-05-30,,Level 1,Major Clash,DateLogicError;,No Clash,Normal,28655.829999999998,True
+2$25558733$7622,Window 886,IfcWindow,,Wood - Oak,,,,no,1,4475.56,4475.56,2025-03-07,2024-08-19,,Level 3,Major Clash,DateLogicError;,No Clash,Normal,4475.56,False
+2$93940940$8242,Roof 779,IfcRoof,STANDARD,Glass - Tinted 8mm,,,,pcs,57,18116.76,1032655.32,2025-06-08,2021-05-12,Living Room,Level 9,Minor Clash,DateLogicError;,No Clash,Normal,18116.76,False
+2$51708177$1224,Railing 566,IfcRailing,USERDEFINED,Gypsum Board,,,,m²,29,7864.6,228073.4,2021-04-09,2025-03-05,Bedroom,Level 2,,,Potential Clash (same type/material in room),Normal,7864.599999999999,False
+2$78299645$5479,BuildingStorey 426,IfcBuildingStorey,USERDEFINED,Granite Slab,,,,m³,32,2124.61,67987.52,2025-02-13,2021-08-15,Lobby,Level 3,,DateLogicError;,No Clash,Normal,2124.61,False
+2$47077298$7798,Space 349,IfcSpace,,Reinforced Concrete,,,,pcs,106,7862.14,833386.84,2020-01-11,2023-03-04,,Level 9,,,No Clash,Normal,7862.139999999999,False
+2$69934576$9824,Space 496,IfcSpace,USERDEFINED,AAC Block,,,,pcs,71,36295.45,2576976.95,2024-03-25,2025-02-08,,Level 3,Minor Clash,,No Clash,Normal,36295.450000000004,True
+2$41348220$7730,Roof 045,IfcRoof,USERDEFINED,Steel - Galvanized,,44.81,,m³,85,4691.12,398745.2,2021-09-15,2025-07-21,Living Room,Level 2,Major Clash,,No Clash,Normal,4691.12,False
+2$69096899$2633,Space 539,IfcSpace,USERDEFINED,Brick Masonry,,,,m²,93,37572.84,3494274.12,2021-08-13,2024-08-06,Kitchen,Level 1,,,No Clash,Anomaly,37572.840000000004,True
+2$55440919$7512,Furniture 666,IfcFurniture,STANDARD,Marble Slab,,,,no,85,163.09,13862.65,2025-12-25,2024-04-05,Corridor,Level 7,No Clash,DateLogicError;,No Clash,Normal,163.09,False
+2$41510328$5708,Roof 233,IfcRoof,,Reinforced Concrete,,,,no,82,14306.56,1173137.92,2021-02-15,2024-12-22,,Level 4,,,No Clash,Normal,14306.56,False
+2$17532195$5806,Wall 368,IfcWall,USERDEFINED,Wood - Oak,,,,kg,112,5503.62,616405.44,2024-04-15,2022-09-13,,Level 9,Minor Clash,DateLogicError;,No Clash,Normal,5503.62,False
+2$95618110$5161,DoorStandardCase 471,IfcDoorStandardCase,USERDEFINED,Glass - Clear 6mm,,,,set,2,3331.87,6663.74,2025-03-20,2023-03-24,Kitchen,Level 1,,DateLogicError;,No Clash,Normal,3331.87,False
+2$50151803$7951,WindowStandardCase 707,IfcWindowStandardCase,USERDEFINED,Epoxy Coating,,,,m³,39,5537.45,215960.55,2022-03-26,2024-04-24,,Level 1,Minor Clash,,No Clash,Normal,5537.45,False
+2$58178682$5847,Slab 717,IfcSlab,USERDEFINED,Epoxy Coating,,1.81,,pcs,2,370.98,741.96,2020-07-19,2025-07-27,Office,Level 3,Major Clash,,No Clash,Normal,370.98,False
+2$93334601$5106,DoorStandardCase 695,IfcDoorStandardCase,,Ceramic Tile,,,,no,18,3693.86,66489.48,2021-02-01,2020-06-10,Office,Level 7,No Clash,DateLogicError;,No Clash,Normal,3693.8599999999997,False
+2$27637794$2476,Roof 932,IfcRoof,USERDEFINED,Wood - Teak,,19.94,,m,26,7818.49,203280.74,2021-06-25,2024-02-07,,Level 2,Major Clash,,No Clash,Normal,7818.49,False
+2$49613214$6549,BuildingStorey 824,IfcBuildingStorey,STANDARD,Glass - Tinted 8mm,,,,m³,10,33565.78,335657.8,2021-07-30,2022-07-13,Lobby,Level 8,Major Clash,,No Clash,Normal,33565.78,False
+2$11868130$5332,WallStandardCase 550,IfcWallStandardCase,STANDARD,Steel - Galvanized,3510.6,35.28,,m³,4,2505.51,10022.04,2023-09-05,2022-06-25,Bedroom,Level 7,Major Clash,DateLogicError;,No Clash,Normal,2505.51,False
+2$25659979$3290,Covering 047,IfcCovering,STANDARD,Aluminum,,18.61,,m²,13,1718.07,22334.91,2022-08-19,2021-07-09,Lobby,Level 7,Major Clash,DateLogicError;,No Clash,Normal,1718.07,False
+2$66254240$3531,Covering 907,IfcCovering,USERDEFINED,Paint - Acrylic Grey,,39.47,,kg,53,2559.88,135673.64,2023-02-19,2020-05-14,Corridor,Level 3,,DateLogicError;,No Clash,Normal,2559.88,False
+2$58678896$2627,Beam 703,IfcBeam,USERDEFINED,Porcelain Tile,4084.6,,1.608,m,16,16155.61,258489.76,2025-02-05,2021-01-10,Bathroom,Level 9,No Clash,DateLogicError;,No Clash,Normal,16155.61,False
+2$42691263$3063,Wall 806,IfcWall,,Wood - Oak,,,,no,116,7535.47,874114.52,2020-01-12,2023-02-09,,Level 2,Major Clash,,No Clash,Normal,7535.47,False
+2$24754064$1422,Furniture 135,IfcFurniture,STANDARD,Gypsum Board,,,,pcs,61,2468.37,150570.57,2023-08-19,2020-03-05,Kitchen,Level 4,No Clash,DateLogicError;,Potential Clash (same type/material in room),Normal,2468.37,False
+2$80610004$2862,Door 764,IfcDoor,STANDARD,Aluminum,,,,m³,58,9578.23,555537.34,2024-01-22,2025-10-03,,Level 7,Minor Clash,,No Clash,Normal,9578.23,False
+2$98436473$9543,Roof 309,IfcRoof,USERDEFINED,Concrete C30/37,,,,m²,62,5575.85,345702.7,2024-07-03,2024-10-12,Bedroom,Level 7,,,Potential Clash (same type/material in room),Normal,5575.85,False
+2$53233116$3430,WallStandardCase 068,IfcWallStandardCase,STANDARD,Reinforced Concrete,2360.1,23.16,11.398,m²,102,17313.44,1765970.88,2021-04-13,2022-05-30,Lobby,Level 7,Minor Clash,,Potential Clash (same type/material in room),Normal,17313.44,True
+2$70867592$7532,Slab 426,IfcSlab,,Wood - Oak,,6.16,,pcs,86,1973.04,169681.44,2022-11-10,2024-03-13,Kitchen,Level 7,,,Potential Clash (same type/material in room),Normal,1973.04,False
+2$22513132$8075,WallStandardCase 099,IfcWallStandardCase,,Reinforced Concrete,,33.6,,pcs,112,3210.04,359524.48,2024-09-28,2020-07-29,Office,Level 9,Major Clash,DateLogicError;,No Clash,Normal,3210.04,False
+2$87566910$9313,WindowStandardCase 218,IfcWindowStandardCase,STANDARD,Brick Masonry,,,,set,62,2952.06,183027.72,2022-07-07,2021-03-19,Corridor,Level 8,Major Clash,DateLogicError;,No Clash,Normal,2952.06,False
+2$87054398$4705,WallStandardCase 827,IfcWallStandardCase,USERDEFINED,Marble Slab,,36.74,0.821,set,98,733.21,71854.58,2023-06-19,2023-10-23,Corridor,Level 0,Minor Clash,,No Clash,Normal,733.21,False
+2$86010330$7566,Space 072,IfcSpace,STANDARD,AAC Block,,,,set,82,7222.5,592245.0,2020-05-05,2021-01-10,Bathroom,Level 6,,,No Clash,Normal,7222.5,False
+2$31127115$7062,Beam 320,IfcBeam,,Wood - Oak,,,,m,97,6900.66,669364.02,2020-07-22,2020-11-30,Office,Level 7,,,Potential Clash (same type/material in room),Normal,6900.66,False
+2$65590800$5475,Beam 221,IfcBeam,,Glass - Clear 6mm,1328.4,,,kg,86,4947.55,425489.3,2023-06-17,2020-07-05,Bathroom,Level 6,No Clash,DateLogicError;,No Clash,Normal,4947.55,False
+2$50455821$4460,Wall 786,IfcWall,STANDARD,Ceramic Tile,5490.6,,12.485,m,17,3622.92,61589.64,2024-04-06,2025-12-21,Bathroom,Level 8,Major Clash,,No Clash,Normal,3622.92,False
+2$15677713$8147,WallStandardCase 020,IfcWallStandardCase,USERDEFINED,Steel - Galvanized,6495.4,34.76,17.767,pcs,15,780.57,11708.55,2024-07-17,2020-03-26,Corridor,Level 2,,DateLogicError;,No Clash,Normal,780.5699999999999,False
+2$21828592$8155,Space 865,IfcSpace,STANDARD,Wood - Teak,,,,m,56,2844.55,159294.8,2024-06-28,2025-11-16,Bedroom,Level 6,Major Clash,,Potential Clash (same type/material in room),Normal,2844.5499999999997,False
+2$39738898$6456,Railing 798,IfcRailing,STANDARD,Wood - Oak,,,,m²,66,3147.84,207757.44,2021-04-12,2025-12-13,Bathroom,Level 5,,,No Clash,Normal,3147.84,False
+2$41711468$2684,Railing 150,IfcRailing,USERDEFINED,AAC Block,,,,m,23,1732.01,39836.23,2021-09-18,2020-11-04,Kitchen,Level 7,,DateLogicError;,No Clash,Normal,1732.0100000000002,False
+2$87774890$8354,Furniture 698,IfcFurniture,,Epoxy Coating,,,,set,163,3985.14,649577.82,2023-08-16,2023-07-18,,Level 7,No Clash,DateLogicError;,No Clash,Anomaly,3985.14,False
+2$94743076$5961,Beam 816,IfcBeam,USERDEFINED,Glass - Clear 6mm,4385.1,,12.733,m³,58,8310.43,482004.94,2020-06-03,2020-08-21,Corridor,Level 4,No Clash,,No Clash,Normal,8310.43,False
+2$92545028$9307,Covering 394,IfcCovering,USERDEFINED,Reinforced Concrete,,,,m³,117,57070.45,6677242.65,2022-02-10,2023-08-09,,Level 8,Minor Clash,,No Clash,Anomaly,57070.450000000004,True
+2$23891786$6626,Wall 732,IfcWall,STANDARD,Glass - Clear 6mm,,2.83,,pcs,48,6166.9,296011.2,2023-03-04,2024-05-05,Lobby,Level 5,,,Potential Clash (same type/material in room),Normal,6166.900000000001,False
+2$18846539$6401,Furniture 097,IfcFurniture,,Wood - Oak,,,,set,99,6869.29,680059.71,2023-03-09,2022-10-29,Kitchen,Level 5,No Clash,DateLogicError;,No Clash,Normal,6869.29,False
+2$56952151$6082,Roof 991,IfcRoof,,AAC Block,,42.06,,m,77,4461.41,343528.57,2020-12-13,2023-06-22,Lobby,Level 5,Minor Clash,,No Clash,Normal,4461.41,False
+2$22543044$7937,Covering 521,IfcCovering,USERDEFINED,Paint - Emulsion White,,1.58,,m,28,405.69,11359.32,2023-10-31,2025-06-14,Bathroom,Level 3,Minor Clash,,No Clash,Normal,405.69,False
+2$49700543$2657,Door 520,IfcDoor,,Reinforced Concrete,,,,no,68,4748.25,322881.0,2020-06-03,2023-10-11,Kitchen,Level 9,,,Potential Clash (same type/material in room),Normal,4748.25,False
+2$34272734$3712,Door 739,IfcDoor,USERDEFINED,Gypsum Board,,,,m²,53,5315.06,281698.18,2024-02-01,2022-08-30,,Level 9,Major Clash,DateLogicError;,No Clash,Normal,5315.0599999999995,False
+2$41407343$9749,Furniture 245,IfcFurniture,USERDEFINED,Glass - Clear 6mm,,,,no,121,120839.05,14621525.05,2022-03-05,2024-02-15,,Level 7,Major Clash,,No Clash,Anomaly,120839.05,True
+2$77498993$9641,Furniture 429,IfcFurniture,STANDARD,Steel - Galvanized,,,,no,52,3827.36,199022.72,2021-07-20,2022-10-21,Living Room,Level 7,Major Clash,,No Clash,Normal,3827.36,False
+2$79244185$3042,Column 292,IfcColumn,STANDARD,Brick Masonry,5483.9,,,no,56,7273.64,407323.84,2021-01-10,2022-06-28,,Level 5,No Clash,,No Clash,Normal,7273.64,False
+2$63211150$9224,Slab 383,IfcSlab,STANDARD,Concrete C30/37,,,,pcs,29,4697.92,136239.68,2020-04-25,2023-07-29,,Level 5,Minor Clash,,No Clash,Normal,4697.92,False
+2$48504300$8740,Door 713,IfcDoor,STANDARD,Concrete C30/37,,,,no,61,1075.69,65617.09,2025-01-11,2020-01-22,Bedroom,Level 0,Major Clash,DateLogicError;,No Clash,Normal,1075.69,False
+2$83659258$9647,DoorStandardCase 434,IfcDoorStandardCase,STANDARD,AAC Block,,,,no,37,21713.07,803383.59,2022-08-31,2023-05-18,Bedroom,Level 0,Minor Clash,,No Clash,Normal,21713.07,False
+2$18429833$2816,Slab 857,IfcSlab,USERDEFINED,Glass - Clear 6mm,,,,set,66,13062.66,862135.56,2022-09-17,2021-08-11,Office,Level 6,,DateLogicError;,No Clash,Normal,13062.660000000002,False
+2$42287985$7825,Roof 192,IfcRoof,,Wood - Teak,,40.26,,m²,68,13743.78,934577.04,2025-09-09,2025-09-10,Living Room,Level 6,,,Potential Clash (same type/material in room),Normal,13743.78,False
+2$60103798$5155,Wall 766,IfcWall,STANDARD,Steel - Galvanized,,,,m,6,1506.88,9041.28,2023-12-14,2023-10-18,Kitchen,Level 7,,DateLogicError;,No Clash,Normal,1506.88,False
+2$28099607$2033,Covering 734,IfcCovering,USERDEFINED,Gypsum Board,,,,m²,102,30443.65,3105252.3,2022-03-28,2020-06-20,,Level 4,,DateLogicError;,No Clash,Anomaly,30443.649999999998,True
+2$73538641$5150,Space 038,IfcSpace,,Paint - Acrylic Grey,,,,m,37,794.41,29393.17,2024-01-02,2020-07-14,Corridor,Level 4,No Clash,DateLogicError;,No Clash,Normal,794.41,False
+2$68646621$7553,Furniture 762,IfcFurniture,USERDEFINED,Wood - Teak,,,,m³,87,10539.8,916962.6,2022-02-04,2025-07-25,,Level 5,Major Clash,,No Clash,Normal,10539.8,False
+2$66975380$2293,Furniture 441,IfcFurniture,,Reinforced Concrete,,,,no,47,84761.13,3983773.11,2023-04-18,2023-08-08,Bedroom,Level 1,Major Clash,,No Clash,Anomaly,84761.12999999999,True
+2$51137177$8305,Covering 618,IfcCovering,,Granite Slab,,,,pcs,58,1356.01,78648.58,2020-06-22,2023-12-15,Lobby,Level 4,No Clash,,No Clash,Normal,1356.01,False
+2$58762794$9406,WallStandardCase 821,IfcWallStandardCase,,Steel - Galvanized,,9.0,,m,100,2353.86,235386.0,2024-02-09,2024-01-23,Lobby,Level 9,No Clash,DateLogicError;,No Clash,Normal,2353.86,False
+2$70387584$7077,Roof 381,IfcRoof,USERDEFINED,AAC Block,,,,kg,47,5594.54,262943.38,2024-06-18,2023-07-11,,Level 3,No Clash,DateLogicError;,No Clash,Normal,5594.54,False
+2$76980546$9482,Wall 397,IfcWall,,Gypsum Board,1353.7,,24.909,set,118,2554.17,301392.06,2025-07-04,2022-03-30,,Level 2,No Clash,DateLogicError;,No Clash,Normal,2554.17,False
+2$69741812$2438,Beam 830,IfcBeam,,Gypsum Board,6792.4,,,kg,70,654.67,45826.9,2023-04-04,2023-05-13,,Level 2,Major Clash,,No Clash,Normal,654.6700000000001,False
+2$26288992$4292,Column 812,IfcColumn,STANDARD,Porcelain Tile,2115.1,,0.754,m³,103,5372.95,553413.85,2021-06-15,2020-12-19,Bedroom,Level 4,,DateLogicError;,No Clash,Normal,5372.95,False
+2$80557676$7730,Railing 788,IfcRailing,USERDEFINED,Glass - Tinted 8mm,,,,no,74,1235.22,91406.28,2020-10-29,2021-05-28,Corridor,Level 1,,,No Clash,Normal,1235.22,False
+2$56239991$3102,Beam 900,IfcBeam,,Paint - Emulsion White,,,,m³,65,9096.73,591287.45,2020-08-14,2021-05-23,Kitchen,Level 4,Minor Clash,,Potential Clash (same type/material in room),Normal,9096.73,False
+2$40262109$6669,Door 971,IfcDoor,,Wood - Oak,,,,pcs,11,1487.35,16360.85,2022-10-23,2022-03-15,Office,Level 2,,DateLogicError;,No Clash,Normal,1487.3500000000001,False
+2$22539748$9234,Roof 657,IfcRoof,STANDARD,Paint - Acrylic Grey,,,,m,85,36861.2,3133202.0,2023-10-14,2020-06-17,Living Room,Level 1,No Clash,DateLogicError;,No Clash,Normal,36861.2,True
+2$45521514$4453,Covering 786,IfcCovering,,Epoxy Coating,,,,m³,114,1775.38,202393.32,2023-04-01,2023-05-22,,Level 3,,,No Clash,Normal,1775.38,False
+2$19794273$1981,Window 162,IfcWindow,USERDEFINED,Glass - Clear 6mm,,,,m³,62,3233.5,200477.0,2025-03-17,2022-04-15,Corridor,Level 9,,DateLogicError;,Potential Clash (same type/material in room),Normal,3233.5,False
+2$56354851$7532,WindowStandardCase 134,IfcWindowStandardCase,USERDEFINED,Wood - Oak,,,,kg,72,14151.45,1018904.4,2021-03-10,2023-07-31,Bathroom,Level 7,No Clash,,Potential Clash (same type/material in room),Normal,14151.45,False
+2$43275109$3308,Window 100,IfcWindow,STANDARD,Glass - Clear 6mm,,,,pcs,50,992.15,49607.5,2024-09-08,2022-10-13,Kitchen,Level 5,Major Clash,DateLogicError;,No Clash,Normal,992.15,False
+2$76876068$9433,DoorStandardCase 479,IfcDoorStandardCase,USERDEFINED,Gypsum Board,,,,pcs,64,6605.76,422768.64,2020-04-04,2021-01-03,Lobby,Level 8,,,No Clash,Normal,6605.76,False
+2$88295121$6781,DoorStandardCase 050,IfcDoorStandardCase,STANDARD,Ceramic Tile,,,,pcs,64,26883.97,1720574.08,2025-04-11,2023-03-16,Living Room,Level 1,,DateLogicError;,Potential Clash (same type/material in room),Normal,26883.97,True
+2$59093843$7606,Door 375,IfcDoor,STANDARD,Marble Slab,,,,m³,7,608.06,4256.42,2022-03-08,2024-01-24,Office,Level 1,,,No Clash,Normal,608.0600000000001,False
+2$83800569$5582,Column 846,IfcColumn,,Glass - Clear 6mm,,,,m³,48,6248.05,299906.4,2023-10-20,2024-02-06,Kitchen,Level 3,,,No Clash,Normal,6248.05,False
+2$16080513$1637,Column 141,IfcColumn,,Concrete C30/37,2731.5,,,kg,115,6890.15,792367.25,2025-10-12,2021-07-26,Corridor,Level 9,Major Clash,DateLogicError;,No Clash,Normal,6890.15,False
+2$92745294$5902,Door 608,IfcDoor,USERDEFINED,Steel - Galvanized,,,,kg,66,13580.22,896294.52,2025-12-20,2025-06-29,Office,Level 7,No Clash,DateLogicError;,Potential Clash (same type/material in room),Normal,13580.220000000001,False
+2$24710878$7824,WindowStandardCase 598,IfcWindowStandardCase,USERDEFINED,Wood - Oak,,,,no,4,984.33,3937.32,2025-04-27,2022-12-23,Bathroom,Level 0,,DateLogicError;,No Clash,Normal,984.33,False
+2$94426338$7229,Door 152,IfcDoor,,Paint - Emulsion White,,,,m,5,883.07,4415.35,2021-03-26,2022-02-20,Living Room,Level 7,,,No Clash,Normal,883.07,False
+2$65426567$4340,Slab 421,IfcSlab,,AAC Block,,46.61,,no,109,9686.84,1055865.56,2020-09-12,2021-07-19,Bathroom,Level 8,Major Clash,,No Clash,Normal,9686.84,False
+2$80528349$7173,Covering 322,IfcCovering,STANDARD,Glass - Tinted 8mm,,,,kg,46,7230.62,332608.52,2022-12-18,2025-06-06,Bathroom,Level 3,Major Clash,,No Clash,Normal,7230.620000000001,False
+2$40181142$5876,Column 790,IfcColumn,USERDEFINED,Granite Slab,5111.4,,7.994,kg,120,6806.55,816786.0,2023-01-25,2023-03-24,Bedroom,Level 9,,,No Clash,Normal,6806.55,False
+2$56323191$3399,BuildingStorey 298,IfcBuildingStorey,STANDARD,Steel - Galvanized,,,,pcs,92,7710.84,709397.28,2020-11-19,2023-11-19,,Level 4,,,No Clash,Normal,7710.84,False
+2$82286705$5442,DoorStandardCase 956,IfcDoorStandardCase,,Ceramic Tile,,,,set,35,2030.36,71062.6,2021-07-16,2021-03-23,Bathroom,Level 3,,DateLogicError;,No Clash,Normal,2030.3600000000001,False
+2$40289135$4814,Covering 054,IfcCovering,STANDARD,Paint - Emulsion White,,25.09,,m²,88,6647.06,584941.28,2021-07-17,2020-01-22,Kitchen,Level 6,,DateLogicError;,No Clash,Normal,6647.06,False
+2$48553376$6262,Beam 293,IfcBeam,,Ceramic Tile,,,,kg,95,7193.94,683424.3,2020-06-01,2021-12-18,,Level 2,No Clash,,No Clash,Normal,7193.9400000000005,False
+2$76489301$4052,Space 960,IfcSpace,,Steel - Galvanized,,,,no,119,1941.75,231068.25,2023-03-31,2020-06-02,Living Room,Level 4,No Clash,DateLogicError;,No Clash,Normal,1941.75,False
+2$48193218$8444,BuildingStorey 657,IfcBuildingStorey,,Wood - Oak,,,,kg,64,55576.01,3556864.64,2021-07-03,2025-08-27,,Level 4,Minor Clash,,No Clash,Anomaly,55576.01,True
+2$54383668$3662,Furniture 749,IfcFurniture,USERDEFINED,Brick Masonry,,,,set,66,9099.57,600571.62,2022-02-01,2020-02-27,Corridor,Level 4,Minor Clash,DateLogicError;,Potential Clash (same type/material in room),Normal,9099.57,False
+2$67405358$9442,Door 336,IfcDoor,STANDARD,Steel - Galvanized,,,,m³,13,1044.51,13578.63,2022-01-26,2021-07-29,,Level 5,Minor Clash,DateLogicError;,No Clash,Normal,1044.51,False
+2$61482483$4858,Wall 458,IfcWall,USERDEFINED,Marble Slab,6705.8,,6.613,set,31,11539.37,357720.47,2020-09-11,2021-04-29,,Level 4,Minor Clash,,No Clash,Normal,11539.369999999999,False
+2$51738753$2923,Slab 655,IfcSlab,USERDEFINED,Paint - Emulsion White,,,,m,18,1384.25,24916.5,2025-05-12,2021-09-19,,Level 9,Major Clash,DateLogicError;,No Clash,Normal,1384.25,False
+2$73193474$9806,Slab 822,IfcSlab,,Paint - Acrylic Grey,,,,set,97,13673.43,1326322.71,2020-12-01,2025-11-22,,Level 8,Major Clash,,No Clash,Normal,13673.43,False
+2$25060409$2011,WallStandardCase 849,IfcWallStandardCase,,Epoxy Coating,,,4.197,m²,88,22162.88,1950333.44,2022-04-21,2025-06-25,Bedroom,Level 8,,,No Clash,Normal,22162.88,True
+2$70858653$3161,Furniture 526,IfcFurniture,USERDEFINED,Concrete C30/37,,,,m³,145,1691.06,245203.7,2020-08-24,2025-03-08,Office,Level 0,,,No Clash,Anomaly,1691.0600000000002,False
+2$39246218$2196,Window 047,IfcWindow,USERDEFINED,Concrete C25/30,,,,pcs,9,17195.26,154757.34,2020-09-03,2020-10-09,,Level 0,Major Clash,,No Clash,Normal,17195.26,False
+2$28176954$7887,Slab 384,IfcSlab,USERDEFINED,Gypsum Board,,27.19,,m³,11,8405.28,92458.08,2021-06-28,2023-11-25,Bedroom,Level 2,,,No Clash,Normal,8405.28,False
+2$39888974$1056,Column 775,IfcColumn,STANDARD,AAC Block,6862.3,,16.87,kg,49,14309.49,701165.01,2022-07-29,2022-10-10,,Level 5,Minor Clash,,No Clash,Normal,14309.49,False
+2$25145751$1527,Window 829,IfcWindow,,Ceramic Tile,,,,m³,79,57862.85,4571165.15,2020-03-05,2022-09-12,,Level 1,,,No Clash,Anomaly,57862.850000000006,True
+2$69920305$1797,Roof 251,IfcRoof,,Concrete C30/37,,3.13,,m,70,3572.41,250068.7,2022-06-08,2020-08-19,Kitchen,Level 8,Major Clash,DateLogicError;,No Clash,Normal,3572.4100000000003,False
+2$52802529$6253,DoorStandardCase 243,IfcDoorStandardCase,USERDEFINED,Epoxy Coating,,,,m,67,1844.83,123603.61,2022-06-24,2024-08-20,Office,Level 4,No Clash,,Potential Clash (same type/material in room),Normal,1844.83,False
+2$33505978$7999,Column 570,IfcColumn,USERDEFINED,Epoxy Coating,900.1,,23.546,no,68,1546.32,105149.76,2023-07-29,2024-09-01,Lobby,Level 2,Major Clash,,No Clash,Normal,1546.32,False
+2$82199509$8758,Slab 247,IfcSlab,STANDARD,Gypsum Board,,,,no,60,1701.81,102108.6,2020-08-24,2024-08-17,,Level 8,Minor Clash,,No Clash,Normal,1701.8100000000002,False
+2$44224936$4331,Slab 339,IfcSlab,,Porcelain Tile,,5.2,,no,48,4446.03,213409.44,2021-01-13,2022-02-19,Living Room,Level 4,,,No Clash,Normal,4446.03,False
+2$19768947$4082,Covering 824,IfcCovering,,Concrete C30/37,,,,m³,27,7657.93,206764.11,2023-09-25,2023-05-26,Living Room,Level 3,Minor Clash,DateLogicError;,No Clash,Normal,7657.929999999999,False
+2$74279671$4974,Railing 713,IfcRailing,,Brick Masonry,,,,set,27,7042.36,190143.72,2024-06-12,2022-09-07,,Level 4,,DateLogicError;,No Clash,Normal,7042.36,False
+2$97069904$6886,Beam 316,IfcBeam,USERDEFINED,Paint - Acrylic Grey,2901.7,,11.704,no,108,14405.11,1555751.88,2023-08-04,2022-04-12,Corridor,Level 5,,DateLogicError;,No Clash,Normal,14405.109999999999,True
+2$39698906$3390,Wall 017,IfcWall,USERDEFINED,Epoxy Coating,4141.2,,8.314,kg,107,4998.55,534844.85,2022-10-03,2025-08-07,Corridor,Level 4,,,No Clash,Normal,4998.55,False
+2$71851421$3756,Railing 751,IfcRailing,USERDEFINED,Glass - Tinted 8mm,,,,m,18,32519.47,585350.46,2025-06-23,2022-01-23,Living Room,Level 8,No Clash,DateLogicError;,No Clash,Normal,32519.469999999998,False
+2$99686372$1794,Space 783,IfcSpace,STANDARD,Reinforced Concrete,,,,m³,18,3484.03,62712.54,2022-08-05,2020-10-05,Kitchen,Level 0,Minor Clash,DateLogicError;,No Clash,Normal,3484.03,False
+2$60090149$1990,Column 633,IfcColumn,,Glass - Clear 6mm,4867.2,,,m²,69,168757.81,11644288.89,2024-08-11,2020-02-18,Living Room,Level 8,Major Clash,DateLogicError;,No Clash,Anomaly,168757.81,True
+2$12300840$9228,Column 833,IfcColumn,,Granite Slab,,,,kg,20,11085.22,221704.4,2022-09-14,2022-02-25,,Level 5,Major Clash,DateLogicError;,No Clash,Normal,11085.22,False
+2$20605783$7112,Furniture 983,IfcFurniture,USERDEFINED,Steel - Galvanized,,,,m³,145,1612.75,233848.75,2022-09-23,2022-07-14,Office,Level 1,No Clash,DateLogicError;,No Clash,Anomaly,1612.75,False
+2$60903955$7179,WallStandardCase 566,IfcWallStandardCase,USERDEFINED,Steel - Galvanized,,,12.546,set,101,1221.51,123372.51,2023-09-18,2021-01-25,Living Room,Level 3,Minor Clash,DateLogicError;,No Clash,Normal,1221.51,False
+2$73820568$5441,BuildingStorey 048,IfcBuildingStorey,STANDARD,Epoxy Coating,,,,set,119,9202.35,1095079.65,2023-02-22,2020-05-14,Kitchen,Level 5,No Clash,DateLogicError;,Potential Clash (same type/material in room),Normal,9202.349999999999,False
+2$29353063$7525,DoorStandardCase 952,IfcDoorStandardCase,STANDARD,Epoxy Coating,,,,pcs,21,3675.7,77189.7,2022-09-11,2024-05-12,Corridor,Level 6,Minor Clash,,No Clash,Normal,3675.7,False
+2$77215278$6666,Furniture 055,IfcFurniture,STANDARD,Reinforced Concrete,,,,m³,60,12434.13,746047.8,2020-11-07,2023-10-27,Lobby,Level 5,No Clash,,Potential Clash (same type/material in room),Normal,12434.130000000001,False
+2$70471823$9038,Covering 234,IfcCovering,USERDEFINED,Marble Slab,,,,m³,24,9092.53,218220.72,2024-04-05,2020-12-17,Office,Level 3,No Clash,DateLogicError;,No Clash,Normal,9092.53,False
+2$30699187$7225,WallStandardCase 729,IfcWallStandardCase,,Marble Slab,,,,m³,47,4470.8,210127.6,2023-01-09,2021-02-22,,Level 1,Minor Clash,DateLogicError;,No Clash,Normal,4470.8,False
+2$84757265$9395,Slab 418,IfcSlab,STANDARD,Glass - Clear 6mm,,2.06,,kg,12,1634.62,19615.44,2023-08-21,2024-04-26,Living Room,Level 4,,,No Clash,Normal,1634.62,False
+2$85099723$4977,Slab 586,IfcSlab,,Reinforced Concrete,,10.59,,m,18,685.88,12345.84,2023-01-06,2023-05-18,Office,Level 7,,,No Clash,Normal,685.88,False
+2$68341261$5521,WallStandardCase 432,IfcWallStandardCase,USERDEFINED,Gypsum Board,,,18.05,kg,79,2750.48,217287.92,2022-03-11,2025-02-18,Bedroom,Level 2,Major Clash,,No Clash,Normal,2750.48,False
+2$54589439$7224,Wall 824,IfcWall,USERDEFINED,Steel - Galvanized,3417.4,,,m³,41,14962.74,613472.34,2021-12-28,2024-06-19,Corridor,Level 4,,,No Clash,Normal,14962.74,False
+2$53739710$7161,Roof 288,IfcRoof,USERDEFINED,Porcelain Tile,,,,kg,70,6491.97,454437.9,2022-01-06,2020-04-20,,Level 3,,DateLogicError;,No Clash,Normal,6491.97,False
+2$19282319$7703,Furniture 690,IfcFurniture,USERDEFINED,Granite Slab,,,,m,163,973.15,158623.45,2023-05-25,2022-09-18,Office,Level 2,,DateLogicError;,No Clash,Anomaly,973.1500000000001,False
+2$19927432$8357,Furniture 613,IfcFurniture,USERDEFINED,Steel - Galvanized,,,,kg,103,6155.71,634038.13,2025-12-28,2025-09-06,Lobby,Level 8,No Clash,DateLogicError;,No Clash,Normal,6155.71,False
+2$82062301$2392,Furniture 112,IfcFurniture,STANDARD,Wood - Teak,,,,set,171,8110.48,1386892.08,2023-12-25,2021-11-12,Living Room,Level 9,,DateLogicError;,No Clash,Anomaly,8110.4800000000005,False
+2$67774765$2735,Furniture 011,IfcFurniture,STANDARD,Wood - Oak,,,,pcs,57,1557.73,88790.61,2025-09-22,2025-10-25,Bathroom,Level 7,Major Clash,,No Clash,Normal,1557.73,False
+2$88999206$9199,Slab 155,IfcSlab,USERDEFINED,Glass - Clear 6mm,,59.86,,m²,38,6001.97,228074.86,2024-08-30,2020-12-17,Bedroom,Level 2,Major Clash,DateLogicError;,No Clash,Normal,6001.969999999999,False
+2$71113711$4389,Window 534,IfcWindow,USERDEFINED,Wood - Oak,,,,pcs,61,5301.11,323367.71,2021-02-03,2024-11-29,,Level 5,,,No Clash,Normal,5301.110000000001,False
+2$25446483$1370,Window 870,IfcWindow,USERDEFINED,Concrete C30/37,,,,set,14,1112.25,15571.5,2021-11-04,2022-09-26,Kitchen,Level 8,Minor Clash,,Potential Clash (same type/material in room),Normal,1112.25,False
+2$67226329$8570,WindowStandardCase 238,IfcWindowStandardCase,USERDEFINED,Paint - Acrylic Grey,,,,set,24,7825.35,187808.4,2022-02-02,2024-11-05,,Level 0,Minor Clash,,No Clash,Normal,7825.349999999999,False
+2$67653606$7370,Beam 005,IfcBeam,,Epoxy Coating,1974.7,,,kg,14,10188.55,142639.7,2022-02-04,2024-02-07,Corridor,Level 3,,,No Clash,Normal,10188.550000000001,False
+2$75697427$9646,WallStandardCase 990,IfcWallStandardCase,,Marble Slab,2605.8,,8.763,kg,23,20089.78,462064.94,2023-05-03,2020-12-13,Kitchen,Level 5,No Clash,DateLogicError;,Potential Clash (same type/material in room),Normal,20089.78,False
+2$25696616$3999,DoorStandardCase 383,IfcDoorStandardCase,,Granite Slab,,,,m,66,19340.23,1276455.18,2024-05-10,2024-09-09,,Level 9,,,No Clash,Normal,19340.23,False
+2$75319770$9804,Slab 711,IfcSlab,,Gypsum Board,,,,kg,22,819.77,18034.94,2025-06-28,2023-03-29,Kitchen,Level 2,Major Clash,DateLogicError;,No Clash,Normal,819.77,False
+2$93135800$1878,Space 887,IfcSpace,USERDEFINED,Glass - Clear 6mm,,,,m²,63,1452.19,91487.97,2021-07-13,2022-03-10,Lobby,Level 8,,,Potential Clash (same type/material in room),Normal,1452.19,False
+2$65784972$8272,Slab 501,IfcSlab,STANDARD,Glass - Tinted 8mm,,,,no,98,9600.26,940825.48,2022-06-22,2023-04-11,Living Room,Level 4,Minor Clash,,No Clash,Normal,9600.26,False
+2$32576626$8492,Column 580,IfcColumn,,Granite Slab,5544.3,,,kg,15,9584.68,143770.2,2023-01-02,2024-02-11,Living Room,Level 7,Minor Clash,,No Clash,Normal,9584.68,False
+2$97734330$5055,Slab 305,IfcSlab,STANDARD,Brick Masonry,,27.26,,no,105,9600.42,1008044.1,2020-12-22,2024-12-03,Bedroom,Level 3,,,No Clash,Normal,9600.42,False
+2$57060874$8015,Furniture 170,IfcFurniture,,Epoxy Coating,,,,m,53,735680.31,38991056.43,2022-04-27,2020-08-31,Corridor,Level 8,Major Clash,DateLogicError;,Potential Clash (same type/material in room),Anomaly,735680.3099999999,True
+2$32599227$6302,Roof 721,IfcRoof,USERDEFINED,Paint - Acrylic Grey,,17.72,,no,66,10323.29,681337.14,2021-01-25,2021-07-09,Lobby,Level 0,Major Clash,,Potential Clash (same type/material in room),Normal,10323.29,False
+2$27809465$5090,Space 150,IfcSpace,,AAC Block,,,,pcs,107,21509.19,2301483.33,2022-10-10,2024-05-27,,Level 2,Major Clash,,No Clash,Normal,21509.190000000002,True
+2$60354777$8405,Covering 078,IfcCovering,,Aluminum,,,,m³,66,16986.98,1121140.68,2023-02-13,2024-02-20,,Level 7,Major Clash,,No Clash,Normal,16986.98,False
+2$22501261$8511,Roof 651,IfcRoof,,Concrete C25/30,,,,no,69,11462.18,790890.42,2024-06-17,2022-06-11,Lobby,Level 3,,DateLogicError;,No Clash,Normal,11462.18,False
+2$48063218$6533,Window 561,IfcWindow,,Wood - Oak,,,,m,73,3262.18,238139.14,2025-06-10,2023-11-08,Living Room,Level 0,No Clash,DateLogicError;,No Clash,Normal,3262.1800000000003,False
+2$12185246$3035,Covering 952,IfcCovering,STANDARD,Glass - Clear 6mm,,,,m³,26,13182.69,342749.94,2021-06-24,2023-05-21,Kitchen,Level 4,No Clash,,Potential Clash (same type/material in room),Normal,13182.69,False
+2$43606680$2350,Covering 381,IfcCovering,,Wood - Teak,,,,m²,51,1799.61,91780.11,2023-06-05,2022-08-17,,Level 1,No Clash,DateLogicError;,No Clash,Normal,1799.61,False
+2$73995913$2276,Wall 136,IfcWall,,Ceramic Tile,2047.6,,20.446,set,17,3612.43,61411.31,2025-05-10,2020-10-17,,Level 6,No Clash,DateLogicError;,No Clash,Normal,3612.43,False
+2$23851475$6133,Railing 377,IfcRailing,USERDEFINED,Brick Masonry,,,,m,49,2615.02,128135.98,2021-06-29,2021-08-08,Bedroom,Level 8,No Clash,,No Clash,Normal,2615.02,False
+2$69069144$6753,Roof 740,IfcRoof,STANDARD,Gypsum Board,,,,m³,79,5466.73,431871.67,2024-12-17,2022-06-08,Bedroom,Level 1,Minor Clash,DateLogicError;,No Clash,Normal,5466.73,False
+2$89131271$7291,Furniture 360,IfcFurniture,USERDEFINED,Brick Masonry,,,,pcs,36,99613.81,3586097.16,2022-10-11,2023-02-08,,Level 3,Major Clash,,No Clash,Anomaly,99613.81,True
+2$98369672$5942,Furniture 211,IfcFurniture,,Concrete C25/30,,,,kg,131,433.79,56826.49,2022-02-11,2024-05-23,Office,Level 0,Minor Clash,,No Clash,Normal,433.78999999999996,False
+2$25132198$4949,Beam 512,IfcBeam,,Steel - Galvanized,,,24.673,m,50,11993.72,599686.0,2024-09-19,2024-02-05,Kitchen,Level 7,No Clash,DateLogicError;,No Clash,Normal,11993.72,False
+2$19064068$1225,Wall 269,IfcWall,STANDARD,Epoxy Coating,,56.95,12.715,m³,90,603.94,54354.6,2024-07-05,2020-12-03,Kitchen,Level 4,,DateLogicError;,No Clash,Normal,603.9399999999999,False
+2$78626154$4329,Window 998,IfcWindow,STANDARD,Reinforced Concrete,,,,kg,42,2661.08,111765.36,2024-05-19,2020-09-27,Office,Level 6,Minor Clash,DateLogicError;,Potential Clash (same type/material in room),Normal,2661.08,False
+2$21571285$8118,Wall 119,IfcWall,USERDEFINED,Porcelain Tile,,,,set,2,20244.45,40488.9,2021-11-02,2025-07-26,,Level 8,Major Clash,,No Clash,Normal,20244.45,False
+2$27036337$5403,Door 751,IfcDoor,STANDARD,Wood - Teak,,,,no,4,5343.11,21372.44,2023-10-04,2024-10-24,Office,Level 8,,,No Clash,Normal,5343.11,False
+2$94226031$2262,Window 509,IfcWindow,USERDEFINED,Epoxy Coating,,,,kg,47,1210.67,56901.49,2020-08-15,2025-08-08,Kitchen,Level 5,Minor Clash,,No Clash,Normal,1210.6699999999998,False
+2$87029205$2889,Window 234,IfcWindow,,Brick Masonry,,,,kg,1,1939.34,1939.34,2020-06-29,2020-02-20,Bathroom,Level 0,,DateLogicError;,No Clash,Normal,1939.34,False
+2$30144023$3932,WindowStandardCase 954,IfcWindowStandardCase,STANDARD,Steel - Galvanized,,,,kg,54,11890.29,642075.66,2022-07-08,2023-08-11,Bathroom,Level 6,Major Clash,,No Clash,Normal,11890.29,False
+2$86710258$7108,Window 123,IfcWindow,,Reinforced Concrete,,,,set,7,1901.74,13312.18,2022-01-04,2022-07-03,Living Room,Level 6,No Clash,,No Clash,Normal,1901.74,False
+2$47890586$6090,BuildingStorey 336,IfcBuildingStorey,STANDARD,Glass - Clear 6mm,,,,kg,59,6511.96,384205.64,2020-02-02,2024-02-20,Bathroom,Level 4,Major Clash,,No Clash,Normal,6511.96,False
+2$72267186$7033,Railing 606,IfcRailing,USERDEFINED,Porcelain Tile,,,,no,100,5214.73,521473.0,2022-03-11,2022-10-01,,Level 0,,,No Clash,Normal,5214.73,False
+2$82684966$6675,Wall 652,IfcWall,,Porcelain Tile,6214.1,,21.24,m²,27,2106.79,56883.33,2025-12-10,2022-09-02,Lobby,Level 7,,DateLogicError;,No Clash,Normal,2106.79,False
+2$22485824$1719,Door 944,IfcDoor,STANDARD,Marble Slab,,,,no,67,79787.91,5345789.97,2024-08-18,2024-03-05,,Level 1,No Clash,DateLogicError;,No Clash,Anomaly,79787.90999999999,True
+2$95525640$7461,Column 077,IfcColumn,,AAC Block,,,,m,38,11204.77,425781.26,2022-12-05,2023-07-14,Lobby,Level 5,Major Clash,,Potential Clash (same type/material in room),Normal,11204.77,False
+2$41354768$2223,Beam 967,IfcBeam,STANDARD,Marble Slab,,,,m³,60,353.3,21198.0,2023-07-10,2024-07-23,Bedroom,Level 8,Major Clash,,No Clash,Normal,353.3,False
+2$70655283$6051,Furniture 475,IfcFurniture,USERDEFINED,Ceramic Tile,,,,no,31,6262.85,194148.35,2021-01-05,2021-10-07,,Level 9,No Clash,,No Clash,Normal,6262.85,False
+2$29907683$2494,DoorStandardCase 729,IfcDoorStandardCase,STANDARD,Wood - Oak,,,,pcs,51,2079.07,106032.57,2025-10-04,2020-07-19,Office,Level 4,Minor Clash,DateLogicError;,Potential Clash (same type/material in room),Normal,2079.07,False
+2$70693413$5093,Wall 097,IfcWall,USERDEFINED,Steel - Galvanized,,,,m,26,14885.8,387030.8,2024-06-28,2024-03-04,Bedroom,Level 9,Major Clash,DateLogicError;,Potential Clash (same type/material in room),Normal,14885.8,False
+2$12925970$2056,BuildingStorey 203,IfcBuildingStorey,,Reinforced Concrete,,,,m³,104,1754.12,182428.48,2021-06-11,2021-01-11,Corridor,Level 1,No Clash,DateLogicError;,No Clash,Normal,1754.1200000000001,False
+2$32547129$8096,Beam 842,IfcBeam,,Concrete C30/37,,,9.63,m,46,4233.75,194752.5,2022-05-29,2022-02-05,Office,Level 4,,DateLogicError;,No Clash,Normal,4233.75,False
+2$14650569$5026,BuildingStorey 663,IfcBuildingStorey,USERDEFINED,AAC Block,,,,m³,53,9475.68,502211.04,2025-05-16,2020-09-06,Bedroom,Level 4,,DateLogicError;,No Clash,Normal,9475.68,False
+2$36770773$9614,Door 256,IfcDoor,,Aluminum,,,,no,70,15145.85,1060209.5,2020-03-20,2024-04-15,Corridor,Level 7,,,No Clash,Normal,15145.85,False
+2$77430081$6269,WindowStandardCase 398,IfcWindowStandardCase,USERDEFINED,Epoxy Coating,,,,m,4,1032.37,4129.48,2023-07-30,2022-06-16,Living Room,Level 4,No Clash,DateLogicError;,No Clash,Normal,1032.37,False
+2$81059199$6856,Furniture 786,IfcFurniture,,Glass - Tinted 8mm,,,,m,41,3181.63,130446.83,2021-02-14,2022-10-12,Bathroom,Level 4,No Clash,,Potential Clash (same type/material in room),Normal,3181.63,False
+2$87268086$7363,Furniture 364,IfcFurniture,STANDARD,Porcelain Tile,,,,m,61,2650.68,161691.48,2023-07-26,2024-01-09,,Level 5,Minor Clash,,No Clash,Normal,2650.6800000000003,False
+2$76065552$9882,Roof 317,IfcRoof,STANDARD,Ceramic Tile,,,,m²,30,2102.06,63061.8,2022-06-15,2020-03-22,,Level 0,Major Clash,DateLogicError;,No Clash,Normal,2102.06,False
+2$27514010$6582,BuildingStorey 735,IfcBuildingStorey,STANDARD,Ceramic Tile,,,,no,109,48780.72,5317098.48,2023-08-18,2020-08-31,,Level 2,Minor Clash,DateLogicError;,No Clash,Anomaly,48780.72,True
+2$80638102$6978,Furniture 984,IfcFurniture,STANDARD,Brick Masonry,,,,pcs,181,8320.49,1506008.69,2024-06-08,2021-02-17,Corridor,Level 4,Major Clash,DateLogicError;,Potential Clash (same type/material in room),Anomaly,8320.49,False
+2$68635481$8982,Door 665,IfcDoor,USERDEFINED,Gypsum Board,,,,m,72,954.18,68700.96,2024-01-01,2022-07-03,Kitchen,Level 6,Major Clash,DateLogicError;,No Clash,Normal,954.1800000000001,False
+2$27092408$3911,Railing 747,IfcRailing,STANDARD,Granite Slab,,,,set,74,16207.36,1199344.64,2024-05-22,2020-05-12,,Level 9,Major Clash,DateLogicError;,No Clash,Normal,16207.359999999999,False
+2$95851936$2705,BuildingStorey 960,IfcBuildingStorey,USERDEFINED,Porcelain Tile,,,,m,43,77559.69,3335066.67,2020-11-14,2022-09-01,Corridor,Level 5,Minor Clash,,No Clash,Anomaly,77559.69,True
+2$99929175$6500,Covering 458,IfcCovering,STANDARD,Reinforced Concrete,,,,set,9,18811.15,169300.35,2023-12-06,2022-11-17,Bedroom,Level 0,No Clash,DateLogicError;,No Clash,Normal,18811.15,False
+2$66324902$3725,Slab 906,IfcSlab,USERDEFINED,Glass - Clear 6mm,,29.84,,pcs,70,681.86,47730.2,2024-03-17,2021-02-19,,Level 9,Minor Clash,DateLogicError;,No Clash,Normal,681.86,False
+2$19893106$1547,Door 302,IfcDoor,STANDARD,Glass - Clear 6mm,,,,pcs,34,2618.86,89041.24,2021-03-04,2020-10-30,,Level 2,,DateLogicError;,No Clash,Normal,2618.86,False
+2$83423305$2525,Door 347,IfcDoor,,Reinforced Concrete,,,,kg,62,25514.05,1581871.1,2020-05-06,2024-11-01,Kitchen,Level 9,,,Potential Clash (same type/material in room),Normal,25514.050000000003,True
+2$23590593$6424,Door 211,IfcDoor,STANDARD,Concrete C30/37,,,,m³,71,1958.69,139066.99,2022-12-22,2023-02-27,Office,Level 3,,,No Clash,Normal,1958.6899999999998,False
+2$86741644$9043,Wall 158,IfcWall,STANDARD,Steel - Galvanized,2909.3,5.71,,m,22,8751.37,192530.14,2023-04-10,2020-12-01,,Level 1,,DateLogicError;,No Clash,Normal,8751.37,False
+2$73209094$9013,Furniture 917,IfcFurniture,,Steel - Galvanized,,,,pcs,24,13453.9,322893.6,2024-05-06,2022-01-27,Corridor,Level 6,Major Clash,DateLogicError;,No Clash,Normal,13453.9,False
+2$15988382$5313,Door 451,IfcDoor,USERDEFINED,Glass - Clear 6mm,,,,pcs,29,1472.9,42714.1,2023-01-05,2020-09-09,Kitchen,Level 1,No Clash,DateLogicError;,Potential Clash (same type/material in room),Normal,1472.8999999999999,False
+2$82672055$7782,Covering 995,IfcCovering,,Wood - Teak,,,,no,50,4548.79,227439.5,2025-11-10,2024-09-10,,Level 9,Minor Clash,DateLogicError;,No Clash,Normal,4548.79,False
+2$20597167$7468,Beam 925,IfcBeam,,Granite Slab,,,3.095,m,22,72.7,1599.4,2022-05-17,2022-02-28,Kitchen,Level 0,,DateLogicError;,Potential Clash (same type/material in room),Normal,72.7,False
+2$37101146$3422,WallStandardCase 855,IfcWallStandardCase,,Aluminum,,5.68,13.846,kg,59,1297.63,76560.17,2020-02-20,2025-11-10,Lobby,Level 1,,,No Clash,Normal,1297.6299999999999,False
+2$86046949$2641,Door 948,IfcDoor,STANDARD,AAC Block,,,,kg,13,3539.22,46009.86,2023-03-17,2023-11-09,Lobby,Level 4,,,Potential Clash (same type/material in room),Normal,3539.2200000000003,False
+2$86775659$8750,Covering 039,IfcCovering,STANDARD,Glass - Tinted 8mm,,,,kg,78,970.57,75704.46,2024-07-03,2020-06-07,Lobby,Level 5,,DateLogicError;,Potential Clash (same type/material in room),Normal,970.57,False
+2$46048781$7102,Wall 021,IfcWall,USERDEFINED,Glass - Tinted 8mm,5831.3,19.0,,no,30,41033.11,1230993.3,2021-07-04,2023-05-15,,Level 5,Major Clash,,No Clash,Normal,41033.11,False
+2$91198924$2462,Railing 193,IfcRailing,USERDEFINED,Aluminum,,,,m,117,765.72,89589.24,2024-07-25,2025-06-07,Corridor,Level 0,Minor Clash,,No Clash,Normal,765.72,False
+2$78020910$7609,WallStandardCase 139,IfcWallStandardCase,,Granite Slab,,,,m²,59,2773.71,163648.89,2020-07-26,2024-01-16,Bathroom,Level 4,Major Clash,,No Clash,Normal,2773.71,False
+2$77796914$7503,Space 651,IfcSpace,STANDARD,Glass - Clear 6mm,,,,set,4,5825.28,23301.12,2022-09-17,2024-03-05,,Level 9,,,No Clash,Normal,5825.28,False
+2$88769733$6730,Door 353,IfcDoor,STANDARD,Glass - Tinted 8mm,,,,no,34,32005.25,1088178.5,2021-01-05,2023-03-13,Living Room,Level 6,No Clash,,Potential Clash (same type/material in room),Normal,32005.25,False
+2$38765353$4626,Door 663,IfcDoor,STANDARD,Epoxy Coating,,,,set,27,760.05,20521.35,2023-01-07,2024-08-04,Living Room,Level 0,,,No Clash,Normal,760.05,False
+2$96888739$3837,BuildingStorey 616,IfcBuildingStorey,STANDARD,AAC Block,,,,m,33,22294.89,735731.37,2023-06-05,2023-02-01,Lobby,Level 6,Major Clash,DateLogicError;,No Clash,Normal,22294.89,False
+2$39287523$8646,Beam 310,IfcBeam,,Marble Slab,3932.1,,,kg,85,4980.59,423350.15,2024-03-12,2023-03-03,Office,Level 1,,DateLogicError;,No Clash,Normal,4980.59,False
+2$47108953$6327,WallStandardCase 883,IfcWallStandardCase,USERDEFINED,Wood - Oak,2271.3,,22.502,set,41,1372.02,56252.82,2021-07-27,2020-04-14,,Level 4,Major Clash,DateLogicError;,No Clash,Normal,1372.02,False
+2$64304344$7361,BuildingStorey 755,IfcBuildingStorey,STANDARD,Aluminum,,,,kg,91,8961.87,815530.17,2022-02-16,2023-11-06,Bathroom,Level 8,,,Potential Clash (same type/material in room),Normal,8961.87,False
+2$78090647$5918,BuildingStorey 866,IfcBuildingStorey,STANDARD,Wood - Teak,,,,no,85,6366.32,541137.2,2022-01-11,2023-04-18,Bedroom,Level 7,Minor Clash,,No Clash,Normal,6366.32,False
+2$85031958$3999,Railing 970,IfcRailing,,Marble Slab,,,,pcs,84,2252.32,189194.88,2020-12-31,2022-06-29,Corridor,Level 3,Major Clash,,No Clash,Normal,2252.32,False
+2$59886371$5269,Slab 600,IfcSlab,USERDEFINED,Wood - Oak,,,,m³,7,5381.61,37671.27,2020-10-18,2025-04-18,Bathroom,Level 8,No Clash,,No Clash,Normal,5381.61,False
+2$81113720$5888,Space 424,IfcSpace,STANDARD,Steel - Galvanized,,,,no,110,2978.25,327607.5,2021-09-09,2021-07-16,Bathroom,Level 5,,DateLogicError;,Potential Clash (same type/material in room),Normal,2978.25,False
+2$29223220$6183,Roof 884,IfcRoof,,Glass - Clear 6mm,,,,m³,43,5696.3,244940.9,2021-12-25,2023-07-07,,Level 0,,,No Clash,Normal,5696.3,False
+2$32629881$3595,Window 502,IfcWindow,STANDARD,Ceramic Tile,,,,m,79,11623.33,918243.07,2024-11-11,2024-10-24,Lobby,Level 6,,DateLogicError;,No Clash,Normal,11623.33,False
+2$15063406$9745,Slab 205,IfcSlab,,Concrete C25/30,,,,pcs,97,38631.44,3747249.68,2025-12-15,2022-02-19,Living Room,Level 0,Minor Clash,DateLogicError;,No Clash,Anomaly,38631.44,True
+2$51888314$3112,DoorStandardCase 106,IfcDoorStandardCase,USERDEFINED,Wood - Teak,,,,kg,76,983.23,74725.48,2023-06-07,2021-11-15,Bedroom,Level 0,Major Clash,DateLogicError;,No Clash,Normal,983.2299999999999,False
+2$79831928$9587,Window 346,IfcWindow,USERDEFINED,Glass - Clear 6mm,,,,set,18,78664.2,1415955.6,2023-11-04,2025-06-30,Corridor,Level 3,Minor Clash,,Potential Clash (same type/material in room),Anomaly,78664.20000000001,False
+2$12566878$4742,BuildingStorey 230,IfcBuildingStorey,,Steel - Galvanized,,,,m,28,388.5,10878.0,2020-03-30,2025-08-28,Kitchen,Level 1,Major Clash,,No Clash,Normal,388.5,False
+2$60357475$5190,Railing 790,IfcRailing,,Concrete C30/37,,,,kg,7,4034.67,28242.69,2020-07-15,2021-03-18,,Level 0,No Clash,,No Clash,Normal,4034.6699999999996,False
+2$61036796$3024,Slab 561,IfcSlab,USERDEFINED,Glass - Clear 6mm,,,,m,89,10559.83,939824.87,2020-02-08,2023-05-18,Lobby,Level 1,Major Clash,,No Clash,Normal,10559.83,False
+2$66213840$2718,Roof 524,IfcRoof,,AAC Block,,37.25,,m²,101,7081.84,715265.84,2021-03-11,2025-07-31,,Level 9,,,No Clash,Normal,7081.839999999999,False
+2$80215481$4304,Furniture 367,IfcFurniture,,Marble Slab,,,,m³,76,2187.45,166246.2,2021-10-18,2020-06-10,,Level 3,,DateLogicError;,No Clash,Normal,2187.4500000000003,False
+2$10367488$1208,WindowStandardCase 688,IfcWindowStandardCase,STANDARD,Porcelain Tile,,,,m²,74,3749.74,277480.76,2025-07-16,2021-09-02,Bedroom,Level 8,No Clash,DateLogicError;,No Clash,Normal,3749.7400000000002,False
+2$44345256$4787,Railing 468,IfcRailing,USERDEFINED,Brick Masonry,,,,pcs,60,2589.19,155351.4,2020-07-24,2021-02-12,Kitchen,Level 0,Major Clash,,No Clash,Normal,2589.19,False
+2$67176108$2898,WindowStandardCase 098,IfcWindowStandardCase,STANDARD,Wood - Oak,,,,m²,18,2284.32,41117.76,2021-11-29,2023-09-08,,Level 7,Major Clash,,No Clash,Normal,2284.32,False
+2$60012498$6615,BuildingStorey 188,IfcBuildingStorey,STANDARD,Reinforced Concrete,,,,m³,52,14831.12,771218.24,2025-02-12,2023-01-18,Lobby,Level 7,,DateLogicError;,No Clash,Normal,14831.119999999999,False
+2$25174194$3171,Covering 713,IfcCovering,,Gypsum Board,,,,m²,54,7817.5,422145.0,2025-05-31,2024-11-29,Kitchen,Level 9,,DateLogicError;,No Clash,Normal,7817.5,False
+2$92055138$1472,Furniture 884,IfcFurniture,,Wood - Teak,,,,no,187,1996.63,373369.81,2021-06-19,2025-06-01,,Level 1,,,No Clash,Anomaly,1996.6299999999999,False
+2$18500820$5286,Beam 671,IfcBeam,USERDEFINED,Concrete C30/37,,,24.45,kg,67,15827.11,1060416.37,2021-01-25,2024-11-07,Bathroom,Level 7,,,Potential Clash (same type/material in room),Normal,15827.110000000002,False
+2$29952062$1894,Covering 012,IfcCovering,,Steel - Galvanized,,56.1,,no,64,7328.23,469006.72,2021-11-08,2020-11-02,,Level 5,,DateLogicError;,No Clash,Normal,7328.23,False
+2$16757958$9305,WindowStandardCase 229,IfcWindowStandardCase,,Marble Slab,,,,set,49,14139.4,692830.6,2024-07-09,2022-08-20,,Level 7,,DateLogicError;,No Clash,Normal,14139.4,False
+2$70142774$2442,Furniture 878,IfcFurniture,USERDEFINED,Epoxy Coating,,,,m³,81,11142.45,902538.45,2021-05-01,2025-07-30,Living Room,Level 1,,,No Clash,Normal,11142.449999999999,False
+2$84776858$9996,Slab 001,IfcSlab,STANDARD,Concrete C30/37,,47.61,,kg,72,1672.89,120448.08,2022-04-27,2025-02-11,,Level 5,No Clash,,No Clash,Normal,1672.89,False
+2$70996586$6439,Space 574,IfcSpace,,Porcelain Tile,,,,kg,61,2372.65,144731.65,2024-01-28,2025-01-27,,Level 1,Minor Clash,,No Clash,Normal,2372.65,False
+2$57665946$5783,Wall 561,IfcWall,,Wood - Oak,,,12.361,m²,33,12984.11,428475.63,2022-03-13,2022-02-07,Bedroom,Level 6,,DateLogicError;,No Clash,Normal,12984.11,False
+2$55356673$2765,Beam 776,IfcBeam,USERDEFINED,Ceramic Tile,,,19.326,m³,85,10866.95,923690.75,2025-08-27,2021-07-05,,Level 0,No Clash,DateLogicError;,No Clash,Normal,10866.95,False
+2$88533572$8912,Column 947,IfcColumn,,Aluminum,,,,set,105,4783.02,502217.1,2021-06-09,2021-02-28,Lobby,Level 9,Major Clash,DateLogicError;,No Clash,Normal,4783.0199999999995,False
+2$66192230$5067,Column 281,IfcColumn,USERDEFINED,Steel - Galvanized,,,,m,53,5724.59,303403.27,2025-09-29,2023-05-09,Corridor,Level 8,Minor Clash,DateLogicError;,Potential Clash (same type/material in room),Normal,5724.59,False
+2$93774355$5760,DoorStandardCase 704,IfcDoorStandardCase,USERDEFINED,Ceramic Tile,,,,set,17,25873.24,439845.08,2021-12-29,2025-08-25,Corridor,Level 1,Major Clash,,No Clash,Normal,25873.24,False
+2$88222933$7839,Column 691,IfcColumn,,Glass - Tinted 8mm,6320.7,,21.949,no,2,2277.78,4555.56,2025-11-11,2021-03-12,,Level 6,Minor Clash,DateLogicError;,No Clash,Normal,2277.78,False
+2$36830448$5374,Wall 769,IfcWall,STANDARD,Concrete C30/37,6894.6,,17.296,m,97,10008.87,970860.39,2020-05-12,2024-01-09,,Level 1,Minor Clash,,No Clash,Normal,10008.87,False
+2$62195484$4892,Railing 524,IfcRailing,,Paint - Acrylic Grey,,,,pcs,89,3778.75,336308.75,2020-07-11,2024-04-11,,Level 6,,,No Clash,Normal,3778.75,False
+2$11740164$5117,Column 208,IfcColumn,,Concrete C30/37,6160.6,,20.767,no,76,3703.43,281460.68,2022-03-15,2022-03-03,Office,Level 7,Minor Clash,DateLogicError;,Potential Clash (same type/material in room),Normal,3703.43,False
+2$35095571$3847,Covering 753,IfcCovering,,Reinforced Concrete,,,,m³,36,20504.71,738169.56,2022-12-18,2021-06-16,Kitchen,Level 9,Major Clash,DateLogicError;,No Clash,Normal,20504.710000000003,False
+2$72589932$3536,Wall 041,IfcWall,STANDARD,Wood - Oak,,46.53,12.315,m²,101,14372.06,1451578.06,2023-07-25,2025-11-22,Bathroom,Level 2,,,No Clash,Normal,14372.060000000001,False
+2$31390345$7814,Furniture 557,IfcFurniture,,Paint - Emulsion White,,,,m³,24,14151.31,339631.44,2023-12-02,2022-06-25,,Level 5,,DateLogicError;,No Clash,Normal,14151.31,False
+2$39319229$9691,WindowStandardCase 487,IfcWindowStandardCase,,Granite Slab,,,,no,2,26825.88,53651.76,2021-04-14,2023-11-18,,Level 3,Minor Clash,,No Clash,Normal,26825.88,False
+2$61186964$2857,Wall 396,IfcWall,USERDEFINED,Wood - Oak,4057.5,1.97,12.906,m³,6,5050.82,30304.92,2023-04-29,2022-02-27,Corridor,Level 8,No Clash,DateLogicError;,No Clash,Normal,5050.82,False
+2$82205759$9736,WallStandardCase 008,IfcWallStandardCase,,Gypsum Board,,51.96,,kg,107,11926.75,1276162.25,2024-11-17,2020-10-22,Kitchen,Level 0,,DateLogicError;,No Clash,Normal,11926.75,False
+2$15085015$2433,Railing 076,IfcRailing,STANDARD,Wood - Oak,,,,m,102,3283.46,334912.92,2022-10-28,2020-10-15,,Level 4,,DateLogicError;,No Clash,Normal,3283.46,False
+2$94586329$7626,Slab 444,IfcSlab,USERDEFINED,Glass - Clear 6mm,,,,kg,1,7490.69,7490.69,2020-09-16,2020-07-05,,Level 5,No Clash,DateLogicError;,No Clash,Normal,7490.69,False
+2$91411889$2417,Window 289,IfcWindow,USERDEFINED,Granite Slab,,,,m³,51,4149.79,211639.29,2020-05-06,2025-04-25,,Level 8,Minor Clash,,No Clash,Normal,4149.79,False
+2$83245898$5832,Door 984,IfcDoor,,Steel - Galvanized,,,,m,39,5575.26,217435.14,2024-03-08,2020-02-15,,Level 1,No Clash,DateLogicError;,No Clash,Normal,5575.26,False
+2$90081663$7456,Wall 551,IfcWall,,Epoxy Coating,6660.7,13.0,,m,24,10654.14,255699.36,2022-06-23,2022-11-01,Bathroom,Level 1,Minor Clash,,No Clash,Normal,10654.14,False
+2$17299874$9992,Covering 473,IfcCovering,,Epoxy Coating,,33.21,,set,9,1696.48,15268.32,2022-10-23,2021-02-06,Bathroom,Level 9,,DateLogicError;,No Clash,Normal,1696.48,False
+2$27208745$4842,WindowStandardCase 103,IfcWindowStandardCase,USERDEFINED,Wood - Teak,,,,kg,9,74615.49,671539.41,2022-03-03,2023-07-25,,Level 7,Major Clash,,No Clash,Anomaly,74615.49,False
+2$88405961$3496,Roof 580,IfcRoof,,Granite Slab,,22.19,,m³,22,1328.99,29237.78,2020-01-20,2023-07-06,Bathroom,Level 3,,,Potential Clash (same type/material in room),Normal,1328.99,False
+2$28026223$6432,Window 899,IfcWindow,USERDEFINED,Wood - Teak,,,,m³,58,1013.9,58806.2,2024-01-09,2023-06-05,,Level 8,No Clash,DateLogicError;,No Clash,Normal,1013.9,False
+2$47663633$3293,Door 913,IfcDoor,,Reinforced Concrete,,,,m,34,22148.92,753063.28,2020-11-09,2020-11-04,Living Room,Level 8,No Clash,DateLogicError;,No Clash,Normal,22148.920000000002,False
+2$87698748$7637,Space 788,IfcSpace,,Epoxy Coating,,,,m,117,13755.05,1609340.85,2020-05-30,2022-12-03,,Level 2,Major Clash,,No Clash,Normal,13755.050000000001,True
+2$89134873$5767,Slab 138,IfcSlab,USERDEFINED,Porcelain Tile,,,,m³,47,11062.94,519958.18,2025-08-18,2020-02-13,Bathroom,Level 9,Minor Clash,DateLogicError;,No Clash,Normal,11062.94,False
+2$28840235$8310,Furniture 164,IfcFurniture,STANDARD,Paint - Emulsion White,,,,kg,145,11123.88,1612962.6,2021-08-21,2025-06-03,Corridor,Level 0,Minor Clash,,No Clash,Anomaly,11123.880000000001,True
+2$41104946$2029,Furniture 271,IfcFurniture,USERDEFINED,Glass - Tinted 8mm,,,,m,11,4837.14,53208.54,2022-04-26,2025-10-22,,Level 6,,,No Clash,Normal,4837.14,False
+2$16232730$1653,BuildingStorey 665,IfcBuildingStorey,USERDEFINED,Glass - Clear 6mm,,,,m²,91,1530.84,139306.44,2025-11-05,2023-01-25,,Level 9,Minor Clash,DateLogicError;,No Clash,Normal,1530.84,False
+2$59029303$2275,Slab 530,IfcSlab,USERDEFINED,Steel - Galvanized,,,,kg,52,5423.77,282036.04,2023-12-16,2023-11-14,,Level 7,No Clash,DateLogicError;,No Clash,Normal,5423.7699999999995,False
+2$69042204$3713,Column 236,IfcColumn,STANDARD,AAC Block,3893.1,,,m,47,2037.93,95782.71,2021-04-29,2022-08-01,Lobby,Level 5,No Clash,,Potential Clash (same type/material in room),Normal,2037.93,False
+2$74293132$4452,Beam 605,IfcBeam,STANDARD,Glass - Tinted 8mm,4742.5,,,m,74,17459.79,1292024.46,2021-10-21,2021-07-05,Living Room,Level 9,Minor Clash,DateLogicError;,No Clash,Normal,17459.79,False
+2$44663022$3949,Wall 530,IfcWall,USERDEFINED,Gypsum Board,,52.77,,m³,78,4059.54,316644.12,2025-04-14,2025-05-26,Kitchen,Level 3,,,Potential Clash (same type/material in room),Normal,4059.54,False
+2$88201440$3979,Roof 639,IfcRoof,,AAC Block,,,,set,88,1680.51,147884.88,2023-11-04,2025-01-31,Bedroom,Level 3,,,No Clash,Normal,1680.51,False
+2$24572034$1271,Slab 208,IfcSlab,,AAC Block,,51.65,,no,20,3236.34,64726.8,2021-01-29,2021-12-27,,Level 9,No Clash,,No Clash,Normal,3236.34,False
+2$77555702$2925,BuildingStorey 096,IfcBuildingStorey,USERDEFINED,Paint - Acrylic Grey,,,,set,17,8406.92,142917.64,2020-01-05,2024-11-02,Lobby,Level 5,No Clash,,No Clash,Normal,8406.92,False
+2$67573535$4759,Railing 961,IfcRailing,USERDEFINED,Paint - Emulsion White,,,,no,99,2361.75,233813.25,2024-04-10,2023-12-06,Bedroom,Level 6,Minor Clash,DateLogicError;,No Clash,Normal,2361.75,False
+2$41207351$2373,Window 291,IfcWindow,,Glass - Tinted 8mm,,,,kg,53,1687.69,89447.57,2022-11-21,2022-02-13,,Level 0,No Clash,DateLogicError;,No Clash,Normal,1687.69,False
+2$60335658$4365,Column 705,IfcColumn,USERDEFINED,Concrete C25/30,,,3.954,pcs,110,6746.6,742126.0,2024-09-30,2024-02-06,Office,Level 6,Minor Clash,DateLogicError;,Potential Clash (same type/material in room),Normal,6746.6,False
+2$84834795$8904,Slab 184,IfcSlab,USERDEFINED,Paint - Acrylic Grey,,33.77,,pcs,40,6757.83,270313.2,2023-11-11,2024-06-18,Kitchen,Level 1,Minor Clash,,No Clash,Normal,6757.83,False
+2$23459168$4513,Beam 521,IfcBeam,USERDEFINED,Gypsum Board,,,,no,12,2542.68,30512.16,2021-08-18,2025-04-15,Lobby,Level 1,No Clash,,Potential Clash (same type/material in room),Normal,2542.68,False
+2$59772648$2311,Window 624,IfcWindow,STANDARD,Porcelain Tile,,,,set,50,2664.18,133209.0,2024-06-29,2025-11-04,Office,Level 9,No Clash,,No Clash,Normal,2664.18,False
+2$95938445$9099,Furniture 450,IfcFurniture,STANDARD,Gypsum Board,,,,m,169,6645.3,1123055.7,2025-10-23,2023-03-17,Bathroom,Level 0,Minor Clash,DateLogicError;,No Clash,Anomaly,6645.299999999999,False
+2$14840043$6893,Roof 245,IfcRoof,,Gypsum Board,,,,m²,36,748.07,26930.52,2024-06-24,2023-12-17,Lobby,Level 6,Minor Clash,DateLogicError;,Potential Clash (same type/material in room),Normal,748.07,False
+2$19209640$2477,Column 563,IfcColumn,USERDEFINED,Concrete C25/30,5247.3,,8.752,m,78,788.63,61513.14,2022-03-07,2025-02-05,,Level 9,No Clash,,No Clash,Normal,788.63,False
+2$64644684$9294,Window 110,IfcWindow,,Gypsum Board,,,,m²,65,1931.44,125543.6,2023-04-20,2023-10-24,Bedroom,Level 8,Major Clash,,No Clash,Normal,1931.44,False
+2$87160950$5098,BuildingStorey 711,IfcBuildingStorey,USERDEFINED,Paint - Acrylic Grey,,,,m³,73,3723.87,271842.51,2025-06-03,2022-09-23,Corridor,Level 7,,DateLogicError;,Potential Clash (same type/material in room),Normal,3723.8700000000003,False
+2$13670948$8896,BuildingStorey 120,IfcBuildingStorey,USERDEFINED,Epoxy Coating,,,,m²,49,7362.68,360771.32,2022-06-21,2022-07-30,Corridor,Level 6,Major Clash,,No Clash,Normal,7362.68,False
+2$11305024$5314,Column 255,IfcColumn,USERDEFINED,Paint - Acrylic Grey,1195.3,,,m³,41,33455.22,1371664.02,2023-12-19,2022-06-14,Office,Level 2,Minor Clash,DateLogicError;,No Clash,Normal,33455.22,False
+2$41522559$4965,Beam 894,IfcBeam,USERDEFINED,Ceramic Tile,,,20.89,m,100,14987.29,1498729.0,2021-03-12,2021-05-06,Bedroom,Level 7,No Clash,,No Clash,Normal,14987.29,False
+2$15672460$8901,Furniture 381,IfcFurniture,,Paint - Acrylic Grey,,,,pcs,127,3992.13,507000.51,2023-01-30,2025-07-03,Kitchen,Level 8,,,No Clash,Normal,3992.13,False
+2$87398691$3101,Slab 056,IfcSlab,,Porcelain Tile,,48.06,,kg,5,4794.76,23973.8,2025-08-20,2023-11-23,,Level 2,,DateLogicError;,No Clash,Normal,4794.76,False
+2$71749629$6171,WallStandardCase 706,IfcWallStandardCase,STANDARD,Paint - Emulsion White,,,8.203,m,71,1335.03,94787.13,2022-12-12,2022-08-29,Office,Level 7,Major Clash,DateLogicError;,No Clash,Normal,1335.03,False
+2$76943778$7945,WindowStandardCase 216,IfcWindowStandardCase,USERDEFINED,Gypsum Board,,,,set,48,4797.9,230299.2,2024-02-04,2024-06-28,Office,Level 7,Minor Clash,,No Clash,Normal,4797.900000000001,False
+2$87295013$4744,Roof 834,IfcRoof,STANDARD,AAC Block,,,,kg,56,3377.0,189112.0,2024-04-09,2022-03-14,Kitchen,Level 2,,DateLogicError;,No Clash,Normal,3377.0,False
+2$33703827$7906,Furniture 512,IfcFurniture,STANDARD,Concrete C25/30,,,,no,162,7476.61,1211210.82,2025-10-18,2025-12-27,Corridor,Level 7,Major Clash,,Potential Clash (same type/material in room),Anomaly,7476.610000000001,False
+2$86213459$1781,Window 408,IfcWindow,STANDARD,Paint - Acrylic Grey,,,,set,21,1676.73,35211.33,2020-09-02,2022-06-01,Office,Level 7,No Clash,,No Clash,Normal,1676.73,False
+2$44865621$6914,Beam 369,IfcBeam,,Wood - Oak,4167.9,,,m²,45,9654.22,434439.9,2022-03-25,2021-12-15,Office,Level 5,,DateLogicError;,Potential Clash (same type/material in room),Normal,9654.220000000001,False
+2$75430302$8322,Covering 911,IfcCovering,STANDARD,Paint - Emulsion White,,23.17,,m³,81,36046.34,2919753.54,2021-08-16,2021-11-17,Corridor,Level 6,,,No Clash,Anomaly,36046.340000000004,True
+2$20618223$3654,Space 352,IfcSpace,STANDARD,Reinforced Concrete,,,,pcs,41,4266.77,174937.57,2023-04-08,2022-12-31,Lobby,Level 4,,DateLogicError;,Potential Clash (same type/material in room),Normal,4266.77,False
+2$88775038$9535,Furniture 989,IfcFurniture,USERDEFINED,Wood - Teak,,,,m³,43,8285.19,356263.17,2022-01-23,2020-04-04,Kitchen,Level 3,Major Clash,DateLogicError;,No Clash,Normal,8285.19,False
+2$38262427$3734,Railing 407,IfcRailing,STANDARD,Reinforced Concrete,,,,m²,9,12054.43,108489.87,2025-04-22,2020-08-08,Living Room,Level 6,No Clash,DateLogicError;,No Clash,Normal,12054.43,False
+2$92960269$3544,WallStandardCase 087,IfcWallStandardCase,,Marble Slab,6562.2,,18.466,set,17,2917.3,49594.1,2021-06-21,2025-11-27,Kitchen,Level 0,No Clash,,Potential Clash (same type/material in room),Normal,2917.2999999999997,False
+2$53647781$8801,Covering 479,IfcCovering,,Wood - Teak,,,,m,90,6576.91,591921.9,2021-12-26,2025-02-13,Lobby,Level 8,,,No Clash,Normal,6576.91,False
+2$74646194$9841,BuildingStorey 233,IfcBuildingStorey,STANDARD,Wood - Teak,,,,m³,40,4995.89,199835.6,2024-02-07,2024-08-15,Office,Level 2,Major Clash,,No Clash,Normal,4995.89,False
+2$80238316$3233,Wall 353,IfcWall,USERDEFINED,Concrete C25/30,,41.42,23.679,pcs,2,5580.19,11160.38,2024-10-29,2023-04-14,Bathroom,Level 0,Major Clash,DateLogicError;,No Clash,Normal,5580.19,False
+2$85236332$8161,DoorStandardCase 405,IfcDoorStandardCase,STANDARD,Aluminum,,,,m,50,1799.18,89959.0,2024-03-29,2022-06-22,Office,Level 1,,DateLogicError;,No Clash,Normal,1799.18,False
+2$79338228$5454,Covering 292,IfcCovering,,Porcelain Tile,,44.7,,m³,25,5073.89,126847.25,2020-10-07,2022-01-17,Kitchen,Level 4,No Clash,,No Clash,Normal,5073.89,False
+2$92910238$8418,Covering 279,IfcCovering,,Glass - Clear 6mm,,,,pcs,3,9389.97,28169.91,2021-09-15,2020-07-22,Living Room,Level 2,No Clash,DateLogicError;,No Clash,Normal,9389.97,False
+2$26782477$8183,Window 745,IfcWindow,STANDARD,Marble Slab,,,,m,12,32418.57,389022.84,2021-09-09,2020-03-01,,Level 3,Major Clash,DateLogicError;,No Clash,Normal,32418.570000000003,False
+2$76893545$7084,Slab 475,IfcSlab,,Granite Slab,,47.59,,m²,108,17103.73,1847202.84,2021-08-21,2020-08-17,Office,Level 6,No Clash,DateLogicError;,No Clash,Normal,17103.73,True
+2$34374441$4148,Column 918,IfcColumn,USERDEFINED,Glass - Tinted 8mm,,,,m³,99,80751.93,7994441.07,2024-12-19,2022-10-09,Living Room,Level 3,,DateLogicError;,Potential Clash (same type/material in room),Anomaly,80751.93000000001,True
+2$79946108$4415,Railing 485,IfcRailing,USERDEFINED,Brick Masonry,,,,set,40,1812.47,72498.8,2023-08-16,2021-10-11,,Level 8,No Clash,DateLogicError;,No Clash,Normal,1812.47,False
+2$95700705$5895,Window 204,IfcWindow,USERDEFINED,Glass - Tinted 8mm,,,,m²,28,15275.67,427718.76,2021-04-07,2022-08-24,Lobby,Level 5,No Clash,,No Clash,Normal,15275.67,False
+2$88476684$2960,Door 406,IfcDoor,STANDARD,Marble Slab,,,,m²,6,6237.56,37425.36,2025-04-30,2021-09-26,,Level 1,Minor Clash,DateLogicError;,No Clash,Normal,6237.56,False
+2$22267708$6544,Door 954,IfcDoor,,Glass - Tinted 8mm,,,,m²,8,84689.24,677513.92,2023-12-27,2021-09-22,Bedroom,Level 2,,DateLogicError;,No Clash,Anomaly,84689.24,False
+2$84940527$6690,DoorStandardCase 825,IfcDoorStandardCase,USERDEFINED,Wood - Oak,,,,set,25,1718.51,42962.75,2020-03-28,2024-03-27,Corridor,Level 2,Major Clash,,No Clash,Normal,1718.51,False
+2$75136149$8168,BuildingStorey 573,IfcBuildingStorey,USERDEFINED,Concrete C30/37,,,,kg,90,1649.72,148474.8,2025-06-30,2022-02-16,Kitchen,Level 8,Major Clash,DateLogicError;,No Clash,Normal,1649.7199999999998,False
+2$46953423$3627,WindowStandardCase 071,IfcWindowStandardCase,,Glass - Clear 6mm,,,,m,58,2254.74,130774.92,2023-04-26,2022-12-14,Corridor,Level 7,No Clash,DateLogicError;,No Clash,Normal,2254.74,False
+2$60874366$4039,Furniture 905,IfcFurniture,STANDARD,Paint - Emulsion White,,,,kg,94,310.73,29208.62,2022-09-05,2023-08-06,Bedroom,Level 8,,,No Clash,Normal,310.72999999999996,False
+2$76779917$3525,DoorStandardCase 628,IfcDoorStandardCase,USERDEFINED,Paint - Emulsion White,,,,pcs,53,2481.25,131506.25,2023-08-12,2021-03-28,,Level 8,,DateLogicError;,No Clash,Normal,2481.25,False
+2$33976493$1512,Wall 207,IfcWall,STANDARD,AAC Block,,2.39,16.482,m²,47,1831.93,86100.71,2022-06-23,2020-10-17,Living Room,Level 3,,DateLogicError;,Potential Clash (same type/material in room),Normal,1831.93,False
+2$72821834$1994,BuildingStorey 370,IfcBuildingStorey,,Reinforced Concrete,,,,set,114,5976.03,681267.42,2024-08-30,2024-02-20,Living Room,Level 9,Major Clash,DateLogicError;,Potential Clash (same type/material in room),Normal,5976.030000000001,False
+2$19447334$5979,Column 080,IfcColumn,STANDARD,Concrete C30/37,,,,kg,50,7663.95,383197.5,2022-02-15,2022-03-02,,Level 9,Minor Clash,,No Clash,Normal,7663.95,False
+2$65725133$2728,Column 785,IfcColumn,,Paint - Acrylic Grey,4290.0,,17.594,m²,22,56332.23,1239309.06,2022-01-08,2024-07-02,,Level 2,,,No Clash,Normal,56332.23,False
+2$52299387$6319,BuildingStorey 866,IfcBuildingStorey,USERDEFINED,Wood - Teak,,,,m³,98,16908.15,1656998.7,2024-10-29,2023-08-17,Bathroom,Level 9,Minor Clash,DateLogicError;,Potential Clash (same type/material in room),Normal,16908.149999999998,True
+2$44103265$6898,Slab 985,IfcSlab,USERDEFINED,Paint - Acrylic Grey,,27.13,,m²,93,2321.63,215911.59,2020-05-21,2023-03-11,Living Room,Level 8,Minor Clash,,Potential Clash (same type/material in room),Normal,2321.63,False
+2$10881653$5920,BuildingStorey 228,IfcBuildingStorey,STANDARD,Granite Slab,,,,no,41,1528.53,62669.73,2020-03-29,2023-02-04,Kitchen,Level 1,No Clash,,Potential Clash (same type/material in room),Normal,1528.53,False
+2$30952341$3267,Beam 272,IfcBeam,USERDEFINED,Wood - Teak,,,5.902,m²,74,9316.06,689388.44,2024-06-25,2022-06-09,Bedroom,Level 5,,DateLogicError;,Potential Clash (same type/material in room),Normal,9316.06,False
+2$87340611$2562,Door 610,IfcDoor,,Glass - Tinted 8mm,,,,pcs,5,883.33,4416.65,2024-04-11,2020-11-17,Living Room,Level 5,Major Clash,DateLogicError;,No Clash,Normal,883.3299999999999,False
+2$65904597$2974,BuildingStorey 891,IfcBuildingStorey,STANDARD,Aluminum,,,,set,84,53151.22,4464702.48,2020-02-16,2024-04-15,Living Room,Level 4,No Clash,,No Clash,Anomaly,53151.22000000001,True
+2$85821325$3450,WindowStandardCase 335,IfcWindowStandardCase,,Paint - Acrylic Grey,,,,set,29,22771.66,660378.14,2021-09-19,2020-07-25,Lobby,Level 7,No Clash,DateLogicError;,No Clash,Normal,22771.66,False
+2$48894019$7460,DoorStandardCase 152,IfcDoorStandardCase,STANDARD,Aluminum,,,,pcs,11,2670.64,29377.04,2025-05-03,2020-07-20,Lobby,Level 4,No Clash,DateLogicError;,Potential Clash (same type/material in room),Normal,2670.64,False
+2$68316409$3136,Slab 781,IfcSlab,STANDARD,Paint - Emulsion White,,,,m³,51,530.03,27031.53,2022-03-14,2025-11-17,Bathroom,Level 3,No Clash,,Potential Clash (same type/material in room),Normal,530.03,False
+2$53407575$2467,Window 116,IfcWindow,,Aluminum,,,,m³,55,28567.76,1571226.8,2024-02-05,2023-11-27,Bathroom,Level 5,Major Clash,DateLogicError;,No Clash,Normal,28567.760000000002,True
+2$50912093$3773,Roof 359,IfcRoof,,Concrete C25/30,,49.38,,kg,19,4234.83,80461.77,2024-12-09,2020-07-02,Bathroom,Level 3,Major Clash,DateLogicError;,No Clash,Normal,4234.83,False
+2$25082279$1893,Door 249,IfcDoor,,Reinforced Concrete,,,,m,37,24567.05,908980.85,2020-02-26,2023-11-07,Bedroom,Level 4,,,No Clash,Normal,24567.05,False
+2$54543739$4424,Beam 758,IfcBeam,,Concrete C25/30,1956.0,,,set,90,618.47,55662.3,2020-03-16,2024-03-22,,Level 4,Minor Clash,,No Clash,Normal,618.47,False
+2$36936968$5444,Wall 055,IfcWall,USERDEFINED,Granite Slab,,4.46,16.608,no,14,2254.79,31567.06,2020-03-19,2023-04-13,Lobby,Level 3,,,No Clash,Normal,2254.79,False
+2$52339783$8940,Column 888,IfcColumn,,Brick Masonry,,,5.052,kg,119,4948.39,588858.41,2020-03-29,2020-06-11,Bathroom,Level 8,Major Clash,,Potential Clash (same type/material in room),Normal,4948.39,False
+2$62801229$3572,WindowStandardCase 019,IfcWindowStandardCase,USERDEFINED,Glass - Tinted 8mm,,,,set,46,5224.29,240317.34,2023-12-26,2023-05-23,Bathroom,Level 8,,DateLogicError;,No Clash,Normal,5224.29,False
+2$93992429$5221,Furniture 900,IfcFurniture,USERDEFINED,Concrete C30/37,,,,no,8,2737.81,21902.48,2023-02-21,2022-07-12,Kitchen,Level 5,,DateLogicError;,No Clash,Normal,2737.81,False
+2$21783647$7262,Covering 534,IfcCovering,,AAC Block,,,,m³,31,11044.69,342385.39,2021-09-17,2024-10-12,Office,Level 9,Major Clash,,No Clash,Normal,11044.69,False
+2$27686156$4387,Beam 669,IfcBeam,STANDARD,Paint - Acrylic Grey,,,21.578,set,91,1226.71,111630.61,2025-11-15,2021-07-07,,Level 2,Minor Clash,DateLogicError;,No Clash,Normal,1226.71,False
+2$84804948$9732,WindowStandardCase 972,IfcWindowStandardCase,,Reinforced Concrete,,,,m²,24,4084.3,98023.2,2023-07-24,2021-08-19,Living Room,Level 5,,DateLogicError;,No Clash,Normal,4084.2999999999997,False
+2$69459055$5485,Slab 156,IfcSlab,STANDARD,Granite Slab,,,,m²,98,5746.72,563178.56,2022-12-29,2022-08-03,Bathroom,Level 3,,DateLogicError;,Potential Clash (same type/material in room),Normal,5746.72,False
+2$73968467$3196,WindowStandardCase 515,IfcWindowStandardCase,,Reinforced Concrete,,,,m³,48,9592.82,460455.36,2022-01-23,2024-05-06,,Level 7,Minor Clash,,No Clash,Normal,9592.82,False
+2$40369856$1528,Door 419,IfcDoor,STANDARD,Ceramic Tile,,,,pcs,53,12395.63,656968.39,2022-06-30,2022-04-10,Bathroom,Level 1,Minor Clash,DateLogicError;,Potential Clash (same type/material in room),Normal,12395.630000000001,False
+2$92820305$9027,BuildingStorey 705,IfcBuildingStorey,USERDEFINED,Glass - Clear 6mm,,,,no,59,1139.07,67205.13,2022-10-07,2024-10-17,Lobby,Level 0,,,No Clash,Normal,1139.0700000000002,False
+2$62902012$9784,Railing 538,IfcRailing,,Wood - Oak,,,,set,101,668.91,67559.91,2020-06-06,2025-11-02,Bedroom,Level 7,,,No Clash,Normal,668.9100000000001,False
+2$42980201$9498,Space 551,IfcSpace,USERDEFINED,Concrete C30/37,,,,set,6,25873.64,155241.84,2024-05-05,2025-10-15,Living Room,Level 3,Major Clash,,No Clash,Normal,25873.64,False
+2$50876565$5684,Beam 473,IfcBeam,STANDARD,Steel - Galvanized,,,,m³,107,7570.45,810038.15,2025-01-24,2021-01-05,Bedroom,Level 2,,DateLogicError;,Potential Clash (same type/material in room),Normal,7570.45,False
+2$53414191$8387,Slab 026,IfcSlab,STANDARD,Aluminum,,,,m³,12,1857.46,22289.52,2022-10-21,2023-08-20,Kitchen,Level 1,No Clash,,No Clash,Normal,1857.46,False
+2$95103759$6946,WallStandardCase 088,IfcWallStandardCase,,Glass - Clear 6mm,,23.03,,pcs,73,36919.59,2695130.07,2021-09-06,2021-10-26,Kitchen,Level 2,No Clash,,No Clash,Anomaly,36919.59,True
+2$51542843$8311,Slab 296,IfcSlab,,Granite Slab,,,,m,1,5712.3,5712.3,2022-11-02,2020-02-20,,Level 7,,DateLogicError;,No Clash,Normal,5712.3,False
+2$91602221$9084,Column 244,IfcColumn,STANDARD,Concrete C25/30,4368.7,,11.398,m²,77,22767.43,1753092.11,2020-01-27,2022-09-29,Office,Level 9,Minor Clash,,Potential Clash (same type/material in room),Normal,22767.43,True
+2$29898606$1902,Wall 669,IfcWall,USERDEFINED,Gypsum Board,,40.19,,m²,14,5365.66,75119.24,2024-09-03,2021-12-31,Kitchen,Level 4,,DateLogicError;,Potential Clash (same type/material in room),Normal,5365.660000000001,False
+2$58343701$1587,Beam 096,IfcBeam,USERDEFINED,Epoxy Coating,,,20.525,no,71,71608.73,5084219.83,2020-09-22,2023-04-14,,Level 2,No Clash,,No Clash,Anomaly,71608.73,True
+2$54185620$9635,Railing 424,IfcRailing,,Marble Slab,,,,m,90,48143.58,4332922.2,2022-05-06,2020-08-26,Bedroom,Level 9,No Clash,DateLogicError;,No Clash,Anomaly,48143.58,True
+2$67318164$6185,Beam 266,IfcBeam,,Granite Slab,4280.9,,23.185,kg,94,3555.84,334248.96,2025-07-31,2025-07-10,Kitchen,Level 9,Minor Clash,DateLogicError;,Potential Clash (same type/material in room),Normal,3555.84,False
+2$35978571$1025,Railing 122,IfcRailing,STANDARD,Granite Slab,,,,m³,81,17379.42,1407733.02,2021-04-28,2022-04-29,,Level 6,No Clash,,No Clash,Normal,17379.420000000002,False
+2$85217695$4478,WindowStandardCase 012,IfcWindowStandardCase,,Wood - Teak,,,,m,37,11372.9,420797.3,2022-11-08,2020-10-04,Office,Level 4,Major Clash,DateLogicError;,No Clash,Normal,11372.9,False
+2$25278911$6460,Furniture 350,IfcFurniture,USERDEFINED,Concrete C25/30,,,,set,146,29121.18,4251692.28,2020-04-29,2021-12-20,Bathroom,Level 5,Major Clash,,Potential Clash (same type/material in room),Anomaly,29121.18,True
+2$73686372$1582,BuildingStorey 662,IfcBuildingStorey,STANDARD,Glass - Tinted 8mm,,,,m³,20,1401.92,28038.4,2025-03-01,2023-10-04,,Level 6,No Clash,DateLogicError;,No Clash,Normal,1401.92,False
+2$50177237$6169,Space 569,IfcSpace,,Paint - Emulsion White,,,,m²,27,11990.46,323742.42,2023-09-20,2023-12-19,,Level 2,Major Clash,,No Clash,Normal,11990.46,False
+2$55520266$7147,Space 642,IfcSpace,,Concrete C25/30,,,,no,22,19456.8,428049.6,2024-05-14,2022-02-06,Bedroom,Level 4,Major Clash,DateLogicError;,No Clash,Normal,19456.8,False
+2$46439766$7780,Railing 089,IfcRailing,USERDEFINED,Concrete C30/37,,,,m,48,499.52,23976.96,2025-01-25,2023-05-24,Bathroom,Level 8,Major Clash,DateLogicError;,No Clash,Normal,499.52,False
+2$60226379$1612,Door 797,IfcDoor,STANDARD,Brick Masonry,,,,m²,57,1055.49,60162.93,2025-09-03,2020-04-12,,Level 8,Minor Clash,DateLogicError;,No Clash,Normal,1055.49,False
+2$74890505$9579,DoorStandardCase 318,IfcDoorStandardCase,USERDEFINED,Wood - Oak,,,,m,13,346.89,4509.57,2025-10-15,2021-06-27,Bathroom,Level 0,,DateLogicError;,No Clash,Normal,346.89,False
+2$25547243$1067,Slab 319,IfcSlab,STANDARD,Paint - Emulsion White,,,,pcs,60,3462.59,207755.4,2020-07-07,2021-02-26,,Level 0,,,No Clash,Normal,3462.5899999999997,False
+2$53067834$4285,Covering 198,IfcCovering,USERDEFINED,Ceramic Tile,,16.96,,no,57,12491.52,712016.64,2021-04-26,2023-01-21,Kitchen,Level 2,Major Clash,,No Clash,Normal,12491.52,False
+2$93610257$9422,WallStandardCase 105,IfcWallStandardCase,STANDARD,Concrete C25/30,4072.2,16.63,,m²,40,34650.39,1386015.6,2023-10-19,2024-12-22,Living Room,Level 2,No Clash,,No Clash,Normal,34650.39,False
+2$24217270$7284,Beam 056,IfcBeam,STANDARD,Concrete C30/37,,,17.646,kg,46,5411.73,248939.58,2023-07-03,2023-09-23,Bathroom,Level 8,No Clash,,Potential Clash (same type/material in room),Normal,5411.73,False
+2$86207390$3159,BuildingStorey 096,IfcBuildingStorey,,Glass - Clear 6mm,,,,m³,13,40831.14,530804.82,2025-02-09,2023-06-25,,Level 7,Minor Clash,DateLogicError;,No Clash,Normal,40831.14,False
+2$92804565$5227,DoorStandardCase 935,IfcDoorStandardCase,USERDEFINED,AAC Block,,,,m³,24,817.19,19612.56,2023-09-15,2023-08-23,,Level 7,No Clash,DateLogicError;,No Clash,Normal,817.19,False
+2$25151444$6758,WallStandardCase 491,IfcWallStandardCase,USERDEFINED,Glass - Tinted 8mm,,,12.748,no,92,536.79,49384.68,2021-03-14,2023-08-27,Bedroom,Level 4,,,No Clash,Normal,536.79,False
+2$65491233$4908,Slab 636,IfcSlab,STANDARD,Epoxy Coating,,33.1,,m³,9,4572.37,41151.33,2023-10-27,2022-05-02,,Level 6,Major Clash,DateLogicError;,No Clash,Normal,4572.37,False
+2$33231136$2276,Column 758,IfcColumn,,Porcelain Tile,4274.8,,2.947,pcs,72,8097.29,583004.88,2021-02-03,2024-12-28,Kitchen,Level 4,,,No Clash,Normal,8097.29,False
+2$90048179$7208,WallStandardCase 336,IfcWallStandardCase,USERDEFINED,Brick Masonry,,,,no,19,4710.25,89494.75,2021-09-03,2025-01-29,Office,Level 6,,,No Clash,Normal,4710.25,False
+2$52493026$5910,DoorStandardCase 584,IfcDoorStandardCase,,Ceramic Tile,,,,pcs,56,334.4,18726.4,2023-11-11,2020-12-31,Living Room,Level 9,,DateLogicError;,Potential Clash (same type/material in room),Normal,334.40000000000003,False
+2$49484797$2022,Space 379,IfcSpace,,AAC Block,,,,m²,1,4377.11,4377.11,2024-01-11,2021-03-25,Office,Level 0,Minor Clash,DateLogicError;,No Clash,Normal,4377.11,False
+2$62917798$6212,Slab 729,IfcSlab,USERDEFINED,Epoxy Coating,,24.66,,kg,28,901.62,25245.36,2021-12-11,2025-04-29,Kitchen,Level 3,,,No Clash,Normal,901.62,False
+2$66000400$3527,Space 296,IfcSpace,,Wood - Teak,,,,m,18,11737.85,211281.3,2020-02-17,2020-10-20,Living Room,Level 2,,,No Clash,Normal,11737.849999999999,False
+2$28223512$2387,Covering 141,IfcCovering,,Aluminum,,,,no,90,7915.5,712395.0,2024-10-09,2022-01-06,,Level 8,,DateLogicError;,No Clash,Normal,7915.5,False
+2$61635535$6821,Column 232,IfcColumn,STANDARD,Glass - Clear 6mm,,,,set,65,1448.32,94140.8,2023-01-07,2024-08-09,Corridor,Level 0,No Clash,,Potential Clash (same type/material in room),Normal,1448.32,False
+2$59469782$2854,Roof 595,IfcRoof,USERDEFINED,Glass - Tinted 8mm,,,,m,94,2519.9,236870.6,2025-11-26,2023-02-18,,Level 8,No Clash,DateLogicError;,No Clash,Normal,2519.9,False
+2$42914388$8740,Column 646,IfcColumn,,Reinforced Concrete,,,17.133,kg,7,1240.19,8681.33,2023-11-08,2025-12-31,Living Room,Level 7,,,No Clash,Normal,1240.19,False
+2$87036318$6431,Column 432,IfcColumn,USERDEFINED,Glass - Tinted 8mm,6747.7,,,set,119,4530.18,539091.42,2023-05-30,2022-12-02,Living Room,Level 7,Minor Clash,DateLogicError;,Potential Clash (same type/material in room),Normal,4530.18,False
+2$98089763$5780,Roof 829,IfcRoof,,Concrete C30/37,,37.65,,m³,11,17012.18,187133.98,2021-06-03,2025-09-01,Bedroom,Level 4,Major Clash,,Potential Clash (same type/material in room),Normal,17012.18,False
+2$46939015$5209,Door 015,IfcDoor,,Marble Slab,,,,m²,78,1364.52,106432.56,2021-12-16,2021-09-11,,Level 5,Minor Clash,DateLogicError;,No Clash,Normal,1364.52,False
+2$75084661$3962,Window 819,IfcWindow,,Porcelain Tile,,,,no,5,9464.1,47320.5,2023-11-05,2020-12-11,Kitchen,Level 9,Minor Clash,DateLogicError;,No Clash,Normal,9464.1,False
+2$65424925$7277,Space 244,IfcSpace,,Glass - Tinted 8mm,,,,m³,93,2466.77,229409.61,2021-11-16,2022-05-13,Corridor,Level 0,Major Clash,,No Clash,Normal,2466.77,False
+2$17049544$3745,Furniture 476,IfcFurniture,USERDEFINED,Brick Masonry,,,,m³,78,1753.32,136758.96,2025-05-04,2025-12-21,Bathroom,Level 6,,,No Clash,Normal,1753.32,False
+2$29481680$9690,Beam 892,IfcBeam,USERDEFINED,Marble Slab,675.9,,9.612,kg,88,4276.37,376320.56,2020-06-17,2021-02-02,Corridor,Level 6,Major Clash,,Potential Clash (same type/material in room),Normal,4276.37,False
+2$45847919$2610,WindowStandardCase 262,IfcWindowStandardCase,,Marble Slab,,,,kg,51,1279.45,65251.95,2025-03-03,2022-09-17,Bathroom,Level 8,Major Clash,DateLogicError;,No Clash,Normal,1279.45,False
+2$52046364$9972,Covering 011,IfcCovering,,Gypsum Board,,,,m²,53,2392.89,126823.17,2021-02-04,2025-11-21,,Level 7,Major Clash,,No Clash,Normal,2392.89,False
+2$43808923$4163,DoorStandardCase 035,IfcDoorStandardCase,STANDARD,Granite Slab,,,,kg,12,1035.62,12427.44,2020-08-20,2022-06-07,,Level 1,No Clash,,No Clash,Normal,1035.6200000000001,False
+2$60460287$4027,Space 918,IfcSpace,STANDARD,AAC Block,,,,set,24,63205.25,1516926.0,2022-11-03,2023-04-21,,Level 1,,,No Clash,Anomaly,63205.25,True
+2$67308741$6298,BuildingStorey 264,IfcBuildingStorey,STANDARD,Marble Slab,,,,no,10,5145.32,51453.2,2023-02-09,2020-09-12,Lobby,Level 6,Major Clash,DateLogicError;,No Clash,Normal,5145.32,False
+2$45522715$3915,Wall 452,IfcWall,STANDARD,Marble Slab,,,,m,70,1979.02,138531.4,2024-11-01,2022-06-13,Bedroom,Level 7,Major Clash,DateLogicError;,No Clash,Normal,1979.02,False
+2$19787090$2153,WallStandardCase 586,IfcWallStandardCase,,Concrete C30/37,2203.8,1.62,,m²,86,6491.01,558226.86,2024-05-18,2022-12-27,Kitchen,Level 5,,DateLogicError;,No Clash,Normal,6491.01,False
+2$79173535$9039,Roof 490,IfcRoof,USERDEFINED,Concrete C25/30,,,,kg,29,4247.02,123163.58,2020-01-14,2024-04-23,,Level 1,Major Clash,,No Clash,Normal,4247.02,False
+2$63769608$1904,WindowStandardCase 648,IfcWindowStandardCase,,Granite Slab,,,,m²,47,3687.63,173318.61,2025-12-29,2023-10-24,Bedroom,Level 7,Major Clash,DateLogicError;,Potential Clash (same type/material in room),Normal,3687.6299999999997,False
+2$33705307$1644,Covering 991,IfcCovering,USERDEFINED,Ceramic Tile,,39.81,,set,50,10920.71,546035.5,2021-03-13,2024-01-11,,Level 1,,,No Clash,Normal,10920.71,False
+2$28782825$1584,Railing 198,IfcRailing,STANDARD,Ceramic Tile,,,,set,76,13157.67,999982.92,2022-09-03,2025-06-26,Lobby,Level 1,Major Clash,,No Clash,Normal,13157.67,False
+2$70305001$1268,Beam 038,IfcBeam,USERDEFINED,Paint - Acrylic Grey,,,,no,84,2465.99,207143.16,2025-11-12,2025-02-20,Kitchen,Level 9,Minor Clash,DateLogicError;,No Clash,Normal,2465.9900000000002,False
+2$14949636$3319,BuildingStorey 501,IfcBuildingStorey,,Reinforced Concrete,,,,m²,61,2324.91,141819.51,2020-07-06,2022-09-21,Kitchen,Level 0,Minor Clash,,Potential Clash (same type/material in room),Normal,2324.9100000000003,False
+2$51250118$2594,Covering 468,IfcCovering,,Concrete C30/37,,,,no,105,3437.27,360913.35,2021-03-11,2021-04-12,,Level 9,Minor Clash,,No Clash,Normal,3437.27,False
+2$67205134$6527,WallStandardCase 831,IfcWallStandardCase,,Ceramic Tile,4941.7,,,no,6,246.53,1479.18,2021-12-11,2023-10-06,,Level 1,,,No Clash,Normal,246.53,False
+2$32555403$7060,Door 567,IfcDoor,STANDARD,Aluminum,,,,m³,32,685.57,21938.24,2020-06-15,2021-06-30,,Level 9,,,No Clash,Normal,685.57,False
+2$12097866$8978,Furniture 083,IfcFurniture,STANDARD,Gypsum Board,,,,m²,46,29054.73,1336517.58,2020-12-31,2023-03-08,Lobby,Level 7,Minor Clash,,No Clash,Normal,29054.730000000003,False
+2$95875952$5439,DoorStandardCase 536,IfcDoorStandardCase,USERDEFINED,AAC Block,,,,m³,31,41708.41,1292960.71,2021-12-15,2020-06-03,Kitchen,Level 7,No Clash,DateLogicError;,No Clash,Normal,41708.409999999996,False
+2$56688115$7861,Covering 005,IfcCovering,,Granite Slab,,,,kg,13,3555.51,46221.63,2024-01-22,2025-09-09,Bathroom,Level 7,Minor Clash,,No Clash,Normal,3555.5099999999998,False
+2$36000523$2846,Window 816,IfcWindow,STANDARD,Concrete C30/37,,,,set,61,10399.61,634376.21,2025-07-30,2021-12-23,Kitchen,Level 0,No Clash,DateLogicError;,Potential Clash (same type/material in room),Normal,10399.609999999999,False
+2$48260712$4433,Covering 446,IfcCovering,USERDEFINED,Wood - Teak,,20.39,,m²,14,7365.96,103123.44,2020-08-02,2021-12-21,Kitchen,Level 0,,,Potential Clash (same type/material in room),Normal,7365.96,False
+2$19510600$4855,Column 739,IfcColumn,USERDEFINED,Brick Masonry,4393.3,,10.535,m,100,269021.09,26902109.0,2021-03-27,2023-08-28,Bathroom,Level 1,Minor Clash,,Potential Clash (same type/material in room),Anomaly,269021.09,True
+2$36837617$7152,Railing 913,IfcRailing,STANDARD,Aluminum,,,,m²,61,21066.67,1285066.87,2025-06-07,2020-08-10,Lobby,Level 2,Minor Clash,DateLogicError;,No Clash,Normal,21066.670000000002,False
+2$33898911$7346,BuildingStorey 383,IfcBuildingStorey,STANDARD,Glass - Clear 6mm,,,,m³,93,4161.82,387049.26,2022-03-06,2024-01-08,Office,Level 3,,,No Clash,Normal,4161.82,False
+2$86325036$1977,Door 288,IfcDoor,STANDARD,Concrete C30/37,,,,m²,60,1419.13,85147.8,2025-02-21,2024-09-09,Kitchen,Level 5,Minor Clash,DateLogicError;,No Clash,Normal,1419.13,False
+2$91018650$3568,BuildingStorey 809,IfcBuildingStorey,,Granite Slab,,,,kg,116,608.88,70630.08,2021-11-27,2022-07-29,Bedroom,Level 6,,,No Clash,Normal,608.88,False
+2$89400640$8757,Space 858,IfcSpace,USERDEFINED,Ceramic Tile,,,,pcs,2,6402.88,12805.76,2024-10-19,2022-10-07,,Level 5,,DateLogicError;,No Clash,Normal,6402.88,False
+2$89426243$3440,Roof 936,IfcRoof,,Porcelain Tile,,53.95,,m²,6,1838.57,11031.42,2025-04-11,2025-08-27,Living Room,Level 6,,,No Clash,Normal,1838.57,False
+2$70725652$9114,Beam 247,IfcBeam,STANDARD,Brick Masonry,,,,m,17,773.61,13151.37,2024-01-08,2023-04-26,Bathroom,Level 1,No Clash,DateLogicError;,No Clash,Normal,773.61,False
+2$31716808$8524,Beam 879,IfcBeam,,Granite Slab,,,24.413,no,18,2120.6,38170.8,2024-07-18,2022-01-27,Corridor,Level 7,No Clash,DateLogicError;,No Clash,Normal,2120.6000000000004,False
+2$61657620$6454,Space 544,IfcSpace,STANDARD,Reinforced Concrete,,,,pcs,55,1204.7,66258.5,2023-01-10,2022-04-28,Bedroom,Level 9,Major Clash,DateLogicError;,Potential Clash (same type/material in room),Normal,1204.7,False
+2$79086760$6963,Railing 910,IfcRailing,STANDARD,Concrete C30/37,,,,m²,50,44058.96,2202948.0,2024-02-06,2025-03-21,,Level 5,,,No Clash,Normal,44058.96,True
+2$18993381$4354,Door 142,IfcDoor,USERDEFINED,Paint - Acrylic Grey,,,,m,70,15461.86,1082330.2,2021-04-10,2025-05-13,Bathroom,Level 3,Major Clash,,No Clash,Normal,15461.859999999999,False
+2$77587480$7929,WindowStandardCase 284,IfcWindowStandardCase,STANDARD,Marble Slab,,,,m²,48,4864.09,233476.32,2023-11-15,2025-01-27,,Level 8,No Clash,,No Clash,Normal,4864.09,False
+2$81518649$5788,Beam 463,IfcBeam,,Paint - Acrylic Grey,,,4.79,m²,11,33655.35,370208.85,2024-05-19,2022-01-02,Office,Level 1,No Clash,DateLogicError;,No Clash,Normal,33655.35,False
+2$25035684$3424,Door 509,IfcDoor,STANDARD,Marble Slab,,,,no,27,5434.8,146739.6,2025-11-02,2020-04-02,Office,Level 6,Minor Clash,DateLogicError;,Potential Clash (same type/material in room),Normal,5434.8,False
+2$66388890$8272,Beam 756,IfcBeam,,Wood - Teak,,,,no,67,1604.12,107476.04,2023-10-07,2024-08-13,Corridor,Level 5,,,No Clash,Normal,1604.12,False
+2$83614224$8295,Roof 469,IfcRoof,USERDEFINED,Paint - Emulsion White,,34.25,,m,102,35598.59,3631056.18,2022-11-30,2022-07-17,,Level 5,Major Clash,DateLogicError;,No Clash,Anomaly,35598.590000000004,True
+2$29909634$6785,Furniture 292,IfcFurniture,USERDEFINED,Concrete C30/37,,,,m,159,9902.9,1574561.1,2021-10-20,2023-03-14,Kitchen,Level 2,,,Potential Clash (same type/material in room),Anomaly,9902.900000000001,True
+2$25692379$1674,Door 325,IfcDoor,,Porcelain Tile,,,,m,57,1276.12,72738.84,2022-12-02,2024-02-23,Kitchen,Level 3,No Clash,,No Clash,Normal,1276.12,False
+2$56150365$3423,Covering 382,IfcCovering,USERDEFINED,Wood - Oak,,,,kg,39,3837.44,149660.16,2021-05-12,2020-04-12,Lobby,Level 7,,DateLogicError;,Potential Clash (same type/material in room),Normal,3837.44,False
+2$30945115$1070,Beam 994,IfcBeam,,Wood - Oak,4095.3,,16.216,m³,115,1574.51,181068.65,2023-04-02,2021-08-25,,Level 5,No Clash,DateLogicError;,No Clash,Normal,1574.51,False
+2$15379569$3284,Railing 695,IfcRailing,,Glass - Tinted 8mm,,,,m²,40,814.33,32573.2,2020-04-11,2024-07-03,Bathroom,Level 7,Major Clash,,No Clash,Normal,814.33,False
+2$17386489$4197,WallStandardCase 598,IfcWallStandardCase,,Wood - Oak,2021.7,,13.506,set,86,16383.51,1408981.86,2020-12-23,2025-09-27,Lobby,Level 3,,,No Clash,Normal,16383.510000000002,False
+2$17522583$6915,WindowStandardCase 408,IfcWindowStandardCase,STANDARD,Paint - Emulsion White,,,,set,55,58820.26,3235114.3,2024-02-23,2024-04-30,Corridor,Level 0,,,No Clash,Anomaly,58820.259999999995,True
+2$51350514$8300,WindowStandardCase 896,IfcWindowStandardCase,,Wood - Teak,,,,m²,28,797.8,22338.4,2024-12-24,2024-08-29,,Level 4,Minor Clash,DateLogicError;,No Clash,Normal,797.8000000000001,False
+2$65592149$3286,Furniture 856,IfcFurniture,,Aluminum,,,,kg,23,10217.53,235003.19,2021-08-11,2022-05-01,Office,Level 7,Major Clash,,No Clash,Normal,10217.53,False
+2$60435319$2449,WallStandardCase 007,IfcWallStandardCase,USERDEFINED,Epoxy Coating,,25.16,,m,24,2109.41,50625.84,2024-04-12,2023-03-31,,Level 0,,DateLogicError;,No Clash,Normal,2109.41,False
+2$50790697$9095,Space 573,IfcSpace,,Epoxy Coating,,,,m³,29,2609.04,75662.16,2020-04-19,2020-01-11,Kitchen,Level 4,,DateLogicError;,No Clash,Normal,2609.04,False
+2$26666744$5713,Covering 428,IfcCovering,STANDARD,Glass - Tinted 8mm,,,,m²,16,2275.35,36405.6,2023-02-09,2025-07-12,Bedroom,Level 9,,,No Clash,Normal,2275.35,False
+2$85910136$8144,Roof 890,IfcRoof,USERDEFINED,Glass - Tinted 8mm,,37.87,,set,105,1598.49,167841.45,2021-05-04,2024-03-08,,Level 4,Minor Clash,,No Clash,Normal,1598.49,False
+2$29614192$6237,Roof 473,IfcRoof,,Concrete C30/37,,,,m²,35,5234.77,183216.95,2024-01-19,2024-09-14,Corridor,Level 0,Major Clash,,No Clash,Normal,5234.77,False
+2$95757950$2258,Window 527,IfcWindow,STANDARD,Paint - Emulsion White,,,,no,24,1668.64,40047.36,2021-01-22,2021-11-15,Corridor,Level 5,Major Clash,,Potential Clash (same type/material in room),Normal,1668.64,False
+2$22862542$9755,Window 594,IfcWindow,USERDEFINED,Wood - Teak,,,,no,19,6985.51,132724.69,2020-02-22,2021-07-14,Office,Level 5,,,No Clash,Normal,6985.51,False
+2$31881401$2678,Slab 224,IfcSlab,STANDARD,Wood - Oak,,,,no,115,4604.04,529464.6,2025-11-23,2025-12-19,Bedroom,Level 6,,,No Clash,Normal,4604.04,False
+2$25645176$3150,BuildingStorey 946,IfcBuildingStorey,STANDARD,Reinforced Concrete,,,,m³,45,3602.44,162109.8,2023-06-30,2024-01-25,Kitchen,Level 7,Major Clash,,Potential Clash (same type/material in room),Normal,3602.4399999999996,False
+2$13860039$2943,Door 228,IfcDoor,STANDARD,Granite Slab,,,,no,19,1510.46,28698.74,2022-07-17,2023-06-13,Kitchen,Level 3,Minor Clash,,No Clash,Normal,1510.46,False
+2$24995099$2273,WallStandardCase 020,IfcWallStandardCase,USERDEFINED,Aluminum,,,,m³,16,2322.03,37152.48,2022-11-02,2020-06-26,Bedroom,Level 4,No Clash,DateLogicError;,Potential Clash (same type/material in room),Normal,2322.03,False
+2$26615289$4365,Furniture 602,IfcFurniture,STANDARD,Brick Masonry,,,,m,172,13121.52,2256901.44,2023-12-10,2020-04-29,Bedroom,Level 2,,DateLogicError;,No Clash,Anomaly,13121.52,True
+2$57271923$3630,Roof 876,IfcRoof,,Wood - Teak,,,,kg,73,9425.67,688073.91,2020-10-06,2021-02-09,Living Room,Level 8,,,Potential Clash (same type/material in room),Normal,9425.67,False
+2$47830178$3814,Railing 924,IfcRailing,,Ceramic Tile,,,,m²,93,1379.09,128255.37,2021-02-08,2022-05-26,,Level 5,,,No Clash,Normal,1379.09,False
+2$34273079$6813,Beam 389,IfcBeam,USERDEFINED,Brick Masonry,,,10.249,m²,60,5592.22,335533.2,2021-03-27,2025-10-29,Kitchen,Level 7,Major Clash,,No Clash,Normal,5592.22,False
+2$84777007$1665,Railing 085,IfcRailing,USERDEFINED,Granite Slab,,,,m³,15,13053.39,195800.85,2024-04-25,2023-03-07,,Level 9,,DateLogicError;,No Clash,Normal,13053.390000000001,False
+2$40316218$7672,Covering 298,IfcCovering,USERDEFINED,Glass - Clear 6mm,,,,no,103,561.03,57786.09,2025-05-02,2024-02-14,Kitchen,Level 0,,DateLogicError;,Potential Clash (same type/material in room),Normal,561.03,False
+2$63199848$8177,Covering 536,IfcCovering,,Brick Masonry,,,,m,51,9960.36,507978.36,2024-06-28,2021-02-20,Kitchen,Level 1,Major Clash,DateLogicError;,No Clash,Normal,9960.36,False
+2$36878911$7623,DoorStandardCase 126,IfcDoorStandardCase,STANDARD,Wood - Oak,,,,no,55,2076.81,114224.55,2025-08-06,2023-02-14,Office,Level 6,Major Clash,DateLogicError;,Potential Clash (same type/material in room),Normal,2076.81,False
+2$75032899$9379,Beam 286,IfcBeam,STANDARD,Steel - Galvanized,,,3.143,m³,30,10319.37,309581.1,2021-07-05,2020-05-01,Bedroom,Level 0,No Clash,DateLogicError;,Potential Clash (same type/material in room),Normal,10319.369999999999,False
+2$34037816$7269,Beam 620,IfcBeam,,Concrete C25/30,2692.5,,,no,10,1822.13,18221.3,2025-10-30,2025-07-09,,Level 3,Major Clash,DateLogicError;,No Clash,Normal,1822.1299999999999,False
+2$75800289$9270,Covering 268,IfcCovering,,Glass - Tinted 8mm,,,,no,5,470.43,2352.15,2024-10-28,2021-05-02,Lobby,Level 7,Major Clash,DateLogicError;,No Clash,Normal,470.43,False
+2$69398880$8531,Space 037,IfcSpace,STANDARD,Steel - Galvanized,,,,m,72,592.41,42653.52,2023-05-26,2021-11-03,,Level 6,,DateLogicError;,No Clash,Normal,592.41,False
+2$75425092$2792,Window 583,IfcWindow,,Steel - Galvanized,,,,m³,71,5231.8,371457.8,2025-04-08,2025-05-03,Kitchen,Level 8,No Clash,,No Clash,Normal,5231.8,False
+2$76396319$7189,Slab 632,IfcSlab,,Marble Slab,,,,pcs,8,6888.71,55109.68,2020-04-25,2020-07-03,Kitchen,Level 5,Major Clash,,No Clash,Normal,6888.71,False
+2$13610435$6591,Furniture 390,IfcFurniture,STANDARD,Epoxy Coating,,,,m³,89,1516.85,134999.65,2024-01-03,2024-08-14,Corridor,Level 0,Minor Clash,,Potential Clash (same type/material in room),Normal,1516.85,False
+2$96984204$6113,DoorStandardCase 607,IfcDoorStandardCase,STANDARD,Porcelain Tile,,,,set,9,11273.05,101457.45,2023-06-02,2021-04-13,Corridor,Level 2,No Clash,DateLogicError;,No Clash,Normal,11273.05,False
+2$15016739$8551,Column 674,IfcColumn,USERDEFINED,Wood - Oak,4235.5,,6.739,kg,3,566.81,1700.43,2023-07-20,2024-03-27,,Level 5,No Clash,,No Clash,Normal,566.8100000000001,False
+2$23429380$4373,Furniture 345,IfcFurniture,USERDEFINED,Glass - Tinted 8mm,,,,kg,196,4510.2,883999.2,2023-10-22,2021-11-13,Office,Level 5,,DateLogicError;,No Clash,Anomaly,4510.2,False
+2$95287876$2234,DoorStandardCase 861,IfcDoorStandardCase,,Glass - Tinted 8mm,,,,m,37,1018.09,37669.33,2022-12-22,2020-07-13,,Level 9,,DateLogicError;,No Clash,Normal,1018.09,False
+2$93828673$2506,Furniture 735,IfcFurniture,,Porcelain Tile,,,,m²,152,2106.14,320133.28,2023-10-11,2023-01-24,Bedroom,Level 9,,DateLogicError;,No Clash,Anomaly,2106.1400000000003,False
+2$56616029$2256,Slab 668,IfcSlab,USERDEFINED,Ceramic Tile,,30.53,,m³,85,5227.13,444306.05,2023-07-07,2022-03-30,Lobby,Level 6,,DateLogicError;,No Clash,Normal,5227.13,False
+2$70831313$9971,Roof 185,IfcRoof,STANDARD,Paint - Emulsion White,,,,kg,64,1605.94,102780.16,2022-05-22,2025-03-29,Office,Level 8,,,No Clash,Normal,1605.94,False
+2$94122098$1981,BuildingStorey 535,IfcBuildingStorey,STANDARD,Epoxy Coating,,,,pcs,60,2981.19,178871.4,2021-08-28,2022-09-11,Kitchen,Level 4,,,Potential Clash (same type/material in room),Normal,2981.19,False
+2$18647316$4335,Slab 867,IfcSlab,USERDEFINED,Wood - Oak,,16.38,,set,21,18181.88,381819.48,2022-11-16,2022-08-25,Lobby,Level 3,No Clash,DateLogicError;,No Clash,Normal,18181.879999999997,False
+2$13718391$5023,Door 817,IfcDoor,USERDEFINED,Ceramic Tile,,,,m³,63,2321.67,146265.21,2024-11-21,2024-09-24,Living Room,Level 3,Minor Clash,DateLogicError;,No Clash,Normal,2321.67,False
+2$13911355$5233,Window 809,IfcWindow,USERDEFINED,AAC Block,,,,set,71,14565.34,1034139.14,2021-12-21,2020-06-21,,Level 0,No Clash,DateLogicError;,No Clash,Normal,14565.34,False
+2$52131585$5882,Space 888,IfcSpace,STANDARD,Reinforced Concrete,,,,m³,115,1131.59,130132.85,2024-01-28,2021-01-04,Lobby,Level 2,,DateLogicError;,Potential Clash (same type/material in room),Normal,1131.5900000000001,False
+2$77142220$2976,WallStandardCase 535,IfcWallStandardCase,,Epoxy Coating,5905.5,,,no,104,9786.37,1017782.48,2023-07-07,2023-09-10,,Level 3,,,No Clash,Normal,9786.369999999999,False
+2$24336334$3869,DoorStandardCase 220,IfcDoorStandardCase,USERDEFINED,AAC Block,,,,m³,53,32017.54,1696929.62,2022-11-07,2020-08-17,,Level 8,Major Clash,DateLogicError;,No Clash,Normal,32017.54,True
+2$52478561$9941,Railing 434,IfcRailing,USERDEFINED,Brick Masonry,,,,set,32,197.72,6327.04,2023-02-11,2021-08-16,Corridor,Level 7,Major Clash,DateLogicError;,Potential Clash (same type/material in room),Normal,197.72,False
+2$12828532$1570,Space 862,IfcSpace,,Granite Slab,,,,set,103,1744.17,179649.51,2020-08-11,2022-09-08,Office,Level 8,,,No Clash,Normal,1744.17,False
+2$26381779$9763,Window 888,IfcWindow,STANDARD,Wood - Teak,,,,no,57,10406.58,593175.06,2024-05-10,2020-02-02,Lobby,Level 4,Major Clash,DateLogicError;,No Clash,Normal,10406.580000000002,False
+2$49919426$4446,WallStandardCase 881,IfcWallStandardCase,STANDARD,Porcelain Tile,6461.7,52.83,19.754,no,11,3774.57,41520.27,2025-07-06,2025-04-13,Lobby,Level 5,,DateLogicError;,Potential Clash (same type/material in room),Normal,3774.5699999999997,False
+2$31520919$5275,BuildingStorey 519,IfcBuildingStorey,STANDARD,Brick Masonry,,,,pcs,54,7962.43,429971.22,2023-08-31,2025-01-30,Living Room,Level 0,Minor Clash,,No Clash,Normal,7962.429999999999,False
+2$96046825$3229,Covering 004,IfcCovering,USERDEFINED,Glass - Clear 6mm,,12.4,,pcs,74,2241.32,165857.68,2020-12-02,2021-03-29,Kitchen,Level 3,Minor Clash,,Potential Clash (same type/material in room),Normal,2241.3199999999997,False
+2$52869025$8397,Space 490,IfcSpace,,Aluminum,,,,m,34,5500.35,187011.9,2021-12-11,2023-09-03,,Level 3,,,No Clash,Normal,5500.349999999999,False
+2$34412762$7447,Slab 898,IfcSlab,USERDEFINED,Wood - Teak,,,,m²,3,4014.31,12042.93,2022-07-25,2020-12-30,,Level 3,Major Clash,DateLogicError;,No Clash,Normal,4014.31,False
+2$16681756$7570,Railing 633,IfcRailing,USERDEFINED,Gypsum Board,,,,kg,34,22429.15,762591.1,2021-09-03,2020-12-30,Corridor,Level 2,No Clash,DateLogicError;,No Clash,Normal,22429.149999999998,False
+2$68406016$8433,Wall 848,IfcWall,,Paint - Emulsion White,,,23.657,pcs,96,6841.4,656774.4,2025-07-17,2024-04-13,Kitchen,Level 6,Minor Clash,DateLogicError;,No Clash,Normal,6841.400000000001,False
+2$47979220$4102,Roof 429,IfcRoof,STANDARD,Ceramic Tile,,,,m²,38,7622.68,289661.84,2022-12-08,2022-08-22,,Level 3,Major Clash,DateLogicError;,No Clash,Normal,7622.68,False
+2$21507650$1169,Roof 481,IfcRoof,STANDARD,Glass - Clear 6mm,,52.35,,set,28,2877.16,80560.48,2024-04-19,2024-09-29,Office,Level 1,,,Potential Clash (same type/material in room),Normal,2877.16,False
+2$16994436$6453,Column 954,IfcColumn,STANDARD,Concrete C30/37,3614.0,,,m²,33,2607.41,86044.53,2025-08-28,2024-04-09,Office,Level 6,Major Clash,DateLogicError;,Potential Clash (same type/material in room),Normal,2607.41,False
+2$15519702$3938,Door 267,IfcDoor,STANDARD,Paint - Acrylic Grey,,,,kg,64,2800.84,179253.76,2023-10-21,2025-04-01,Kitchen,Level 1,Major Clash,,No Clash,Normal,2800.84,False
+2$68106835$3323,Railing 267,IfcRailing,STANDARD,Paint - Emulsion White,,,,pcs,6,8207.37,49244.22,2021-06-07,2025-08-06,Office,Level 5,,,No Clash,Normal,8207.37,False
+2$92266282$5321,Window 530,IfcWindow,USERDEFINED,Marble Slab,,,,m³,22,2843.3,62552.6,2023-07-16,2025-07-05,Kitchen,Level 8,,,No Clash,Normal,2843.2999999999997,False
+2$29947547$1894,Wall 236,IfcWall,STANDARD,Ceramic Tile,829.5,10.23,10.967,m²,57,7163.17,408300.69,2023-12-31,2025-06-10,,Level 7,No Clash,,No Clash,Normal,7163.17,False
+2$26596590$6727,Space 096,IfcSpace,STANDARD,AAC Block,,,,no,37,72985.86,2700476.82,2022-01-09,2021-11-20,Office,Level 9,Minor Clash,DateLogicError;,Potential Clash (same type/material in room),Anomaly,72985.86,True
+2$80600592$3958,Roof 427,IfcRoof,STANDARD,Concrete C25/30,,15.15,,set,13,15251.94,198275.22,2023-09-08,2020-04-16,Office,Level 1,,DateLogicError;,No Clash,Normal,15251.94,False
+2$24236463$6300,WindowStandardCase 158,IfcWindowStandardCase,STANDARD,Epoxy Coating,,,,m²,59,3216.89,189796.51,2025-05-19,2025-02-02,,Level 9,No Clash,DateLogicError;,No Clash,Normal,3216.8900000000003,False
+2$98070016$8423,WindowStandardCase 333,IfcWindowStandardCase,,Concrete C30/37,,,,set,73,23425.44,1710057.12,2021-06-13,2022-05-15,Living Room,Level 4,Major Clash,,No Clash,Normal,23425.440000000002,True
+2$19492426$9964,Furniture 975,IfcFurniture,,Concrete C30/37,,,,m³,24,2891.42,69394.08,2024-06-21,2022-11-11,Kitchen,Level 3,,DateLogicError;,Potential Clash (same type/material in room),Normal,2891.42,False
+2$37947183$3669,WallStandardCase 398,IfcWallStandardCase,USERDEFINED,Concrete C25/30,,7.68,20.047,set,78,347.39,27096.42,2021-06-21,2024-01-10,Bedroom,Level 5,Minor Clash,,Potential Clash (same type/material in room),Normal,347.39,False
+2$62088494$8805,Beam 275,IfcBeam,,Glass - Clear 6mm,,,18.937,kg,24,1325.42,31810.08,2024-11-13,2024-10-10,Bedroom,Level 0,Major Clash,DateLogicError;,No Clash,Normal,1325.42,False
+2$96920825$3540,Beam 954,IfcBeam,USERDEFINED,Porcelain Tile,,,7.339,m²,117,431.8,50520.6,2025-05-10,2023-05-15,Kitchen,Level 2,Major Clash,DateLogicError;,No Clash,Normal,431.8,False
+2$80208227$8007,Space 303,IfcSpace,,Porcelain Tile,,,,m²,71,3112.04,220954.84,2020-11-09,2020-07-03,,Level 8,,DateLogicError;,No Clash,Normal,3112.04,False
+2$72365138$5151,Slab 364,IfcSlab,USERDEFINED,Brick Masonry,,,,m²,95,5033.87,478217.65,2025-03-10,2022-01-05,,Level 6,No Clash,DateLogicError;,No Clash,Normal,5033.87,False
+2$49949573$6143,WallStandardCase 602,IfcWallStandardCase,,Aluminum,3512.0,37.62,,m,24,43450.1,1042802.4,2020-11-16,2022-11-28,Bedroom,Level 6,No Clash,,Potential Clash (same type/material in room),Normal,43450.1,False
+2$25660291$1217,Wall 176,IfcWall,,Steel - Galvanized,3653.6,52.19,7.64,set,87,7517.63,654033.81,2024-06-05,2023-05-24,Bedroom,Level 2,,DateLogicError;,Potential Clash (same type/material in room),Normal,7517.630000000001,False
+2$25020641$1260,Wall 713,IfcWall,STANDARD,Ceramic Tile,,,16.279,no,81,3696.6,299424.6,2022-02-20,2020-12-18,Office,Level 7,Minor Clash,DateLogicError;,No Clash,Normal,3696.6,False
+2$12928205$2908,Beam 171,IfcBeam,STANDARD,Aluminum,5328.2,,24.1,m²,111,14446.79,1603593.69,2025-01-15,2022-09-20,Bathroom,Level 4,,DateLogicError;,No Clash,Normal,14446.789999999999,True
+2$11056868$2682,Wall 646,IfcWall,,Wood - Oak,3363.4,50.99,1.022,m³,66,277.42,18309.72,2025-06-21,2022-08-07,,Level 8,No Clash,DateLogicError;,No Clash,Normal,277.42,False
+2$52392689$2040,Slab 275,IfcSlab,,Epoxy Coating,,25.32,,m²,64,6676.16,427274.24,2023-11-21,2025-01-10,Lobby,Level 0,Minor Clash,,Potential Clash (same type/material in room),Normal,6676.16,False
+2$72980385$6633,Window 449,IfcWindow,STANDARD,Ceramic Tile,,,,kg,29,13388.14,388256.06,2023-10-21,2025-04-02,Kitchen,Level 4,,,No Clash,Normal,13388.14,False
+2$73394367$3654,Slab 637,IfcSlab,STANDARD,Wood - Teak,,,,set,62,718.98,44576.76,2021-06-12,2021-12-10,Bathroom,Level 2,,,No Clash,Normal,718.98,False
+2$76266658$5975,WallStandardCase 241,IfcWallStandardCase,STANDARD,Aluminum,,,,m,106,21739.37,2304373.22,2025-08-24,2020-05-10,Bedroom,Level 5,,DateLogicError;,Potential Clash (same type/material in room),Normal,21739.370000000003,True
+2$26198473$4671,WallStandardCase 499,IfcWallStandardCase,USERDEFINED,Porcelain Tile,6959.4,46.28,,set,7,7631.54,53420.78,2024-11-28,2025-02-15,Bedroom,Level 1,,,No Clash,Normal,7631.54,False
+2$15633042$9311,Space 108,IfcSpace,STANDARD,Paint - Acrylic Grey,,,,set,16,2864.43,45830.88,2022-04-21,2024-01-21,Kitchen,Level 4,,,No Clash,Normal,2864.43,False
+2$76892907$2626,Furniture 158,IfcFurniture,,Paint - Emulsion White,,,,pcs,86,11188.22,962186.92,2021-07-18,2021-05-18,Bathroom,Level 7,,DateLogicError;,No Clash,Normal,11188.220000000001,False
+2$42925764$8760,Furniture 350,IfcFurniture,USERDEFINED,Concrete C25/30,,,,kg,44,94080.0,4139520.0,2020-12-15,2022-12-25,Corridor,Level 6,Major Clash,,Potential Clash (same type/material in room),Anomaly,94080.0,True
+2$30348912$9677,Covering 432,IfcCovering,STANDARD,Porcelain Tile,,8.71,,m³,118,6225.61,734621.98,2024-08-03,2025-02-22,Corridor,Level 0,,,No Clash,Normal,6225.61,False
+2$79437366$2140,Door 087,IfcDoor,USERDEFINED,Concrete C25/30,,,,pcs,52,6786.47,352896.44,2021-11-04,2024-11-12,Living Room,Level 6,No Clash,,No Clash,Normal,6786.47,False
+2$87115770$1947,Covering 647,IfcCovering,,AAC Block,,48.04,,m³,52,2704.93,140656.36,2023-05-31,2023-07-08,,Level 0,Major Clash,,No Clash,Normal,2704.93,False
+2$91926643$3406,BuildingStorey 718,IfcBuildingStorey,USERDEFINED,Paint - Emulsion White,,,,m³,83,1628.15,135136.45,2022-04-20,2024-12-16,Corridor,Level 6,Minor Clash,,No Clash,Normal,1628.15,False
+2$21311994$1605,BuildingStorey 551,IfcBuildingStorey,USERDEFINED,Granite Slab,,,,m³,93,14464.27,1345177.11,2021-05-31,2025-11-01,Office,Level 3,No Clash,,No Clash,Normal,14464.27,False
+2$51909809$9541,Column 349,IfcColumn,,Paint - Acrylic Grey,,,22.269,m,107,1615.0,172805.0,2023-05-29,2024-09-27,Bedroom,Level 0,Major Clash,,No Clash,Normal,1615.0,False
+2$57576607$3028,Window 049,IfcWindow,,Paint - Emulsion White,,,,m²,58,5393.97,312850.26,2023-05-05,2020-01-22,,Level 5,,DateLogicError;,No Clash,Normal,5393.97,False
+2$85913174$9737,Furniture 865,IfcFurniture,,Epoxy Coating,,,,m,90,2641.35,237721.5,2023-05-10,2023-03-11,Kitchen,Level 6,Minor Clash,DateLogicError;,No Clash,Normal,2641.35,False
+2$79316990$4154,WallStandardCase 843,IfcWallStandardCase,USERDEFINED,Wood - Oak,,42.84,,m³,114,9160.66,1044315.24,2021-06-16,2025-05-04,Bathroom,Level 7,No Clash,,No Clash,Normal,9160.66,False
+2$64056687$9502,WindowStandardCase 798,IfcWindowStandardCase,USERDEFINED,Paint - Emulsion White,,,,no,34,7583.73,257846.82,2025-08-05,2024-09-30,,Level 7,,DateLogicError;,No Clash,Normal,7583.7300000000005,False
+2$29373816$9286,Space 131,IfcSpace,USERDEFINED,Gypsum Board,,,,set,59,18935.65,1117203.35,2021-06-13,2025-10-03,Bedroom,Level 3,,,No Clash,Normal,18935.65,False
+2$31050667$7051,Beam 944,IfcBeam,STANDARD,Concrete C30/37,4450.2,,2.847,kg,38,2532.54,96236.52,2020-06-13,2025-11-11,Kitchen,Level 1,Major Clash,,No Clash,Normal,2532.54,False
+2$50702879$5816,Window 498,IfcWindow,STANDARD,Wood - Teak,,,,no,19,3460.48,65749.12,2021-08-05,2024-09-23,,Level 4,Major Clash,,No Clash,Normal,3460.4799999999996,False
+2$75604774$1034,DoorStandardCase 126,IfcDoorStandardCase,,Gypsum Board,,,,pcs,9,1376.92,12392.28,2020-07-02,2024-09-06,,Level 9,Major Clash,,No Clash,Normal,1376.92,False
+2$55341868$7181,Roof 487,IfcRoof,,Glass - Clear 6mm,,,,no,18,2758.43,49651.74,2025-08-29,2025-03-02,,Level 7,Minor Clash,DateLogicError;,No Clash,Normal,2758.43,False
+2$21987653$7711,Space 397,IfcSpace,STANDARD,Wood - Oak,,,,m³,44,8026.39,353161.16,2020-07-06,2024-12-19,Office,Level 1,,,No Clash,Normal,8026.389999999999,False
+2$86771841$6060,Railing 575,IfcRailing,,Concrete C25/30,,,,m²,83,13148.79,1091349.57,2020-12-14,2022-02-27,Living Room,Level 9,Minor Clash,,No Clash,Normal,13148.79,False
+2$77463037$1305,Furniture 124,IfcFurniture,,Glass - Tinted 8mm,,,,kg,47,1482.06,69656.82,2020-03-18,2023-01-31,Bathroom,Level 3,,,Potential Clash (same type/material in room),Normal,1482.0600000000002,False
+2$91450675$6249,WallStandardCase 412,IfcWallStandardCase,,Paint - Acrylic Grey,,,10.432,m³,33,15221.86,502321.38,2021-01-07,2021-04-14,Bedroom,Level 8,Minor Clash,,No Clash,Normal,15221.86,False
+2$34517408$5187,Window 787,IfcWindow,STANDARD,AAC Block,,,,m,40,28633.4,1145336.0,2024-07-26,2021-11-24,Living Room,Level 9,Major Clash,DateLogicError;,No Clash,Normal,28633.4,False
+2$17851976$5882,Door 400,IfcDoor,STANDARD,Concrete C25/30,,,,pcs,19,8412.43,159836.17,2024-08-17,2023-08-20,Office,Level 6,No Clash,DateLogicError;,No Clash,Normal,8412.43,False
+2$42161649$4874,Wall 505,IfcWall,,Ceramic Tile,5415.3,56.99,1.61,kg,53,56378.01,2988034.53,2020-09-25,2025-06-06,Living Room,Level 6,,,No Clash,Anomaly,56378.009999999995,True
+2$46126008$2663,BuildingStorey 253,IfcBuildingStorey,,Concrete C25/30,,,,set,101,1797.36,181533.36,2021-05-29,2023-06-01,,Level 7,No Clash,,No Clash,Normal,1797.36,False
+2$37307523$3332,Space 383,IfcSpace,,Paint - Emulsion White,,,,m,101,974.52,98426.52,2022-10-01,2024-10-01,,Level 0,No Clash,,No Clash,Normal,974.5200000000001,False
+2$93312959$5739,Space 669,IfcSpace,STANDARD,Glass - Clear 6mm,,,,m²,8,486.71,3893.68,2025-05-29,2023-01-24,Office,Level 6,,DateLogicError;,No Clash,Normal,486.71,False
+2$88538733$9361,Space 289,IfcSpace,STANDARD,Ceramic Tile,,,,m,95,34367.19,3264883.05,2025-12-27,2020-10-13,Office,Level 1,,DateLogicError;,No Clash,Anomaly,34367.189999999995,True
+2$28743541$5578,Railing 900,IfcRailing,USERDEFINED,Brick Masonry,,,,m,79,11506.59,909020.61,2025-08-29,2023-07-27,Corridor,Level 4,,DateLogicError;,Potential Clash (same type/material in room),Normal,11506.59,False
+2$98889317$6269,Window 350,IfcWindow,STANDARD,Porcelain Tile,,,,m³,77,4572.16,352056.32,2023-09-07,2020-03-06,Kitchen,Level 0,,DateLogicError;,Potential Clash (same type/material in room),Normal,4572.16,False
+2$33291610$7769,Wall 570,IfcWall,,Concrete C25/30,5101.1,,13.512,set,16,7072.43,113158.88,2023-12-16,2024-03-21,Corridor,Level 6,Minor Clash,,No Clash,Normal,7072.43,False
+2$26745522$8580,Space 380,IfcSpace,STANDARD,Concrete C25/30,,,,m³,2,1137.81,2275.62,2022-06-26,2020-03-22,Office,Level 5,Minor Clash,DateLogicError;,No Clash,Normal,1137.81,False
+2$39681939$4838,WallStandardCase 506,IfcWallStandardCase,USERDEFINED,Granite Slab,835.5,,,m²,112,118122.51,13229721.12,2023-02-10,2025-08-11,,Level 2,Minor Clash,,No Clash,Anomaly,118122.51,True
+2$90929605$3875,Covering 067,IfcCovering,,Epoxy Coating,,,,m,34,5813.79,197668.86,2022-07-22,2025-11-12,Office,Level 3,No Clash,,No Clash,Normal,5813.79,False
+2$92470962$5143,Railing 698,IfcRailing,,Paint - Acrylic Grey,,,,m³,1,5665.86,5665.86,2024-10-15,2020-07-31,Corridor,Level 6,,DateLogicError;,No Clash,Normal,5665.86,False
+2$79564413$8644,Window 508,IfcWindow,USERDEFINED,Brick Masonry,,,,kg,6,12625.79,75754.74,2022-07-08,2020-07-11,Office,Level 6,,DateLogicError;,No Clash,Normal,12625.79,False
+2$62594409$4188,WindowStandardCase 343,IfcWindowStandardCase,STANDARD,Concrete C25/30,,,,kg,4,9184.86,36739.44,2022-07-13,2024-10-01,,Level 3,Minor Clash,,No Clash,Normal,9184.86,False
+2$51715656$2029,Door 642,IfcDoor,,Wood - Oak,,,,m²,4,6575.13,26300.52,2025-05-19,2024-11-04,Living Room,Level 9,Major Clash,DateLogicError;,No Clash,Normal,6575.13,False
+2$43172390$2766,Space 485,IfcSpace,STANDARD,Marble Slab,,,,pcs,107,1758.79,188190.53,2020-08-10,2023-09-28,Bathroom,Level 1,,,No Clash,Normal,1758.79,False
+2$93932889$8314,Furniture 593,IfcFurniture,STANDARD,Brick Masonry,,,,m²,16,9071.64,145146.24,2020-05-16,2024-03-25,,Level 1,Minor Clash,,No Clash,Normal,9071.64,False
+2$17353632$5939,Wall 626,IfcWall,,Glass - Clear 6mm,,,7.443,m³,13,56762.54,737913.02,2024-08-10,2022-08-12,Living Room,Level 7,,DateLogicError;,No Clash,Anomaly,56762.54,False
+2$93243271$2659,Beam 348,IfcBeam,,Aluminum,,,11.407,kg,25,28255.57,706389.25,2021-03-18,2021-02-24,Living Room,Level 9,No Clash,DateLogicError;,No Clash,Normal,28255.57,False
+2$86935230$3064,Roof 653,IfcRoof,,Ceramic Tile,,15.75,,m³,93,38993.2,3626367.6,2024-12-26,2022-01-31,Bathroom,Level 2,,DateLogicError;,No Clash,Anomaly,38993.200000000004,True
+2$51831217$8140,Wall 526,IfcWall,,AAC Block,5428.0,,3.77,kg,44,2528.6,111258.4,2023-04-07,2024-02-19,Living Room,Level 8,,,Potential Clash (same type/material in room),Normal,2528.6,False
+2$78062865$1894,Wall 433,IfcWall,USERDEFINED,Porcelain Tile,,,19.653,m,86,1357.65,116757.9,2025-05-02,2025-03-29,Corridor,Level 9,Major Clash,DateLogicError;,No Clash,Normal,1357.6499999999999,False
+2$66196330$6384,Roof 167,IfcRoof,STANDARD,Granite Slab,,,,m³,29,4173.36,121027.44,2020-01-16,2022-07-02,Bathroom,Level 7,Minor Clash,,Potential Clash (same type/material in room),Normal,4173.36,False
+2$54495204$7158,DoorStandardCase 211,IfcDoorStandardCase,USERDEFINED,Glass - Tinted 8mm,,,,m,1,5284.02,5284.02,2024-01-26,2020-02-10,Bedroom,Level 5,No Clash,DateLogicError;,No Clash,Normal,5284.02,False
+2$29112869$5760,Column 451,IfcColumn,STANDARD,Brick Masonry,4640.5,,,m,26,20382.85,529954.1,2023-03-09,2021-12-14,Bathroom,Level 4,Minor Clash,DateLogicError;,Potential Clash (same type/material in room),Normal,20382.85,False
+2$43012764$3925,WindowStandardCase 201,IfcWindowStandardCase,STANDARD,Paint - Acrylic Grey,,,,m,34,544.46,18511.64,2021-02-18,2020-03-26,Kitchen,Level 6,No Clash,DateLogicError;,No Clash,Normal,544.46,False
+2$50946121$8474,WindowStandardCase 246,IfcWindowStandardCase,USERDEFINED,Ceramic Tile,,,,no,48,35897.23,1723067.04,2021-12-02,2025-11-28,Lobby,Level 1,,,No Clash,Normal,35897.23,True
+2$35453201$4140,Door 546,IfcDoor,USERDEFINED,AAC Block,,,,set,48,4002.16,192103.68,2023-07-26,2024-10-25,Bathroom,Level 0,Minor Clash,,No Clash,Normal,4002.16,False
+2$49484539$3434,Space 336,IfcSpace,STANDARD,Paint - Acrylic Grey,,,,m²,81,2821.59,228548.79,2023-02-21,2021-06-01,,Level 3,No Clash,DateLogicError;,No Clash,Normal,2821.59,False
+2$99053757$2062,Furniture 172,IfcFurniture,,Glass - Tinted 8mm,,,,m³,193,1318.52,254474.36,2025-09-16,2024-03-12,,Level 8,,DateLogicError;,No Clash,Anomaly,1318.52,False
+2$60181152$9609,Door 712,IfcDoor,USERDEFINED,Wood - Oak,,,,set,64,571.74,36591.36,2025-04-24,2023-01-04,Lobby,Level 9,No Clash,DateLogicError;,No Clash,Normal,571.74,False
+2$37246265$8406,DoorStandardCase 884,IfcDoorStandardCase,STANDARD,Porcelain Tile,,,,m³,28,14330.16,401244.48,2023-06-07,2024-10-06,Lobby,Level 9,Minor Clash,,No Clash,Normal,14330.16,False
+2$44162336$2388,BuildingStorey 138,IfcBuildingStorey,STANDARD,Wood - Teak,,,,pcs,57,5406.26,308156.82,2025-10-26,2023-12-11,Bathroom,Level 9,No Clash,DateLogicError;,Potential Clash (same type/material in room),Normal,5406.26,False
+2$93366096$6511,Beam 437,IfcBeam,USERDEFINED,Paint - Emulsion White,,,9.251,pcs,35,918.78,32157.3,2024-04-15,2020-04-11,Kitchen,Level 7,,DateLogicError;,Potential Clash (same type/material in room),Normal,918.78,False
+2$58196637$2350,Window 302,IfcWindow,,Reinforced Concrete,,,,kg,70,912.69,63888.3,2020-11-16,2023-02-06,Bathroom,Level 1,No Clash,,No Clash,Normal,912.69,False
+2$15138040$9946,WallStandardCase 206,IfcWallStandardCase,USERDEFINED,Wood - Teak,1858.5,15.38,,no,97,3176.32,308103.04,2022-12-05,2020-02-04,Office,Level 4,Major Clash,DateLogicError;,Potential Clash (same type/material in room),Normal,3176.3199999999997,False
+2$64459981$1194,Furniture 484,IfcFurniture,,Steel - Galvanized,,,,kg,195,43033.23,8391479.85,2021-09-03,2024-06-16,,Level 3,Minor Clash,,No Clash,Anomaly,43033.229999999996,True
+2$79232906$8679,Beam 740,IfcBeam,USERDEFINED,Porcelain Tile,,,,m³,99,3507.05,347197.95,2024-09-06,2022-05-08,,Level 7,No Clash,DateLogicError;,No Clash,Normal,3507.05,False
+2$87511871$3102,WindowStandardCase 313,IfcWindowStandardCase,,AAC Block,,,,m²,64,696.39,44568.96,2023-12-23,2023-10-23,Bathroom,Level 6,,DateLogicError;,No Clash,Normal,696.39,False
+2$82155988$5909,Covering 334,IfcCovering,,Steel - Galvanized,,,,m,20,3570.76,71415.2,2023-09-14,2024-05-20,Lobby,Level 3,,,No Clash,Normal,3570.7599999999998,False
+2$61866272$4085,WallStandardCase 487,IfcWallStandardCase,STANDARD,Paint - Acrylic Grey,2704.6,38.52,,set,71,3447.69,244785.99,2021-12-28,2020-05-11,,Level 0,,DateLogicError;,No Clash,Normal,3447.69,False
+2$61793831$5650,DoorStandardCase 211,IfcDoorStandardCase,STANDARD,Reinforced Concrete,,,,pcs,68,147.53,10032.04,2020-10-13,2025-02-05,Living Room,Level 5,No Clash,,No Clash,Normal,147.53,False
+2$65144861$7407,Door 161,IfcDoor,STANDARD,Wood - Oak,,,,m,69,4579.83,316008.27,2024-09-09,2025-05-12,Bedroom,Level 6,Minor Clash,,No Clash,Normal,4579.83,False
+2$51574904$8081,Door 838,IfcDoor,,Ceramic Tile,,,,set,61,3640.17,222050.37,2021-10-12,2023-06-25,Bathroom,Level 8,,,Potential Clash (same type/material in room),Normal,3640.17,False
+2$10999023$3337,Window 457,IfcWindow,STANDARD,Ceramic Tile,,,,no,52,12149.8,631789.6,2022-10-08,2025-11-23,,Level 9,,,No Clash,Normal,12149.8,False
+2$87327229$1640,Beam 755,IfcBeam,STANDARD,Glass - Clear 6mm,2442.6,,8.735,m³,79,54374.08,4295552.32,2021-12-18,2024-08-27,,Level 2,,,No Clash,Anomaly,54374.08,True
+2$98460225$4005,Beam 716,IfcBeam,,Steel - Galvanized,,,,pcs,113,21258.98,2402264.74,2023-04-10,2020-09-30,,Level 7,,DateLogicError;,No Clash,Anomaly,21258.980000000003,True
+2$26271298$7041,Furniture 079,IfcFurniture,STANDARD,Paint - Acrylic Grey,,,,kg,197,3464.92,682589.24,2023-08-28,2024-08-06,,Level 2,Major Clash,,No Clash,Anomaly,3464.92,False
+2$15990830$8572,DoorStandardCase 028,IfcDoorStandardCase,STANDARD,Paint - Emulsion White,,,,set,60,1166.21,69972.6,2024-04-10,2023-11-08,Lobby,Level 3,,DateLogicError;,No Clash,Normal,1166.21,False
+2$43635732$2878,Wall 727,IfcWall,STANDARD,Concrete C25/30,2693.5,,,set,57,139436.94,7947905.58,2021-07-28,2025-04-12,Office,Level 2,,,No Clash,Anomaly,139436.94,True
+2$91468625$2646,Space 182,IfcSpace,USERDEFINED,Concrete C25/30,,,,m²,69,5308.07,366256.83,2024-05-19,2021-11-20,,Level 0,Major Clash,DateLogicError;,No Clash,Normal,5308.070000000001,False
+2$58061622$3915,Door 222,IfcDoor,,Glass - Clear 6mm,,,,m²,69,5004.58,345316.02,2022-06-04,2024-12-15,Living Room,Level 8,No Clash,,No Clash,Normal,5004.58,False
+2$69590884$1858,Slab 613,IfcSlab,STANDARD,Granite Slab,,,,no,26,4763.02,123838.52,2022-10-19,2024-03-14,Bathroom,Level 3,No Clash,,Potential Clash (same type/material in room),Normal,4763.02,False
+2$13750602$1238,Wall 346,IfcWall,STANDARD,Aluminum,,,,set,22,6358.26,139881.72,2020-06-29,2024-08-29,Bedroom,Level 5,,,Potential Clash (same type/material in room),Normal,6358.26,False
+2$93842238$4393,Column 957,IfcColumn,,Ceramic Tile,3128.4,,,m²,46,4073.8,187394.8,2023-08-17,2021-12-12,Living Room,Level 6,Major Clash,DateLogicError;,No Clash,Normal,4073.7999999999997,False
+2$38557229$8516,Wall 226,IfcWall,STANDARD,Steel - Galvanized,,39.17,,m³,39,2331.44,90926.16,2025-08-08,2021-02-21,Kitchen,Level 4,No Clash,DateLogicError;,Potential Clash (same type/material in room),Normal,2331.44,False
+2$94674464$7366,Roof 695,IfcRoof,,Wood - Oak,,,,set,98,2414.1,236581.8,2023-07-26,2025-05-28,,Level 5,,,No Clash,Normal,2414.1,False
+2$70251890$7264,Roof 524,IfcRoof,,Epoxy Coating,,,,m,3,4709.89,14129.67,2021-05-23,2023-06-19,,Level 6,Minor Clash,,No Clash,Normal,4709.89,False
+2$18042731$3253,Roof 384,IfcRoof,USERDEFINED,Reinforced Concrete,,,,m³,27,2424.91,65472.57,2020-06-04,2022-09-02,,Level 5,Minor Clash,,No Clash,Normal,2424.91,False
+2$96382807$1648,Window 534,IfcWindow,USERDEFINED,Wood - Oak,,,,set,37,1945.55,71985.35,2020-04-07,2022-07-27,Corridor,Level 5,Minor Clash,,No Clash,Normal,1945.5500000000002,False
+2$17257686$5068,DoorStandardCase 821,IfcDoorStandardCase,,Paint - Acrylic Grey,,,,set,29,5644.06,163677.74,2024-04-11,2025-11-05,,Level 2,,,No Clash,Normal,5644.0599999999995,False
+2$18672730$9055,Covering 072,IfcCovering,STANDARD,Concrete C25/30,,,,m,17,3528.15,59978.55,2021-01-10,2021-12-12,Bathroom,Level 3,No Clash,,No Clash,Normal,3528.15,False
+2$51803852$3689,Slab 739,IfcSlab,STANDARD,Glass - Clear 6mm,,,,kg,32,34724.16,1111173.12,2023-05-26,2023-03-14,,Level 3,Major Clash,DateLogicError;,No Clash,Normal,34724.16,False
+2$20739561$6891,Space 408,IfcSpace,USERDEFINED,Glass - Tinted 8mm,,,,m,61,156.61,9553.21,2024-12-12,2024-09-27,Lobby,Level 2,,DateLogicError;,No Clash,Normal,156.60999999999999,False
+2$67364292$2363,Wall 778,IfcWall,USERDEFINED,Steel - Galvanized,,,6.507,pcs,59,20311.83,1198397.97,2023-03-06,2024-03-16,,Level 1,Major Clash,,No Clash,Normal,20311.829999999998,False
+2$36268523$3535,Door 939,IfcDoor,STANDARD,Glass - Tinted 8mm,,,,m²,2,24832.55,49665.1,2025-08-12,2024-03-12,,Level 6,,DateLogicError;,No Clash,Normal,24832.55,False
+2$61544630$9020,Slab 316,IfcSlab,,Wood - Teak,,,,m³,114,331.82,37827.48,2020-06-08,2021-05-24,Lobby,Level 9,Minor Clash,,No Clash,Normal,331.82000000000005,False
+2$44260204$6711,DoorStandardCase 522,IfcDoorStandardCase,,Aluminum,,,,m³,48,3147.95,151101.6,2020-08-24,2024-04-27,Lobby,Level 3,Minor Clash,,Potential Clash (same type/material in room),Normal,3147.9500000000003,False
+2$58508204$1462,Beam 715,IfcBeam,,Concrete C30/37,,,,pcs,32,3032.45,97038.4,2021-10-23,2020-02-20,Bedroom,Level 1,,DateLogicError;,No Clash,Normal,3032.45,False
+2$20784168$9495,Slab 932,IfcSlab,STANDARD,Epoxy Coating,,,,no,55,788.58,43371.9,2022-11-01,2023-05-22,Lobby,Level 9,Major Clash,,Potential Clash (same type/material in room),Normal,788.58,False
+2$21928391$2790,Railing 652,IfcRailing,,Aluminum,,,,no,103,1787.97,184160.91,2023-11-11,2021-08-07,Office,Level 3,,DateLogicError;,No Clash,Normal,1787.97,False
+2$10861718$3759,Railing 836,IfcRailing,USERDEFINED,Granite Slab,,,,m²,13,1160.09,15081.17,2020-10-13,2024-09-07,,Level 4,,,No Clash,Normal,1160.09,False
+2$60284858$4053,Door 721,IfcDoor,STANDARD,Gypsum Board,,,,m,63,47951.8,3020963.4,2022-01-15,2025-08-20,Bedroom,Level 7,,,No Clash,Anomaly,47951.799999999996,True
+2$17916438$3993,Door 829,IfcDoor,STANDARD,Ceramic Tile,,,,pcs,53,16587.12,879117.36,2024-12-10,2021-03-23,Kitchen,Level 1,Major Clash,DateLogicError;,Potential Clash (same type/material in room),Normal,16587.12,False
+2$26734478$5534,WallStandardCase 066,IfcWallStandardCase,USERDEFINED,Steel - Galvanized,,,,no,1,25668.55,25668.55,2020-06-20,2021-01-31,Bathroom,Level 8,No Clash,,No Clash,Normal,25668.55,False
+2$45679876$8961,Slab 485,IfcSlab,USERDEFINED,Paint - Emulsion White,,36.46,,pcs,88,12558.76,1105170.88,2023-11-06,2023-07-15,Bathroom,Level 5,,DateLogicError;,Potential Clash (same type/material in room),Normal,12558.759999999998,False
+2$57785434$6410,Slab 826,IfcSlab,STANDARD,Concrete C30/37,,0.68,,set,107,1132.56,121183.92,2021-07-22,2020-04-15,Bedroom,Level 8,Major Clash,DateLogicError;,No Clash,Normal,1132.56,False
+2$59449823$8404,Railing 634,IfcRailing,,Porcelain Tile,,,,set,112,2485.24,278346.88,2025-04-30,2025-10-10,Lobby,Level 3,No Clash,,No Clash,Normal,2485.2400000000002,False
+2$12232081$6901,Covering 895,IfcCovering,STANDARD,Wood - Oak,,58.19,,set,57,9285.29,529261.53,2022-08-14,2025-06-07,Lobby,Level 9,No Clash,,Potential Clash (same type/material in room),Normal,9285.29,False
+2$73904001$2645,WindowStandardCase 752,IfcWindowStandardCase,USERDEFINED,Aluminum,,,,pcs,78,1003.48,78271.44,2022-03-10,2021-08-09,Living Room,Level 2,,DateLogicError;,No Clash,Normal,1003.48,False
+2$50446284$9990,Furniture 896,IfcFurniture,USERDEFINED,Reinforced Concrete,,,,m,115,12417.95,1428064.25,2021-04-18,2025-05-28,Bathroom,Level 3,Minor Clash,,No Clash,Normal,12417.95,False
+2$24155900$8125,Door 733,IfcDoor,STANDARD,Reinforced Concrete,,,,m,42,3596.0,151032.0,2024-04-19,2023-02-22,Bathroom,Level 4,,DateLogicError;,No Clash,Normal,3596.0,False
+2$99318726$3224,BuildingStorey 945,IfcBuildingStorey,,Brick Masonry,,,,set,93,3019.16,280781.88,2025-07-08,2021-01-05,,Level 3,No Clash,DateLogicError;,No Clash,Normal,3019.16,False
+2$60601468$7252,Covering 670,IfcCovering,,Wood - Oak,,47.21,,no,30,12385.08,371552.4,2022-07-04,2022-11-27,Bedroom,Level 4,,,No Clash,Normal,12385.08,False
+2$55665951$4082,WallStandardCase 763,IfcWallStandardCase,STANDARD,Reinforced Concrete,,51.27,,pcs,8,8756.42,70051.36,2022-02-16,2024-05-08,Lobby,Level 5,,,No Clash,Normal,8756.42,False
+2$79759849$4639,Furniture 110,IfcFurniture,USERDEFINED,AAC Block,,,,m²,138,3074.03,424216.14,2025-03-01,2023-07-18,,Level 4,,DateLogicError;,No Clash,Normal,3074.03,False
+2$29787096$5643,Beam 150,IfcBeam,,Glass - Clear 6mm,,,15.012,kg,89,22184.05,1974380.45,2021-05-20,2023-01-25,,Level 3,,,No Clash,Normal,22184.05,True
+2$17893691$6458,Window 157,IfcWindow,,Steel - Galvanized,,,,m,29,1205.46,34958.34,2020-08-03,2022-01-03,,Level 6,Major Clash,,No Clash,Normal,1205.4599999999998,False
+2$12894515$9977,Space 402,IfcSpace,USERDEFINED,Gypsum Board,,,,m³,87,10945.86,952289.82,2025-04-23,2023-11-27,Lobby,Level 6,,DateLogicError;,No Clash,Normal,10945.859999999999,False
+2$47898265$4196,Column 718,IfcColumn,,Granite Slab,,,,no,120,10625.71,1275085.2,2023-05-30,2025-02-17,Kitchen,Level 9,,,No Clash,Normal,10625.71,False
+2$49068306$3372,Beam 215,IfcBeam,STANDARD,Glass - Tinted 8mm,,,,pcs,93,3286.54,305648.22,2021-02-21,2021-08-27,Lobby,Level 6,Minor Clash,,No Clash,Normal,3286.5399999999995,False
+2$22891308$6825,BuildingStorey 998,IfcBuildingStorey,USERDEFINED,Concrete C30/37,,,,m,7,7509.87,52569.09,2021-04-25,2025-10-12,,Level 9,,,No Clash,Normal,7509.87,False
+2$42883478$1556,Door 122,IfcDoor,STANDARD,Steel - Galvanized,,,,m³,63,966.38,60881.94,2023-05-24,2021-12-07,Lobby,Level 1,,DateLogicError;,No Clash,Normal,966.38,False
+2$46938871$8292,Space 377,IfcSpace,STANDARD,Steel - Galvanized,,,,m²,15,16337.77,245066.55,2020-12-04,2021-05-14,,Level 8,Minor Clash,,No Clash,Normal,16337.769999999999,False
+2$86904329$8856,Wall 281,IfcWall,,Epoxy Coating,,23.35,,m²,42,3864.65,162315.3,2020-09-17,2022-01-27,Lobby,Level 0,,,Potential Clash (same type/material in room),Normal,3864.6499999999996,False
+2$81147161$9004,Column 066,IfcColumn,,Paint - Acrylic Grey,,,,set,115,2491.05,286470.75,2021-04-25,2022-01-10,,Level 0,,,No Clash,Normal,2491.05,False
+2$26514861$1641,Furniture 132,IfcFurniture,,Wood - Oak,,,,m,168,19220.1,3228976.8,2021-10-22,2020-12-25,Office,Level 0,No Clash,DateLogicError;,No Clash,Anomaly,19220.1,True
+2$50074450$6956,WallStandardCase 990,IfcWallStandardCase,,Paint - Emulsion White,,,23.661,set,69,1967.17,135734.73,2024-12-27,2021-07-26,,Level 5,Major Clash,DateLogicError;,No Clash,Normal,1967.17,False
+2$78530276$4438,Roof 705,IfcRoof,STANDARD,Paint - Acrylic Grey,,,,m,5,787.61,3938.05,2022-02-09,2021-08-03,Office,Level 3,Minor Clash,DateLogicError;,No Clash,Normal,787.61,False
+2$38996393$6882,Roof 285,IfcRoof,STANDARD,Paint - Acrylic Grey,,,,m²,71,649.62,46123.02,2022-11-10,2022-12-03,Lobby,Level 2,,,Potential Clash (same type/material in room),Normal,649.62,False
+2$44115380$7968,Beam 963,IfcBeam,,Reinforced Concrete,,,1.857,set,90,10805.53,972497.7,2022-02-28,2024-03-04,Kitchen,Level 6,Minor Clash,,No Clash,Normal,10805.529999999999,False
+2$60860721$1424,WindowStandardCase 988,IfcWindowStandardCase,,Aluminum,,,,m,10,930.24,9302.4,2023-01-11,2021-05-25,Bedroom,Level 8,,DateLogicError;,No Clash,Normal,930.24,False
+2$95923168$2457,WallStandardCase 372,IfcWallStandardCase,USERDEFINED,Wood - Oak,,,,m³,29,48109.38,1395172.02,2024-03-30,2021-03-06,Bedroom,Level 2,Major Clash,DateLogicError;,No Clash,Normal,48109.38,False
+2$22823236$9666,Roof 358,IfcRoof,,Glass - Tinted 8mm,,34.54,,kg,35,328.16,11485.6,2021-02-09,2020-07-15,Kitchen,Level 5,,DateLogicError;,Potential Clash (same type/material in room),Normal,328.16,False
+2$81361168$7597,Door 489,IfcDoor,,Wood - Teak,,,,m,34,44595.72,1516254.48,2020-02-08,2025-10-04,Kitchen,Level 2,Minor Clash,,No Clash,Normal,44595.72,True
+2$45885781$1866,Slab 941,IfcSlab,,Epoxy Coating,,38.53,,set,100,6466.06,646606.0,2022-10-17,2024-09-09,,Level 2,,,No Clash,Normal,6466.06,False
+2$77408068$5699,WindowStandardCase 283,IfcWindowStandardCase,USERDEFINED,Glass - Clear 6mm,,,,kg,30,4334.12,130023.6,2023-06-04,2020-12-22,Office,Level 6,Major Clash,DateLogicError;,No Clash,Normal,4334.12,False
+2$95184862$2302,Space 079,IfcSpace,,Reinforced Concrete,,,,m,12,2420.2,29042.4,2021-11-07,2020-08-23,,Level 4,,DateLogicError;,No Clash,Normal,2420.2000000000003,False
+2$66906118$9334,Furniture 955,IfcFurniture,,Concrete C25/30,,,,m,123,8257.5,1015672.5,2025-08-01,2025-10-10,Bedroom,Level 6,No Clash,,Potential Clash (same type/material in room),Normal,8257.5,False
+2$10978481$7962,Roof 720,IfcRoof,,Ceramic Tile,,,,set,85,4680.1,397808.5,2025-12-03,2020-06-22,,Level 2,,DateLogicError;,No Clash,Normal,4680.1,False
+2$59264742$3184,Door 527,IfcDoor,USERDEFINED,Reinforced Concrete,,,,m²,55,20625.69,1134412.95,2025-07-22,2024-04-01,Kitchen,Level 5,No Clash,DateLogicError;,Potential Clash (same type/material in room),Normal,20625.69,False
+2$82359410$2931,WindowStandardCase 298,IfcWindowStandardCase,USERDEFINED,Porcelain Tile,,,,m³,38,5701.56,216659.28,2022-12-20,2022-05-22,,Level 9,,DateLogicError;,No Clash,Normal,5701.56,False
+2$96298460$9446,DoorStandardCase 846,IfcDoorStandardCase,STANDARD,Granite Slab,,,,m³,80,5975.32,478025.6,2025-06-22,2020-08-23,Corridor,Level 0,,DateLogicError;,No Clash,Normal,5975.32,False
+2$57498680$2755,WindowStandardCase 006,IfcWindowStandardCase,USERDEFINED,Granite Slab,,,,set,24,3063.47,73523.28,2024-07-04,2023-12-23,,Level 1,,DateLogicError;,No Clash,Normal,3063.47,False
+2$21374117$9668,Beam 527,IfcBeam,STANDARD,Ceramic Tile,3228.6,,,m,61,4564.07,278408.27,2024-06-07,2024-03-13,Office,Level 5,,DateLogicError;,No Clash,Normal,4564.070000000001,False
+2$81998064$5415,BuildingStorey 112,IfcBuildingStorey,USERDEFINED,Gypsum Board,,,,set,108,7333.02,791966.16,2024-12-04,2021-10-24,,Level 5,,DateLogicError;,No Clash,Normal,7333.02,False
+2$36637470$2813,Wall 195,IfcWall,USERDEFINED,Wood - Teak,857.6,25.55,,set,26,532.07,13833.82,2025-05-17,2022-12-24,,Level 6,,DateLogicError;,No Clash,Normal,532.0699999999999,False
+2$27103900$6322,Column 770,IfcColumn,USERDEFINED,Glass - Tinted 8mm,3811.9,,,no,3,851.81,2555.43,2021-05-31,2021-09-29,Corridor,Level 8,,,No Clash,Normal,851.81,False
+2$16984668$6605,Furniture 440,IfcFurniture,,Porcelain Tile,,,,set,3,12916.27,38748.81,2024-11-14,2025-05-20,Office,Level 4,,,No Clash,Normal,12916.269999999999,False
+2$43252079$3498,WallStandardCase 747,IfcWallStandardCase,,Aluminum,1795.9,46.12,,set,106,6137.21,650544.26,2024-10-23,2022-03-23,,Level 1,Minor Clash,DateLogicError;,No Clash,Normal,6137.21,False
+2$94410590$3436,DoorStandardCase 235,IfcDoorStandardCase,STANDARD,Epoxy Coating,,,,m,52,3869.27,201202.04,2020-06-06,2023-01-26,Bathroom,Level 2,,,No Clash,Normal,3869.27,False
+2$22205146$1834,Wall 390,IfcWall,USERDEFINED,Ceramic Tile,,13.7,12.032,set,7,5033.97,35237.79,2023-05-31,2021-03-26,,Level 5,Major Clash,DateLogicError;,No Clash,Normal,5033.97,False
+2$43147569$6240,WindowStandardCase 917,IfcWindowStandardCase,STANDARD,Aluminum,,,,m,6,7722.21,46333.26,2020-01-03,2020-08-01,Corridor,Level 3,Major Clash,,No Clash,Normal,7722.21,False
+2$91405981$2650,Beam 442,IfcBeam,STANDARD,Marble Slab,2214.5,,9.153,m²,13,2436.49,31674.37,2020-02-25,2021-06-17,Corridor,Level 5,Major Clash,,Potential Clash (same type/material in room),Normal,2436.49,False
+2$80982664$7088,Railing 244,IfcRailing,,Epoxy Coating,,,,pcs,27,1786.84,48244.68,2024-04-22,2020-12-23,Bedroom,Level 2,No Clash,DateLogicError;,No Clash,Normal,1786.84,False
+2$97826062$4120,Wall 198,IfcWall,,Epoxy Coating,,4.96,7.607,no,26,6339.78,164834.28,2025-12-25,2021-09-21,,Level 2,Minor Clash,DateLogicError;,No Clash,Normal,6339.78,False
+2$43893399$6690,Slab 917,IfcSlab,USERDEFINED,Paint - Acrylic Grey,,,,m³,9,1377.62,12398.58,2025-05-31,2024-09-12,Living Room,Level 2,Major Clash,DateLogicError;,No Clash,Normal,1377.62,False
+2$48877018$1744,Railing 979,IfcRailing,,AAC Block,,,,m²,102,8355.95,852306.9,2022-02-18,2024-06-16,,Level 8,No Clash,,No Clash,Normal,8355.95,False
+2$78354185$7293,Door 576,IfcDoor,USERDEFINED,Glass - Clear 6mm,,,,m³,78,537.35,41913.3,2023-01-17,2022-04-27,Kitchen,Level 0,Minor Clash,DateLogicError;,Potential Clash (same type/material in room),Normal,537.35,False
+2$89472028$1145,Roof 901,IfcRoof,,Ceramic Tile,,27.6,,pcs,110,18730.38,2060341.8,2022-06-21,2023-04-28,Office,Level 8,No Clash,,No Clash,Normal,18730.38,True
+2$16122001$9741,Door 244,IfcDoor,USERDEFINED,Porcelain Tile,,,,m²,19,9084.97,172614.43,2023-02-11,2021-06-28,Office,Level 0,Minor Clash,DateLogicError;,No Clash,Normal,9084.97,False
+2$81752116$2903,Space 002,IfcSpace,,Ceramic Tile,,,,pcs,81,6855.72,555313.32,2024-02-20,2023-08-22,Bedroom,Level 8,Major Clash,DateLogicError;,No Clash,Normal,6855.719999999999,False
+2$64806853$5831,Railing 333,IfcRailing,STANDARD,AAC Block,,,,set,105,17632.49,1851411.45,2020-02-12,2023-12-27,Bathroom,Level 4,,,No Clash,Normal,17632.489999999998,True
+2$82127089$2743,Window 740,IfcWindow,,Concrete C25/30,,,,set,49,42835.26,2098927.74,2022-11-20,2022-04-24,,Level 3,Major Clash,DateLogicError;,No Clash,Normal,42835.26,True
+2$88069593$7479,Window 160,IfcWindow,USERDEFINED,Ceramic Tile,,,,m,56,18373.8,1028932.8,2024-02-18,2021-08-30,,Level 1,,DateLogicError;,No Clash,Normal,18373.8,False
+2$34834040$3885,Door 194,IfcDoor,,Glass - Clear 6mm,,,,m³,24,448.93,10774.32,2023-03-01,2020-03-27,Office,Level 2,Minor Clash,DateLogicError;,No Clash,Normal,448.93,False
+2$91580498$4077,Space 072,IfcSpace,STANDARD,Steel - Galvanized,,,,m²,55,931.27,51219.85,2022-10-01,2025-02-06,Lobby,Level 1,Minor Clash,,No Clash,Normal,931.27,False
+2$90972685$2633,Railing 387,IfcRailing,USERDEFINED,Concrete C25/30,,,,m²,15,2181.43,32721.45,2020-02-25,2020-06-28,Kitchen,Level 3,No Clash,,No Clash,Normal,2181.43,False
+2$94206105$1221,Window 812,IfcWindow,STANDARD,AAC Block,,,,no,14,5084.33,71180.62,2023-10-18,2020-12-14,Bathroom,Level 2,,DateLogicError;,No Clash,Normal,5084.33,False
+2$69636452$3672,Furniture 315,IfcFurniture,USERDEFINED,Epoxy Coating,,,,m³,40,9633.06,385322.4,2022-09-25,2020-08-16,Office,Level 8,,DateLogicError;,No Clash,Normal,9633.060000000001,False
+2$23799637$9923,Wall 304,IfcWall,STANDARD,Concrete C30/37,3873.9,,0.698,m³,19,1913.2,36350.8,2023-12-18,2023-03-20,,Level 6,No Clash,DateLogicError;,No Clash,Normal,1913.2,False
+2$24782157$4678,Beam 105,IfcBeam,USERDEFINED,Gypsum Board,2886.8,,,m²,78,6265.39,488700.42,2021-09-10,2021-12-30,Lobby,Level 8,Major Clash,,Potential Clash (same type/material in room),Normal,6265.389999999999,False
+2$67075357$3461,Roof 915,IfcRoof,,Gypsum Board,,41.39,,pcs,113,1840.89,208020.57,2021-03-01,2023-01-15,,Level 5,,,No Clash,Normal,1840.89,False
+2$10292428$3435,Furniture 797,IfcFurniture,,Reinforced Concrete,,,,m,82,2219.48,181997.36,2021-08-28,2024-05-18,,Level 7,No Clash,,No Clash,Normal,2219.48,False
+2$67371791$5562,WallStandardCase 149,IfcWallStandardCase,STANDARD,Epoxy Coating,,11.32,8.88,m³,62,789.45,48945.9,2024-08-22,2023-09-27,Kitchen,Level 3,,DateLogicError;,No Clash,Normal,789.45,False
+2$76719940$9826,Slab 547,IfcSlab,USERDEFINED,Paint - Acrylic Grey,,,,m³,11,1480.0,16280.0,2024-09-23,2025-11-28,Bathroom,Level 1,Minor Clash,,No Clash,Normal,1480.0,False
+2$37283734$1281,WindowStandardCase 372,IfcWindowStandardCase,,Concrete C25/30,,,,m³,18,847.94,15262.92,2021-03-27,2020-09-01,Corridor,Level 5,Minor Clash,DateLogicError;,No Clash,Normal,847.94,False
+2$29346175$7898,Window 249,IfcWindow,STANDARD,Glass - Clear 6mm,,,,no,29,1382.11,40081.19,2020-08-16,2021-07-18,Bedroom,Level 2,,,No Clash,Normal,1382.1100000000001,False
+2$67003442$7089,Railing 056,IfcRailing,,Concrete C25/30,,,,m²,85,19336.2,1643577.0,2020-10-29,2025-05-07,,Level 0,,,No Clash,Normal,19336.2,True
+2$20602300$5014,WindowStandardCase 079,IfcWindowStandardCase,STANDARD,AAC Block,,,,kg,54,1430.5,77247.0,2021-09-05,2022-01-17,,Level 2,,,No Clash,Normal,1430.5,False
+2$55276604$8274,Beam 801,IfcBeam,,Aluminum,,,,set,5,150556.95,752784.75,2021-12-11,2025-08-23,,Level 0,,,No Clash,Anomaly,150556.95,False
+2$70974645$5227,Space 942,IfcSpace,,Aluminum,,,,kg,40,9333.01,373320.4,2022-07-20,2024-10-01,Kitchen,Level 4,No Clash,,No Clash,Normal,9333.01,False
+2$26795114$4471,Column 411,IfcColumn,,Steel - Galvanized,958.4,,,no,89,6249.69,556222.41,2025-04-02,2025-05-09,Corridor,Level 6,,,Potential Clash (same type/material in room),Normal,6249.6900000000005,False
+2$59858951$7950,Door 200,IfcDoor,USERDEFINED,Concrete C30/37,,,,m²,14,1610.23,22543.22,2020-11-14,2024-01-25,,Level 0,Minor Clash,,No Clash,Normal,1610.23,False
+2$82688015$2744,Window 067,IfcWindow,STANDARD,Gypsum Board,,,,kg,2,12214.79,24429.58,2023-06-20,2022-02-07,Bathroom,Level 0,Minor Clash,DateLogicError;,No Clash,Normal,12214.79,False
+2$86520583$1735,Window 578,IfcWindow,USERDEFINED,Reinforced Concrete,,,,m²,7,2325.45,16278.15,2023-07-12,2021-01-16,Office,Level 0,Major Clash,DateLogicError;,No Clash,Normal,2325.45,False
+2$63436961$9195,Furniture 200,IfcFurniture,USERDEFINED,Granite Slab,,,,no,101,5759.54,581713.54,2023-12-28,2021-06-14,Bedroom,Level 5,,DateLogicError;,No Clash,Normal,5759.54,False
+2$23556377$9227,BuildingStorey 827,IfcBuildingStorey,STANDARD,Paint - Emulsion White,,,,m²,76,137051.21,10415891.96,2024-04-14,2025-05-07,Living Room,Level 4,Minor Clash,,No Clash,Anomaly,137051.21000000002,True
+2$20570029$2528,Door 976,IfcDoor,,Glass - Clear 6mm,,,,m,28,4337.8,121458.4,2021-07-30,2021-10-21,,Level 7,Minor Clash,,No Clash,Normal,4337.8,False
+2$58360842$8059,WindowStandardCase 041,IfcWindowStandardCase,,Granite Slab,,,,no,50,21895.91,1094795.5,2022-09-06,2022-05-05,Bedroom,Level 2,,DateLogicError;,Potential Clash (same type/material in room),Normal,21895.91,False
+2$29142470$6071,WallStandardCase 561,IfcWallStandardCase,STANDARD,Concrete C25/30,3793.0,,4.121,kg,47,1970.16,92597.52,2023-12-18,2020-12-31,Bedroom,Level 2,,DateLogicError;,Potential Clash (same type/material in room),Normal,1970.16,False
+2$44363268$8242,Window 666,IfcWindow,STANDARD,Glass - Tinted 8mm,,,,m²,73,4696.23,342824.79,2025-06-22,2020-06-11,Corridor,Level 4,,DateLogicError;,No Clash,Normal,4696.23,False
+2$69166889$7008,Slab 525,IfcSlab,,AAC Block,,57.15,,m²,88,49120.95,4322643.6,2024-08-19,2025-09-03,,Level 4,No Clash,,No Clash,Anomaly,49120.95,True
+2$42858752$1130,Roof 159,IfcRoof,STANDARD,Concrete C30/37,,,,kg,52,2175.35,113118.2,2020-10-25,2022-07-02,Lobby,Level 7,No Clash,,No Clash,Normal,2175.35,False
+2$72879488$9767,WindowStandardCase 922,IfcWindowStandardCase,USERDEFINED,Glass - Clear 6mm,,,,m²,11,51853.78,570391.58,2022-01-08,2021-03-19,,Level 6,,DateLogicError;,No Clash,Normal,51853.78,False
+2$18653222$6198,Slab 351,IfcSlab,,Wood - Oak,,29.43,,m²,36,12333.54,444007.44,2025-02-04,2020-06-05,Kitchen,Level 7,Minor Clash,DateLogicError;,Potential Clash (same type/material in room),Normal,12333.54,False
+2$52974720$1513,Covering 616,IfcCovering,USERDEFINED,Ceramic Tile,,4.21,,no,56,2365.61,132474.16,2025-04-23,2022-05-24,Living Room,Level 3,,DateLogicError;,No Clash,Normal,2365.61,False
+2$46218400$5129,Furniture 651,IfcFurniture,STANDARD,Aluminum,,,,m²,37,11182.78,413762.86,2020-10-10,2023-01-26,Lobby,Level 1,Major Clash,,No Clash,Normal,11182.779999999999,False
+2$66334114$9597,Space 220,IfcSpace,,Glass - Clear 6mm,,,,pcs,24,17401.66,417639.84,2020-08-08,2021-01-13,Lobby,Level 5,Major Clash,,Potential Clash (same type/material in room),Normal,17401.66,False
+2$56879065$7866,Door 494,IfcDoor,USERDEFINED,Ceramic Tile,,,,kg,21,11029.77,231625.17,2024-11-24,2023-12-23,Lobby,Level 0,Minor Clash,DateLogicError;,No Clash,Normal,11029.77,False
+2$92746890$3369,WallStandardCase 332,IfcWallStandardCase,,Epoxy Coating,6912.8,1.34,23.352,no,41,638.24,26167.84,2021-04-10,2024-07-22,Office,Level 8,,,No Clash,Normal,638.24,False
+2$95133372$8361,Beam 655,IfcBeam,,AAC Block,,,,m³,90,1909.74,171876.6,2021-11-11,2024-03-26,,Level 5,Minor Clash,,No Clash,Normal,1909.74,False
+2$11928845$7066,DoorStandardCase 834,IfcDoorStandardCase,USERDEFINED,Epoxy Coating,,,,m²,39,3562.53,138938.67,2023-06-11,2025-08-18,Bedroom,Level 7,,,No Clash,Normal,3562.53,False
+2$57208264$6770,Slab 849,IfcSlab,,Aluminum,,25.84,,m²,119,4461.48,530916.12,2021-12-21,2025-02-22,Lobby,Level 5,Minor Clash,,No Clash,Normal,4461.48,False
+2$82848400$8141,Column 391,IfcColumn,USERDEFINED,Gypsum Board,6008.6,,,m²,104,11013.46,1145399.84,2021-03-01,2021-01-02,Living Room,Level 9,,DateLogicError;,No Clash,Normal,11013.460000000001,False
+2$93728466$9924,WallStandardCase 103,IfcWallStandardCase,,Glass - Tinted 8mm,,40.23,,kg,49,6191.99,303407.51,2021-04-13,2022-03-12,,Level 1,Major Clash,,No Clash,Normal,6191.99,False
+2$65423162$7484,Furniture 008,IfcFurniture,USERDEFINED,Glass - Clear 6mm,,,,no,58,866.15,50236.7,2025-09-09,2023-03-07,Office,Level 4,Major Clash,DateLogicError;,No Clash,Normal,866.15,False
+2$42420888$1068,Space 922,IfcSpace,USERDEFINED,Aluminum,,,,m²,2,8056.68,16113.36,2020-04-17,2021-09-20,,Level 8,Major Clash,,No Clash,Normal,8056.68,False
+2$86797698$8045,WindowStandardCase 248,IfcWindowStandardCase,,Gypsum Board,,,,m³,25,10869.99,271749.75,2024-05-30,2020-07-30,Lobby,Level 2,,DateLogicError;,No Clash,Normal,10869.99,False
+2$64105718$6212,Railing 530,IfcRailing,STANDARD,Gypsum Board,,,,m³,30,10175.39,305261.7,2021-02-11,2021-06-01,Bedroom,Level 9,,,Potential Clash (same type/material in room),Normal,10175.390000000001,False
+2$84209721$3605,Space 972,IfcSpace,USERDEFINED,Marble Slab,,,,m,12,20030.57,240366.84,2021-01-17,2020-04-15,Lobby,Level 0,,DateLogicError;,No Clash,Normal,20030.57,False
+2$20572666$7265,Wall 026,IfcWall,,Paint - Acrylic Grey,5298.7,38.25,,pcs,25,14531.86,363296.5,2022-10-01,2024-03-28,Office,Level 0,,,No Clash,Normal,14531.86,False
+2$94213304$1379,WallStandardCase 654,IfcWallStandardCase,,AAC Block,,,2.766,pcs,115,8927.88,1026706.2,2022-01-09,2021-01-15,,Level 7,Major Clash,DateLogicError;,No Clash,Normal,8927.88,False
+2$62452316$2649,BuildingStorey 503,IfcBuildingStorey,STANDARD,Ceramic Tile,,,,m³,10,4486.3,44863.0,2025-06-15,2020-11-08,Bathroom,Level 6,,DateLogicError;,No Clash,Normal,4486.3,False
+2$95033882$8387,BuildingStorey 828,IfcBuildingStorey,STANDARD,Wood - Oak,,,,m,39,567.22,22121.58,2020-02-11,2022-01-01,Living Room,Level 1,Major Clash,,No Clash,Normal,567.22,False
+2$92410355$9953,WindowStandardCase 006,IfcWindowStandardCase,STANDARD,Glass - Tinted 8mm,,,,kg,33,8591.29,283512.57,2021-05-13,2022-02-28,Living Room,Level 8,No Clash,,No Clash,Normal,8591.29,False
+2$30447536$4543,Column 888,IfcColumn,USERDEFINED,Paint - Emulsion White,,,,m,11,6438.13,70819.43,2021-06-02,2023-01-01,,Level 7,Minor Clash,,No Clash,Normal,6438.129999999999,False
+2$84020689$5822,WallStandardCase 479,IfcWallStandardCase,,Wood - Teak,5777.7,31.0,23.066,m,26,6995.71,181888.46,2023-02-25,2024-05-28,Bedroom,Level 9,Major Clash,,Potential Clash (same type/material in room),Normal,6995.71,False
+2$75475674$8101,Door 905,IfcDoor,USERDEFINED,Ceramic Tile,,,,m³,77,934.7,71971.9,2023-01-17,2023-07-29,Bedroom,Level 9,,,No Clash,Normal,934.6999999999999,False
+2$86120515$6782,Slab 383,IfcSlab,,Ceramic Tile,,49.25,,m,114,1205.47,137423.58,2020-05-18,2025-09-25,Office,Level 9,,,No Clash,Normal,1205.4699999999998,False
+2$57278642$7525,Window 031,IfcWindow,STANDARD,Paint - Emulsion White,,,,m,42,19323.91,811604.22,2024-10-24,2022-01-31,Corridor,Level 3,No Clash,DateLogicError;,Potential Clash (same type/material in room),Normal,19323.91,False
+2$59924201$3376,DoorStandardCase 799,IfcDoorStandardCase,USERDEFINED,Wood - Teak,,,,m²,2,4668.43,9336.86,2023-07-28,2020-02-14,Corridor,Level 3,,DateLogicError;,No Clash,Normal,4668.43,False
+2$41225585$2085,Roof 395,IfcRoof,USERDEFINED,Wood - Oak,,,,m²,72,11919.74,858221.28,2023-02-12,2020-11-02,Lobby,Level 6,,DateLogicError;,Potential Clash (same type/material in room),Normal,11919.74,False
+2$36595298$4229,Space 051,IfcSpace,USERDEFINED,Wood - Oak,,,,m³,6,5099.07,30594.42,2023-01-29,2024-09-21,Bedroom,Level 1,,,No Clash,Normal,5099.07,False
+2$89345641$7272,Door 243,IfcDoor,,Wood - Oak,,,,m²,37,5108.61,189018.57,2020-03-14,2020-01-20,,Level 4,Minor Clash,DateLogicError;,No Clash,Normal,5108.610000000001,False
+2$14967155$9740,Space 941,IfcSpace,,Steel - Galvanized,,,,m²,44,16643.4,732309.6,2020-03-07,2020-10-11,,Level 1,,,No Clash,Normal,16643.399999999998,False
+2$46866059$6196,Railing 772,IfcRailing,USERDEFINED,Granite Slab,,,,m³,11,2512.77,27640.47,2023-07-06,2025-07-15,Living Room,Level 6,Major Clash,,No Clash,Normal,2512.77,False
+2$76214520$2989,Railing 864,IfcRailing,USERDEFINED,Glass - Clear 6mm,,,,kg,14,5568.92,77964.88,2020-04-29,2022-07-06,Living Room,Level 0,Minor Clash,,Potential Clash (same type/material in room),Normal,5568.92,False
+2$68476310$4708,WallStandardCase 175,IfcWallStandardCase,STANDARD,Wood - Oak,1823.4,,,pcs,114,2694.7,307195.8,2020-06-25,2021-03-29,Living Room,Level 4,No Clash,,No Clash,Normal,2694.7,False
+2$92241997$7218,Window 277,IfcWindow,,Wood - Oak,,,,m,18,2793.79,50288.22,2025-03-02,2021-05-06,,Level 5,Minor Clash,DateLogicError;,No Clash,Normal,2793.79,False
+2$65471370$8320,Furniture 685,IfcFurniture,STANDARD,Epoxy Coating,,,,kg,136,3288.14,447187.04,2022-09-12,2025-05-11,,Level 4,Major Clash,,No Clash,Normal,3288.14,False
+2$40310459$2504,Furniture 271,IfcFurniture,USERDEFINED,Glass - Tinted 8mm,,,,set,22,6560.18,144323.96,2023-12-16,2022-09-19,Bathroom,Level 1,No Clash,DateLogicError;,Potential Clash (same type/material in room),Normal,6560.179999999999,False
+2$38517975$1215,Beam 687,IfcBeam,STANDARD,Concrete C30/37,3596.2,,,pcs,27,2637.61,71215.47,2025-12-01,2025-10-06,Corridor,Level 4,,DateLogicError;,No Clash,Normal,2637.61,False
+2$77714375$2731,Covering 937,IfcCovering,STANDARD,AAC Block,,13.52,,m³,58,25146.73,1458510.34,2025-10-04,2022-04-11,,Level 3,No Clash,DateLogicError;,No Clash,Normal,25146.730000000003,False
+2$32038057$6032,Window 975,IfcWindow,,Aluminum,,,,set,14,1536.11,21505.54,2021-08-26,2025-03-03,Bedroom,Level 1,Minor Clash,,Potential Clash (same type/material in room),Normal,1536.1100000000001,False
+2$35102710$5370,Wall 030,IfcWall,USERDEFINED,Glass - Clear 6mm,4836.1,,,pcs,56,3854.77,215867.12,2022-05-18,2021-09-08,Lobby,Level 8,,DateLogicError;,Potential Clash (same type/material in room),Normal,3854.77,False
+2$17134621$8230,Column 280,IfcColumn,USERDEFINED,Wood - Oak,1226.0,,18.327,m,38,2774.84,105443.92,2022-02-14,2024-07-07,,Level 9,,,No Clash,Normal,2774.84,False
+2$79607791$8103,Column 112,IfcColumn,,Glass - Tinted 8mm,,,,m²,7,32243.48,225704.36,2020-05-26,2022-12-26,Bathroom,Level 1,,,No Clash,Normal,32243.48,False
+2$93244618$7628,Window 402,IfcWindow,USERDEFINED,Porcelain Tile,,,,m²,29,6345.63,184023.27,2023-01-03,2025-07-21,Bathroom,Level 2,,,No Clash,Normal,6345.629999999999,False
+2$90035829$5718,WindowStandardCase 752,IfcWindowStandardCase,STANDARD,Granite Slab,,,,m²,24,18795.97,451103.28,2025-08-23,2025-05-06,Office,Level 3,Minor Clash,DateLogicError;,No Clash,Normal,18795.97,False
+2$32366774$4069,WindowStandardCase 341,IfcWindowStandardCase,USERDEFINED,Reinforced Concrete,,,,m,2,712.49,1424.98,2025-04-27,2024-10-18,,Level 0,Minor Clash,DateLogicError;,No Clash,Normal,712.49,False
+2$32914336$1159,Window 609,IfcWindow,USERDEFINED,Reinforced Concrete,,,,m³,75,6954.65,521598.75,2020-01-05,2025-06-23,,Level 7,No Clash,,No Clash,Normal,6954.65,False
+2$86137251$5762,Wall 856,IfcWall,STANDARD,Concrete C25/30,,,2.59,m³,63,15623.32,984269.16,2023-12-07,2022-11-20,,Level 4,Major Clash,DateLogicError;,No Clash,Normal,15623.32,False
+2$57328711$5933,Beam 728,IfcBeam,USERDEFINED,Concrete C25/30,6304.8,,,m,53,5469.65,289891.45,2022-06-21,2021-08-03,,Level 7,No Clash,DateLogicError;,No Clash,Normal,5469.650000000001,False
+2$67810328$6888,DoorStandardCase 212,IfcDoorStandardCase,,Epoxy Coating,,,,m²,25,19636.09,490902.25,2024-03-27,2021-03-18,Office,Level 8,,DateLogicError;,Potential Clash (same type/material in room),Normal,19636.09,False
+2$33481693$5346,BuildingStorey 933,IfcBuildingStorey,,Paint - Emulsion White,,,,pcs,114,2508.71,285992.94,2023-09-18,2024-05-20,,Level 4,,,No Clash,Normal,2508.71,False
+2$87781432$9520,DoorStandardCase 719,IfcDoorStandardCase,USERDEFINED,Concrete C30/37,,,,no,79,30704.11,2425624.69,2021-05-18,2024-11-10,,Level 9,Major Clash,,No Clash,Normal,30704.11,True
+2$11118688$9174,Window 950,IfcWindow,,Brick Masonry,,,,m,60,97593.64,5855618.4,2021-09-07,2025-11-12,,Level 9,Minor Clash,,No Clash,Anomaly,97593.64,True
+2$48689596$2058,Window 819,IfcWindow,USERDEFINED,Glass - Tinted 8mm,,,,m²,59,3066.55,180926.45,2020-06-16,2022-06-09,Office,Level 9,No Clash,,No Clash,Normal,3066.55,False
+2$51046667$1083,Wall 441,IfcWall,USERDEFINED,Glass - Tinted 8mm,,,8.82,no,110,2754.1,302951.0,2025-08-18,2021-09-27,Bedroom,Level 4,Minor Clash,DateLogicError;,No Clash,Normal,2754.1,False
+2$67988874$2322,Railing 298,IfcRailing,STANDARD,Ceramic Tile,,,,m²,61,32513.15,1983302.15,2023-12-23,2022-10-15,,Level 6,,DateLogicError;,No Clash,Normal,32513.149999999998,True
+2$45065845$5948,BuildingStorey 612,IfcBuildingStorey,USERDEFINED,Brick Masonry,,,,m,73,38309.14,2796567.22,2024-11-20,2023-08-13,Kitchen,Level 3,,DateLogicError;,No Clash,Anomaly,38309.14,True
+2$84394708$4268,Door 309,IfcDoor,USERDEFINED,Aluminum,,,,m²,39,2490.61,97133.79,2025-03-03,2022-01-21,Lobby,Level 6,,DateLogicError;,No Clash,Normal,2490.6099999999997,False
+2$69310992$6132,Door 516,IfcDoor,,Paint - Emulsion White,,,,set,46,2846.25,130927.5,2025-04-02,2023-12-21,Lobby,Level 7,,DateLogicError;,No Clash,Normal,2846.25,False
+2$13714198$1432,Slab 981,IfcSlab,USERDEFINED,Glass - Clear 6mm,,,,kg,117,3407.32,398656.44,2023-05-23,2022-09-20,Corridor,Level 2,Major Clash,DateLogicError;,No Clash,Normal,3407.32,False
+2$26902822$7601,Wall 687,IfcWall,STANDARD,Steel - Galvanized,,,,pcs,77,855.95,65908.15,2021-02-02,2023-04-05,,Level 5,No Clash,,No Clash,Normal,855.9499999999999,False
+2$78561216$1868,WallStandardCase 719,IfcWallStandardCase,STANDARD,Epoxy Coating,3904.1,,7.592,set,120,1488.84,178660.8,2020-01-27,2025-06-09,Bathroom,Level 1,No Clash,,No Clash,Normal,1488.84,False
+2$91039410$2983,Wall 533,IfcWall,STANDARD,AAC Block,,28.69,,pcs,52,1332.24,69276.48,2025-06-04,2022-01-23,Bathroom,Level 8,,DateLogicError;,No Clash,Normal,1332.24,False
+2$98336648$3018,Space 443,IfcSpace,STANDARD,Glass - Clear 6mm,,,,set,3,1811.41,5434.23,2022-01-26,2021-08-03,Bathroom,Level 2,Minor Clash,DateLogicError;,No Clash,Normal,1811.4099999999999,False
+2$48927998$5742,Beam 684,IfcBeam,STANDARD,Glass - Tinted 8mm,,,,m³,50,4698.08,234904.0,2021-03-15,2025-03-15,,Level 6,Minor Clash,,No Clash,Normal,4698.08,False
+2$71348545$2968,Wall 578,IfcWall,USERDEFINED,Granite Slab,670.5,2.53,1.162,m,60,6664.03,399841.8,2025-02-20,2023-02-08,Living Room,Level 2,Major Clash,DateLogicError;,No Clash,Normal,6664.03,False
+2$38290431$6715,Column 925,IfcColumn,,Paint - Emulsion White,,,,pcs,84,36888.33,3098619.72,2023-10-21,2025-02-25,Kitchen,Level 4,Major Clash,,No Clash,Normal,36888.33,True
+2$19155005$8925,BuildingStorey 386,IfcBuildingStorey,USERDEFINED,Steel - Galvanized,,,,kg,85,1342.3,114095.5,2022-01-08,2025-09-07,Office,Level 2,Major Clash,,No Clash,Normal,1342.3,False
+2$56720549$7615,Roof 070,IfcRoof,STANDARD,Epoxy Coating,,,,m,13,17669.92,229708.96,2021-03-11,2025-08-07,,Level 5,Minor Clash,,No Clash,Normal,17669.92,False
+2$24150817$3850,Furniture 746,IfcFurniture,USERDEFINED,Porcelain Tile,,,,no,108,3721.25,401895.0,2020-09-20,2020-09-10,Office,Level 1,No Clash,DateLogicError;,Potential Clash (same type/material in room),Normal,3721.25,False
+2$69260945$7132,Space 622,IfcSpace,,Reinforced Concrete,,,,no,4,4608.68,18434.72,2021-12-13,2023-08-08,Bedroom,Level 7,,,No Clash,Normal,4608.68,False
+2$84687900$4272,Door 201,IfcDoor,USERDEFINED,Epoxy Coating,,,,m³,57,11816.66,673549.62,2023-03-17,2022-07-12,Bathroom,Level 2,,DateLogicError;,No Clash,Normal,11816.66,False
+2$35809507$2409,Space 597,IfcSpace,STANDARD,Paint - Emulsion White,,,,set,86,1141.91,98204.26,2021-01-29,2022-04-13,Living Room,Level 2,No Clash,,No Clash,Normal,1141.9099999999999,False
+2$86275267$9955,WindowStandardCase 886,IfcWindowStandardCase,STANDARD,Aluminum,,,,pcs,24,8079.88,193917.12,2025-12-03,2025-07-25,Bathroom,Level 3,,DateLogicError;,No Clash,Normal,8079.88,False
+2$57846632$3258,Column 821,IfcColumn,STANDARD,Wood - Teak,3408.8,,,m,101,6102.1,616312.1,2025-10-19,2023-05-06,,Level 1,,DateLogicError;,No Clash,Normal,6102.099999999999,False
+2$90730565$9856,DoorStandardCase 339,IfcDoorStandardCase,STANDARD,Concrete C30/37,,,,m,38,9322.5,354255.0,2022-10-26,2024-05-18,Corridor,Level 1,Minor Clash,,No Clash,Normal,9322.5,False
+2$81729149$4955,Window 874,IfcWindow,,Reinforced Concrete,,,,kg,65,7157.52,465238.8,2023-07-02,2024-06-23,Living Room,Level 8,No Clash,,Potential Clash (same type/material in room),Normal,7157.5199999999995,False
+2$45306385$1491,Roof 034,IfcRoof,USERDEFINED,Glass - Tinted 8mm,,,,pcs,114,119597.85,13634154.9,2020-08-31,2021-07-24,Bathroom,Level 8,Major Clash,,No Clash,Anomaly,119597.85,True
+2$41624005$9086,BuildingStorey 075,IfcBuildingStorey,,Concrete C30/37,,,,kg,90,2145.09,193058.1,2020-05-24,2023-11-17,Bedroom,Level 6,No Clash,,No Clash,Normal,2145.09,False
+2$74259620$3121,BuildingStorey 278,IfcBuildingStorey,,Paint - Acrylic Grey,,,,m²,14,2464.4,34501.6,2020-05-25,2025-07-27,Bathroom,Level 5,,,No Clash,Normal,2464.4,False
+2$40568777$1351,Beam 954,IfcBeam,STANDARD,Granite Slab,,,13.401,set,88,2186.19,192384.72,2020-03-15,2025-05-28,Living Room,Level 6,,,No Clash,Normal,2186.19,False
+2$67675860$7993,Railing 563,IfcRailing,STANDARD,AAC Block,,,,m²,57,2387.21,136070.97,2021-04-28,2024-02-15,Corridor,Level 3,Major Clash,,No Clash,Normal,2387.21,False
+2$41966664$4801,Slab 095,IfcSlab,,Concrete C30/37,,1.1,,set,97,2146.08,208169.76,2020-07-06,2020-03-02,Bathroom,Level 0,No Clash,DateLogicError;,No Clash,Normal,2146.08,False
+2$68861974$3958,Wall 290,IfcWall,STANDARD,AAC Block,,,15.192,set,16,23056.93,368910.88,2020-11-10,2020-11-08,Office,Level 8,Minor Clash,DateLogicError;,No Clash,Normal,23056.93,False
+2$39566459$8266,Beam 731,IfcBeam,USERDEFINED,Wood - Teak,6625.1,,,kg,115,31152.68,3582558.2,2022-12-31,2023-07-30,Bedroom,Level 0,Major Clash,,Potential Clash (same type/material in room),Anomaly,31152.68,True
+2$93466217$8966,BuildingStorey 287,IfcBuildingStorey,STANDARD,Aluminum,,,,m,117,2340.29,273813.93,2021-07-15,2025-11-03,Bathroom,Level 4,Minor Clash,,Potential Clash (same type/material in room),Normal,2340.29,False
+2$29053714$1587,WallStandardCase 241,IfcWallStandardCase,,Wood - Teak,,,,pcs,36,1665.6,59961.6,2024-04-22,2023-05-15,Bedroom,Level 0,Major Clash,DateLogicError;,Potential Clash (same type/material in room),Normal,1665.6,False
+2$76485758$1308,Space 884,IfcSpace,USERDEFINED,Steel - Galvanized,,,,m³,57,9071.02,517048.14,2020-06-30,2022-07-08,Bathroom,Level 6,Minor Clash,,Potential Clash (same type/material in room),Normal,9071.02,False
+2$81469858$1856,Covering 677,IfcCovering,USERDEFINED,Aluminum,,,,m²,117,2397.33,280487.61,2023-10-09,2022-12-11,Bathroom,Level 0,Major Clash,DateLogicError;,No Clash,Normal,2397.33,False
+2$67384680$1935,Railing 827,IfcRailing,STANDARD,Aluminum,,,,kg,50,11190.4,559520.0,2023-03-23,2025-12-30,,Level 6,Major Clash,,No Clash,Normal,11190.4,False
+2$72724302$4903,Door 136,IfcDoor,STANDARD,Steel - Galvanized,,,,pcs,36,6398.38,230341.68,2020-12-16,2022-10-20,Office,Level 5,,,Potential Clash (same type/material in room),Normal,6398.38,False
+2$58545863$5403,Wall 676,IfcWall,USERDEFINED,Marble Slab,,7.9,,m³,60,685.08,41104.8,2020-03-11,2024-12-06,Living Room,Level 7,No Clash,,No Clash,Normal,685.08,False
+2$95596429$4569,WindowStandardCase 419,IfcWindowStandardCase,STANDARD,Glass - Tinted 8mm,,,,kg,11,36744.98,404194.78,2023-02-06,2023-07-10,Bedroom,Level 7,Minor Clash,,No Clash,Normal,36744.98,False
+2$44834976$9108,Window 131,IfcWindow,STANDARD,Marble Slab,,,,set,23,50748.68,1167219.64,2021-08-24,2020-07-22,Bathroom,Level 1,No Clash,DateLogicError;,No Clash,Normal,50748.67999999999,False
+2$69097257$6199,Door 043,IfcDoor,,Paint - Emulsion White,,,,set,30,2215.81,66474.3,2020-09-06,2022-11-27,Office,Level 0,Major Clash,,No Clash,Normal,2215.81,False
+2$90608327$4845,Column 359,IfcColumn,STANDARD,Concrete C30/37,1095.9,,,m,27,2969.02,80163.54,2023-08-27,2024-03-01,Lobby,Level 1,,,No Clash,Normal,2969.02,False
+2$29203803$1404,BuildingStorey 335,IfcBuildingStorey,,Granite Slab,,,,no,47,7126.85,334961.95,2023-10-04,2024-07-29,Corridor,Level 7,Major Clash,,No Clash,Normal,7126.85,False
+2$31516822$7034,Roof 046,IfcRoof,USERDEFINED,Concrete C25/30,,,,m²,78,7591.57,592142.46,2022-05-16,2023-07-06,Corridor,Level 3,,,No Clash,Normal,7591.57,False
+2$14375434$3458,Space 391,IfcSpace,,Epoxy Coating,,,,m²,10,11569.27,115692.7,2022-07-08,2025-08-24,Lobby,Level 8,No Clash,,No Clash,Normal,11569.27,False
+2$16903019$8738,Space 676,IfcSpace,,Paint - Emulsion White,,,,kg,57,67054.83,3822125.31,2023-07-22,2023-01-07,Bathroom,Level 9,Major Clash,DateLogicError;,No Clash,Anomaly,67054.83,True
+2$54115287$4982,BuildingStorey 819,IfcBuildingStorey,USERDEFINED,Porcelain Tile,,,,m,59,3904.83,230384.97,2023-07-13,2021-04-17,Bathroom,Level 7,,DateLogicError;,No Clash,Normal,3904.83,False
+2$57242574$9284,WindowStandardCase 079,IfcWindowStandardCase,USERDEFINED,Reinforced Concrete,,,,set,62,1741.0,107942.0,2022-08-01,2025-01-12,,Level 3,Minor Clash,,No Clash,Normal,1741.0,False
+2$42875817$7678,BuildingStorey 691,IfcBuildingStorey,,Paint - Acrylic Grey,,,,set,18,818.02,14724.36,2022-12-02,2023-03-21,Corridor,Level 5,,,Potential Clash (same type/material in room),Normal,818.02,False
+2$66508695$9274,WallStandardCase 152,IfcWallStandardCase,,Aluminum,,54.04,,m³,34,1900.35,64611.9,2025-04-08,2021-02-17,Kitchen,Level 0,,DateLogicError;,No Clash,Normal,1900.3500000000001,False
+2$19799868$3168,Wall 528,IfcWall,,Gypsum Board,6479.2,21.58,,set,38,4707.61,178889.18,2021-05-02,2023-10-11,Corridor,Level 9,,,No Clash,Normal,4707.61,False
+2$19898898$6815,Railing 973,IfcRailing,USERDEFINED,Concrete C30/37,,,,m³,81,50661.69,4103596.89,2025-01-16,2024-11-19,Office,Level 7,Minor Clash,DateLogicError;,No Clash,Anomaly,50661.69,True
+2$89129152$9345,Railing 086,IfcRailing,STANDARD,Gypsum Board,,,,m²,76,2507.66,190582.16,2024-02-24,2025-01-31,Lobby,Level 5,,,No Clash,Normal,2507.66,False
+2$88930879$5576,Door 968,IfcDoor,STANDARD,Paint - Emulsion White,,,,m,39,6574.31,256398.09,2025-07-13,2023-10-29,Living Room,Level 9,,DateLogicError;,Potential Clash (same type/material in room),Normal,6574.3099999999995,False
+2$61548700$6219,Window 776,IfcWindow,STANDARD,Wood - Oak,,,,m,6,4810.95,28865.7,2022-05-12,2024-10-29,Office,Level 9,Major Clash,,No Clash,Normal,4810.95,False
+2$48223995$3713,WallStandardCase 122,IfcWallStandardCase,USERDEFINED,Wood - Teak,2352.6,,,kg,97,23038.25,2234710.25,2021-03-10,2022-08-06,Office,Level 2,,,Potential Clash (same type/material in room),Normal,23038.25,True
+2$78276312$3766,DoorStandardCase 029,IfcDoorStandardCase,,Paint - Acrylic Grey,,,,m²,70,131270.08,9188905.6,2022-03-10,2020-01-28,,Level 0,Major Clash,DateLogicError;,No Clash,Anomaly,131270.08,True
+2$86660490$7987,DoorStandardCase 750,IfcDoorStandardCase,USERDEFINED,Granite Slab,,,,kg,17,2464.81,41901.77,2025-02-01,2023-04-23,Bedroom,Level 1,,DateLogicError;,No Clash,Normal,2464.81,False
+2$76203639$5309,BuildingStorey 089,IfcBuildingStorey,STANDARD,Aluminum,,,,pcs,94,2601.2,244512.8,2021-04-22,2023-12-19,Bedroom,Level 3,No Clash,,No Clash,Normal,2601.2,False
+2$78056464$6494,WindowStandardCase 283,IfcWindowStandardCase,USERDEFINED,Gypsum Board,,,,set,66,19099.34,1260556.44,2020-10-30,2023-07-13,Living Room,Level 6,No Clash,,No Clash,Normal,19099.34,False
+2$52617779$4119,BuildingStorey 862,IfcBuildingStorey,,Paint - Emulsion White,,,,set,108,11925.79,1287985.32,2020-05-25,2020-02-02,Bathroom,Level 2,,DateLogicError;,No Clash,Normal,11925.79,False
+2$36263497$5346,Space 482,IfcSpace,STANDARD,Porcelain Tile,,,,m³,105,54215.36,5692612.8,2022-02-05,2025-07-27,Office,Level 2,,,No Clash,Anomaly,54215.36,True
+2$79297448$4509,Covering 004,IfcCovering,USERDEFINED,Reinforced Concrete,,,,set,23,10499.75,241494.25,2020-06-07,2024-09-08,Office,Level 9,,,No Clash,Normal,10499.75,False
+2$41503019$6713,Covering 496,IfcCovering,,Epoxy Coating,,,,pcs,108,3080.73,332718.84,2022-08-07,2023-04-11,,Level 7,,,No Clash,Normal,3080.73,False
+2$82935700$8880,Roof 303,IfcRoof,STANDARD,Wood - Teak,,13.53,,m³,58,10591.97,614334.26,2023-08-25,2022-10-10,Lobby,Level 1,Minor Clash,DateLogicError;,No Clash,Normal,10591.97,False
+2$98665957$2860,Beam 356,IfcBeam,,Wood - Oak,,,19.365,no,104,20771.03,2160187.12,2025-06-26,2024-08-14,Bathroom,Level 0,Major Clash,DateLogicError;,No Clash,Normal,20771.030000000002,True
+2$38871061$7701,Window 063,IfcWindow,,Paint - Emulsion White,,,,no,42,14280.17,599767.14,2022-12-07,2023-07-24,Lobby,Level 6,,,No Clash,Normal,14280.17,False
+2$44990478$1895,Slab 275,IfcSlab,USERDEFINED,Steel - Galvanized,,43.83,,set,105,9503.89,997908.45,2020-07-05,2023-06-17,,Level 6,Minor Clash,,No Clash,Normal,9503.89,False
+2$81942460$4378,Roof 799,IfcRoof,,Gypsum Board,,7.06,,m,78,19666.6,1533994.8,2020-03-22,2020-03-27,Lobby,Level 1,Major Clash,,Potential Clash (same type/material in room),Normal,19666.600000000002,True
+2$84208202$2039,BuildingStorey 671,IfcBuildingStorey,STANDARD,Wood - Teak,,,,kg,27,22473.32,606779.64,2024-01-23,2022-03-23,Kitchen,Level 8,,DateLogicError;,No Clash,Normal,22473.32,False
+2$48948304$3644,Space 933,IfcSpace,USERDEFINED,Porcelain Tile,,,,pcs,53,29637.82,1570804.46,2022-06-02,2022-10-15,Living Room,Level 0,No Clash,,No Clash,Normal,29637.82,True
+2$23760099$9216,Furniture 408,IfcFurniture,USERDEFINED,Paint - Emulsion White,,,,m²,41,11422.3,468314.3,2023-03-05,2023-05-19,Living Room,Level 3,Minor Clash,,No Clash,Normal,11422.3,False
+2$26595059$7190,Wall 672,IfcWall,USERDEFINED,Marble Slab,1439.6,,1.94,m²,2,3955.04,7910.08,2021-09-13,2021-01-26,,Level 3,Major Clash,DateLogicError;,No Clash,Normal,3955.04,False
+2$67063030$9394,Furniture 762,IfcFurniture,STANDARD,Wood - Oak,,,,pcs,71,5947.51,422273.21,2025-02-22,2022-04-10,Bedroom,Level 4,,DateLogicError;,No Clash,Normal,5947.51,False
+2$67651154$2524,Slab 228,IfcSlab,USERDEFINED,Granite Slab,,33.88,,pcs,117,23587.25,2759708.25,2025-12-24,2025-09-06,,Level 6,No Clash,DateLogicError;,No Clash,Anomaly,23587.25,True
+2$60028002$9955,Beam 732,IfcBeam,STANDARD,Steel - Galvanized,,,,m³,48,1699.32,81567.36,2025-05-06,2021-03-22,,Level 5,Minor Clash,DateLogicError;,No Clash,Normal,1699.32,False
+2$22802899$3773,Furniture 213,IfcFurniture,USERDEFINED,Reinforced Concrete,,,,kg,64,7936.88,507960.32,2020-12-09,2021-08-01,Lobby,Level 9,,,Potential Clash (same type/material in room),Normal,7936.88,False
+2$41196194$1965,Column 786,IfcColumn,USERDEFINED,Epoxy Coating,,,,m²,42,2947.34,123788.28,2024-07-23,2020-01-23,Office,Level 3,,DateLogicError;,No Clash,Normal,2947.34,False
+2$52012319$4862,Column 330,IfcColumn,USERDEFINED,Glass - Tinted 8mm,,,,set,10,5101.9,51019.0,2024-03-18,2021-06-05,Living Room,Level 2,No Clash,DateLogicError;,No Clash,Normal,5101.9,False
+2$68733846$2862,Door 040,IfcDoor,USERDEFINED,Ceramic Tile,,,,m³,22,25899.72,569793.84,2025-11-18,2025-06-18,Kitchen,Level 8,,DateLogicError;,Potential Clash (same type/material in room),Normal,25899.719999999998,False
+2$49829248$2926,Slab 446,IfcSlab,USERDEFINED,Concrete C25/30,,43.34,,kg,42,6300.78,264632.76,2024-03-02,2021-11-10,Kitchen,Level 4,Minor Clash,DateLogicError;,No Clash,Normal,6300.780000000001,False
+2$79709974$5116,Furniture 484,IfcFurniture,USERDEFINED,Wood - Teak,,,,m,85,5220.6,443751.0,2021-07-08,2021-11-03,,Level 0,Major Clash,,No Clash,Normal,5220.6,False
+2$30179511$8708,Slab 069,IfcSlab,STANDARD,Gypsum Board,,,,m,89,838.98,74669.22,2021-01-19,2025-02-21,Corridor,Level 1,No Clash,,No Clash,Normal,838.98,False
+2$89786327$3563,Roof 069,IfcRoof,USERDEFINED,Glass - Clear 6mm,,,,pcs,81,12966.57,1050292.17,2020-02-27,2022-02-28,Office,Level 4,,,Potential Clash (same type/material in room),Normal,12966.57,False
+2$59294789$7607,Roof 957,IfcRoof,USERDEFINED,Granite Slab,,,,m²,76,11374.5,864462.0,2021-09-16,2021-02-25,Bathroom,Level 4,Minor Clash,DateLogicError;,Potential Clash (same type/material in room),Normal,11374.5,False
+2$23733443$3075,Window 817,IfcWindow,,Epoxy Coating,,,,kg,50,81816.25,4090812.5,2023-09-14,2023-02-09,,Level 3,Minor Clash,DateLogicError;,No Clash,Anomaly,81816.25,True
+2$39050549$2496,Wall 952,IfcWall,,Porcelain Tile,,,,m,66,3294.1,217410.6,2024-12-05,2024-10-08,,Level 5,Major Clash,DateLogicError;,No Clash,Normal,3294.1,False
+2$42315990$7442,Column 387,IfcColumn,USERDEFINED,Brick Masonry,5120.0,,7.863,kg,11,6534.79,71882.69,2022-05-26,2021-11-11,Office,Level 2,,DateLogicError;,No Clash,Normal,6534.79,False
+2$75779236$5104,Column 702,IfcColumn,STANDARD,Glass - Clear 6mm,4170.6,,,m²,111,6796.74,754438.14,2024-02-06,2025-03-24,Corridor,Level 6,,,Potential Clash (same type/material in room),Normal,6796.74,False
+2$35633440$7266,Roof 384,IfcRoof,STANDARD,Paint - Acrylic Grey,,,,m,57,38203.76,2177614.32,2024-01-18,2025-11-24,Bathroom,Level 0,Major Clash,,No Clash,Normal,38203.759999999995,True
+2$59508547$5157,WindowStandardCase 515,IfcWindowStandardCase,STANDARD,Brick Masonry,,,,kg,35,4342.11,151973.85,2020-05-17,2023-01-31,,Level 6,No Clash,,No Clash,Normal,4342.110000000001,False
+2$46798988$1937,Railing 995,IfcRailing,,Marble Slab,,,,no,4,7063.73,28254.92,2025-04-12,2025-02-04,,Level 2,,DateLogicError;,No Clash,Normal,7063.73,False
+2$23943515$1625,Railing 379,IfcRailing,STANDARD,Paint - Acrylic Grey,,,,kg,115,10832.06,1245686.9,2021-09-19,2021-12-25,,Level 1,,,No Clash,Normal,10832.06,False
+2$17522634$8264,Space 653,IfcSpace,,Brick Masonry,,,,m²,41,6264.11,256828.51,2021-02-03,2023-02-10,Bathroom,Level 9,,,No Clash,Normal,6264.110000000001,False
+2$32711457$7000,WindowStandardCase 529,IfcWindowStandardCase,STANDARD,Wood - Oak,,,,set,52,2750.77,143040.04,2024-09-01,2020-09-08,Bedroom,Level 3,Minor Clash,DateLogicError;,No Clash,Normal,2750.77,False
+2$21270088$3827,Railing 455,IfcRailing,STANDARD,Marble Slab,,,,pcs,78,6325.33,493375.74,2022-03-24,2025-09-01,Lobby,Level 2,No Clash,,No Clash,Normal,6325.33,False
+2$85237007$6745,Window 121,IfcWindow,USERDEFINED,Marble Slab,,,,m³,73,19845.28,1448705.44,2020-12-18,2025-03-11,Bedroom,Level 1,,,No Clash,Normal,19845.28,False
+2$34918714$6201,Door 606,IfcDoor,,Reinforced Concrete,,,,m²,22,1294.05,28469.1,2020-02-12,2022-06-09,Corridor,Level 7,,,No Clash,Normal,1294.05,False
+2$51309843$4130,BuildingStorey 766,IfcBuildingStorey,,Porcelain Tile,,,,m,40,5842.19,233687.6,2020-08-06,2024-04-02,Office,Level 2,Major Clash,,No Clash,Normal,5842.1900000000005,False
+2$52351193$7782,Door 232,IfcDoor,STANDARD,Epoxy Coating,,,,pcs,26,1978.0,51428.0,2021-12-26,2023-04-23,Office,Level 7,Major Clash,,No Clash,Normal,1978.0,False
+2$57667842$6957,WallStandardCase 358,IfcWallStandardCase,,Glass - Tinted 8mm,,2.69,,set,56,23238.38,1301349.28,2023-11-21,2023-03-28,Bathroom,Level 5,,DateLogicError;,No Clash,Normal,23238.38,False
+2$38282626$5230,WallStandardCase 224,IfcWallStandardCase,USERDEFINED,Paint - Emulsion White,,,,kg,42,678.48,28496.16,2024-03-04,2024-03-27,,Level 5,No Clash,,No Clash,Normal,678.48,False
+2$11060092$3600,Covering 432,IfcCovering,USERDEFINED,Wood - Teak,,,,m,117,2376.54,278055.18,2024-01-06,2023-06-08,Kitchen,Level 7,Minor Clash,DateLogicError;,Potential Clash (same type/material in room),Normal,2376.54,False
+2$68922751$8478,Furniture 608,IfcFurniture,,Concrete C25/30,,,,set,112,8025.47,898852.64,2024-06-23,2025-04-23,Bathroom,Level 4,Major Clash,,Potential Clash (same type/material in room),Normal,8025.47,False
+2$74767783$7572,Roof 308,IfcRoof,STANDARD,Wood - Oak,,,,no,120,37615.87,4513904.4,2025-09-07,2021-03-17,Lobby,Level 6,Major Clash,DateLogicError;,Potential Clash (same type/material in room),Anomaly,37615.87,True
+2$89601320$1467,Roof 168,IfcRoof,,Steel - Galvanized,,10.4,,kg,90,4512.13,406091.7,2025-11-16,2022-03-23,Kitchen,Level 2,Major Clash,DateLogicError;,No Clash,Normal,4512.13,False
+2$22133101$6067,Furniture 812,IfcFurniture,STANDARD,Concrete C30/37,,,,no,89,2388.07,212538.23,2025-02-21,2024-06-09,,Level 7,No Clash,DateLogicError;,No Clash,Normal,2388.07,False
+2$36898109$3819,Covering 309,IfcCovering,USERDEFINED,AAC Block,,,,no,27,56698.57,1530861.39,2024-11-23,2021-01-04,Bathroom,Level 2,Major Clash,DateLogicError;,No Clash,Normal,56698.57,True
+2$31384884$6647,Wall 103,IfcWall,USERDEFINED,Glass - Tinted 8mm,4118.9,42.08,16.744,set,32,748.13,23940.16,2021-01-27,2024-05-06,Kitchen,Level 5,Minor Clash,,No Clash,Normal,748.13,False
+2$48009735$7956,Slab 612,IfcSlab,USERDEFINED,Wood - Oak,,,,m³,86,281.9,24243.4,2020-04-20,2022-06-27,Kitchen,Level 3,Major Clash,,Potential Clash (same type/material in room),Normal,281.90000000000003,False
+2$77304275$1026,WindowStandardCase 626,IfcWindowStandardCase,,Wood - Oak,,,,no,51,8708.19,444117.69,2020-11-12,2022-07-31,Kitchen,Level 7,Minor Clash,,No Clash,Normal,8708.19,False
+2$50525421$8133,Wall 096,IfcWall,USERDEFINED,Ceramic Tile,,25.83,,m²,34,2558.89,87002.26,2024-09-23,2022-01-05,Kitchen,Level 6,No Clash,DateLogicError;,No Clash,Normal,2558.89,False
+2$56477836$2661,Beam 672,IfcBeam,USERDEFINED,Reinforced Concrete,,,,kg,65,1302.96,84692.4,2024-04-21,2025-02-05,,Level 7,,,No Clash,Normal,1302.9599999999998,False
+2$50661866$7962,Slab 265,IfcSlab,,Concrete C30/37,,,,kg,48,12343.23,592475.04,2025-04-23,2023-10-04,Corridor,Level 1,,DateLogicError;,No Clash,Normal,12343.230000000001,False
+2$61468716$2310,Slab 154,IfcSlab,STANDARD,Paint - Acrylic Grey,,20.56,,m,66,6747.59,445340.94,2025-02-06,2024-11-16,Living Room,Level 7,Major Clash,DateLogicError;,Potential Clash (same type/material in room),Normal,6747.59,False
+2$75715873$8540,Wall 376,IfcWall,STANDARD,Brick Masonry,6290.7,15.51,,kg,35,2360.66,82623.1,2022-01-02,2023-04-16,Corridor,Level 6,No Clash,,No Clash,Normal,2360.6600000000003,False
+2$49954382$1583,Beam 611,IfcBeam,STANDARD,Wood - Oak,,,13.329,m,23,930.39,21398.97,2020-12-10,2025-12-31,Bedroom,Level 2,Minor Clash,,No Clash,Normal,930.3900000000001,False
+2$67861335$5500,Covering 354,IfcCovering,USERDEFINED,Glass - Tinted 8mm,,,,no,116,15278.39,1772293.24,2025-11-14,2025-02-20,Living Room,Level 1,Major Clash,DateLogicError;,No Clash,Normal,15278.39,True
+2$29696511$2656,WindowStandardCase 392,IfcWindowStandardCase,,Concrete C30/37,,,,set,11,11444.47,125889.17,2023-10-15,2023-05-21,Lobby,Level 6,No Clash,DateLogicError;,No Clash,Normal,11444.47,False
+2$97630141$2298,Door 857,IfcDoor,USERDEFINED,Marble Slab,,,,m²,25,4320.26,108006.5,2022-12-04,2023-05-26,Bathroom,Level 0,Major Clash,,No Clash,Normal,4320.26,False
+2$38884898$8158,Roof 282,IfcRoof,,Glass - Tinted 8mm,,,,pcs,65,54210.4,3523676.0,2020-07-06,2024-06-20,Kitchen,Level 4,Major Clash,,Potential Clash (same type/material in room),Anomaly,54210.4,True
+2$37801369$1306,Wall 801,IfcWall,USERDEFINED,Aluminum,4806.2,16.39,,m²,91,1222.79,111273.89,2023-08-22,2022-06-24,Bedroom,Level 9,Major Clash,DateLogicError;,Potential Clash (same type/material in room),Normal,1222.79,False
+2$88908503$7893,Railing 651,IfcRailing,,Glass - Clear 6mm,,,,pcs,70,676.42,47349.4,2024-05-12,2025-05-02,Living Room,Level 5,,,Potential Clash (same type/material in room),Normal,676.4200000000001,False
+2$69644085$3486,WindowStandardCase 474,IfcWindowStandardCase,,Wood - Teak,,,,m³,27,1999.23,53979.21,2025-12-20,2021-11-27,,Level 4,,DateLogicError;,No Clash,Normal,1999.23,False
+2$20550656$8971,Wall 575,IfcWall,USERDEFINED,Epoxy Coating,1131.8,18.59,11.342,m²,20,4631.97,92639.4,2021-11-13,2023-12-11,Lobby,Level 6,No Clash,,Potential Clash (same type/material in room),Normal,4631.969999999999,False
+2$84684043$9040,Furniture 241,IfcFurniture,USERDEFINED,Granite Slab,,,,kg,34,6743.55,229280.7,2024-03-30,2021-05-20,,Level 6,Minor Clash,DateLogicError;,No Clash,Normal,6743.55,False

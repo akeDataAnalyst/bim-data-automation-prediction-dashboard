@@ -1,0 +1,10 @@
+5. BIM Data Automation and Prediction DashboardDescription: A Python service that automates extraction from BIM files or APIs, applies ML for predictive validation (e.g., cost estimation), and outputs normalized data with automated reports.
+Problem: Handling BIM (Building Information Modeling) data involves complex semi-structured formats, with challenges in validation and prediction for interior projects, leading to overruns.
+Solution: Used libraries like ifcopenshell for BIM file parsing (or APIs for simulation). Transformed data with Pandas and applied ML (scikit-learn regression) for cost matching and validation. Integrated with PostgreSQL for storage and queries. Automated report generation using Dash for an interactive web dashboard, including export to CSV/PDF.
+Recommendation: As a "nice-to-have" booster, this directly nods to BIM/construction data. Demonstrate problem-solving by noting challenges overcome (e.g., handling large datasets). Portfolio advice: Host a live demo on Heroku; in your application, explain how it prepares you for collaborating with senior engineers on similar platforms.
+python streamlit scikit-learn machine-learning data-automation bim ifc construction-tech predictive-analytics anomaly-detection dashboard portfolio-project
+
+bim-data-automation-prediction-dashboard
+Automated BIM data extraction, validation, clash simulation, anomaly detection and cost/quantity prediction.
+
+python streamlit scikit-learn machine-learning data-automation bim ifc construction-tech predictive-analytics anomaly-detection dashboard portfolio-project
